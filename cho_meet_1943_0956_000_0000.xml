@@ -1,0 +1,182 @@
+<chapter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" contentType="speech" xsi:noNamespaceSchemaLocation="V:\Production\Chatham_House\Schema\chapter.xsd">
+	<metadataInfo>
+		<PSMID>cho_meet_1943_0956_000_0000</PSMID>
+		<language ocr="English" primary="Yes">English</language>
+		<productContentType>Meetings</productContentType>
+		<contentDate>
+			<contentComposed>Thursday, July 1st, 1943</contentComposed>
+			<contentDecade>1940-1949</contentDecade>
+			<contentYear>1943</contentYear>
+			<contentMonth>07</contentMonth>
+			<contentDay>01</contentDay>
+			<contentDateStart>1943-07-01</contentDateStart>
+			<contentDateEnd>1943-07-01</contentDateEnd>
+		</contentDate>
+		<chathamHouseRule>Yes</chathamHouseRule>
+		<ocr>80.95</ocr>
+		<sourceLibrary>
+			<libraryName>Chatham House</libraryName>
+			<libraryLocation>London, England</libraryLocation>
+			<copyrightStatement>Copyright Royal Institute of International Affairs</copyrightStatement>
+		</sourceLibrary>
+	</metadataInfo>
+	<citation>
+		<meeting>
+			<pubDate>
+				<composed>Thursday, July 1st, 1943</composed>
+				<year>1943</year>
+				<month>07</month>
+				<day>01</day>
+				<dayofweek>Thursday</dayofweek>
+				<pubDateStart>1943-07-01</pubDateStart>
+				<pubDateEnd>1943-07-01</pubDateEnd>
+			</pubDate>
+			<author role="author" type="Yes">
+				<aucomposed>The Right Hon. H. V. Evatt K. C., LL. D., M. P.</aucomposed>
+				<prefix>The Right Hon.</prefix>
+				<first>H.</first>
+				<middle>V.</middle>
+				<last>Evatt</last>
+				<suffix>K. C., LL. D., M. P.</suffix>
+			</author>
+			<titleGroup>
+				<fullTitle>British Commonwealth Relations</fullTitle>
+			</titleGroup>
+			<meetingGroup>
+				<meetingNumber>8/956</meetingNumber>
+				<sponsoringOrganisation>Chatham House</sponsoringOrganisation>
+				<meetingLocation>Chatham House</meetingLocation>
+				<meetingType>Speech</meetingType>
+			</meetingGroup>
+			<totalPages>1</totalPages>
+		</meeting>
+	</citation>
+	<page id="1" type="body_page" firstPage="Yes">
+		<pageImage pageIndicator="single" width="3400" height="5600" type="jpeg" colorimage="color" pagePosition="stand_alone">cho_meet_1943_0956_000_0001</pageImage>
+		<article id="1" type="article" level="1">
+			<clip pgref="1" clipref="1"/>
+			<articleInfo>
+				<ocr>80.95</ocr>
+				<startingColumn>A</startingColumn>
+				<pageCount>1</pageCount>
+			</articleInfo>
+			<text>
+				<textclip>
+					<articlePage pgref="1" clipref="1">cho_meet_1943_0956_000_0001</articlePage>
+					<p>
+						<word pos="566,446,714,496">THE</word>
+						<word pos="784,448,1030,498">ROYAL</word>
+						<word pos="1102,452,1492,502">INSTITUTE</word>
+						<word pos="1564,456,1656,506">OF</word>
+						<word pos="1728,458,2334,512">INTERNATIONAL</word>
+						<word pos="2406,464,2702,516">AFFAIRS</word>
+						<word pos="742,578,1004,630">Chatham</word>
+						<word pos="1052,582,1242,644">House,</word>
+						<word pos="1296,600,1368,646">10,</word>
+						<word pos="1418,584,1492,636">St.</word>
+						<word pos="1528,588,1754,650">James's</word>
+						<word pos="1802,590,2018,656">Square,</word>
+						<word pos="2068,592,2306,656">London,</word>
+						<word pos="2356,596,2522,646">S.W.i</word>
+						<word pos="2090,1070,2202,1118">HOT</word>
+						<word pos="2250,1072,2330,1118">"0</word>
+						<word pos="2372,1074,2448,1122">BE</word>
+						<word pos="2492,1072,2698,1122">TAM</word>
+						<word pos="2732,1076,2896,1126">AiifAY</word>
+						<word pos="1554,1258,1638,1308">AT</word>
+						<word pos="1680,1262,1798,1308">THJ</word>
+						<word pos="1842,1266,2122,1314">ISaiUST</word>
+						<word pos="2164,1270,2244,1314">Of</word>
+						<word pos="2288,1272,2404,1314">T'H-',</word>
+						<word pos="2448,1272,2644,1314">aT-'.IAir</word>
+						<word pos="2680,1278,2730,1314">:t?</word>
+						<word pos="1880,1364,1956,1412">KG</word>
+						<word pos="2004,1368,2244,1420">T-C03</word>
+						<word pos="2282,1344,2486,1422">I^PTT</word>
+						<word pos="1086,1666,1326,1714">RECORD</word>
+						<word pos="1414,1664,1488,1712">OF</word>
+						<word pos="1570,1662,1850,1712">M33TING</word>
+						<word pos="1936,1662,2014,1712">HE</word>
+						<word pos="2022,1664,2094,1714">ID</word>
+						<word pos="1572,1869,1650,1915">AT</word>
+						<word pos="1337,2065,1620,2114">CHATHAM</word>
+						<word pos="1700,2066,1896,2113">HOUSE</word>
+						<word pos="1584,2330,1662,2378">OF</word>
+						<word pos="1464,2487,1817,2549">Thursday,</word>
+						<word pos="618,2638,1141,2709">COK?IDaNTIAL_,_</word>
+						<word pos="1384,2615,1540,2677">July</word>
+						<word pos="1790,2619,1973,2681">19U3-</word>
+						<word pos="497,2731,802,2791">Subject:</word>
+						<word pos="934,2742,1216,2794">BRITISH</word>
+						<word pos="1258,2747,1744,2802">COMMONvI&#174;ALTH</word>
+						<word pos="1785,2757,2172,2810">RELATIONS.</word>
+						<word pos="2778,1944,2894,2026">/</word>
+						<word pos="496,3066,802,3126">Speaker:</word>
+						<word pos="928,3070,1050,3118">THE</word>
+						<word pos="1092,3076,1290,3124">RIGHT</word>
+						<word pos="1332,3078,1480,3130">HON.</word>
+						<word pos="1532,3082,1602,3132">H.</word>
+						<word pos="1654,3082,1722,3132">V.</word>
+						<word pos="1774,3086,2010,3146">EVATT,</word>
+						<word pos="2058,3092,2252,3150">K.C.,</word>
+						<word pos="2300,3096,2492,3148">LL.D.</word>
+						<word pos="2518,3130,2536,3158">,</word>
+						<word pos="2584,3102,2734,3154">M.P.</word>
+						<word pos="504,3401,840,3450">Chairman:</word>
+						<word pos="497,4137,773,4186">Members</word>
+						<word pos="817,4149,932,4186">are</word>
+						<word pos="980,4139,1300,4186">reminded</word>
+						<word pos="1345,4138,1501,4183">"that</word>
+						<word pos="1552,4139,1628,4185">in</word>
+						<word pos="1670,4147,1786,4195">any</word>
+						<word pos="1834,4149,1945,4183">use</word>
+						<word pos="1990,4138,2145,4185">made</word>
+						<word pos="2201,4137,2272,4183">of</word>
+						<word pos="2324,4137,2762,4185">information</word>
+						<word pos="2804,4137,3122,4185">received</word>
+						<word pos="501,4205,573,4254">at</word>
+						<word pos="620,4217,734,4265">any</word>
+						<word pos="777,4203,1058,4262">meeting</word>
+						<word pos="1110,4203,1177,4250">of</word>
+						<word pos="1225,4203,1337,4250">the</word>
+						<word pos="1393,4201,1742,4250">Institute</word>
+						<word pos="1792,4202,1902,4247">the</word>
+						<word pos="1956,4199,2310,4261">speaker's</word>
+						<word pos="2357,4214,2510,4249">name</word>
+						<word pos="2564,4201,2758,4249">shall</word>
+						<word pos="2802,4202,2920,4250">not</word>
+						<word pos="2965,4202,3038,4249">be</word>
+						<word pos="502,4271,737,4331">quoted</word>
+						<word pos="777,4282,897,4318">nor</word>
+						<word pos="942,4271,1053,4317">the</word>
+						<word pos="1104,4270,1257,4318">fact</word>
+						<word pos="1301,4270,1666,4318">mentioned</word>
+						<word pos="1712,4269,1866,4314">that</word>
+						<word pos="1913,4270,2025,4316">the</word>
+						<word pos="2078,4267,2518,4317">information</word>
+						<word pos="2556,4279,2674,4315">was</word>
+						<word pos="2728,4267,3041,4315">obtained</word>
+						<word pos="501,4338,573,4385">at</word>
+						<word pos="620,4350,654,4385">a</word>
+						<word pos="697,4337,977,4395">meeting</word>
+						<word pos="1028,4337,1098,4383">of</word>
+						<word pos="1145,4337,1256,4383">the</word>
+						<word pos="1313,4335,1700,4383">Institute.</word>
+						<word pos="586,4538,773,4586">These</word>
+						<word pos="826,4539,1218,4586">conditions</word>
+						<word pos="1266,4537,1464,4591">apply</word>
+						<word pos="1512,4534,1786,4591">equally</word>
+						<word pos="1833,4535,1909,4581">to</word>
+						<word pos="1960,4537,2397,4583">information</word>
+						<word pos="2445,4535,2762,4583">obtained</word>
+						<word pos="2805,4537,2966,4583">from</word>
+						<word pos="1264,4671,1548,4718">written</word>
+						<word pos="1589,4671,1865,4718">records</word>
+						<word pos="1920,4671,1989,4717">of</word>
+						<word pos="2032,4670,2388,4724">meetings.</word>
+					</p>
+				</textclip>
+			</text>
+		</article>
+	</page>
+</chapter>
