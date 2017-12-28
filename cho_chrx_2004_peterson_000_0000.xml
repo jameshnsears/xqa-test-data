@@ -1,0 +1,235 @@
+<chapter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" contentType="book" xsi:noNamespaceSchemaLocation="V:\Production\Chatham_House\Schema\chapterv2.xsd">
+	<metadataInfo>
+		<PSMID>cho_chrx_2004_peterson_000_0000</PSMID>
+		<language ocr="English" primary="Yes">English</language>
+		<productContentType>Pamphlets and Reports</productContentType>
+		<contentDate>
+			<contentComposed>February 2004</contentComposed>
+			<contentDecade>2000-2010</contentDecade>
+			<contentYear>2004</contentYear>
+			<contentMonth>02</contentMonth>
+			<contentDateStart>2004-02-01</contentDateStart>
+			<contentDateEnd>2004-02-28</contentDateEnd>
+		</contentDate>
+		<chathamHouseRule>No</chathamHouseRule>
+		<ocr>81.08</ocr>
+		<sourceLibrary>
+			<libraryName>Chatham House</libraryName>
+			<libraryLocation>London, England</libraryLocation>
+			<copyrightStatement>Copyright Royal Institute of International Affairs</copyrightStatement>
+		</sourceLibrary>
+	</metadataInfo>
+	<citation>
+		<book>
+			<pubDate>
+				<composed>February 2004</composed>
+				<year>2004</year>
+				<month>02</month>
+				<pubDateStart>2004-02-01</pubDateStart>
+				<pubDateEnd>2004-02-28</pubDateEnd>
+			</pubDate>
+			<author role="author" type="Yes">
+				<aucomposed>Luke Eric Peterson</aucomposed>
+				<first>Luke</first>
+				<middle>Eric</middle>
+				<last>Peterson</last>
+			</author>
+            <seriesGroup>
+                <seriesComposed>Sustainable Development Programme</seriesComposed>
+            <seriesTitle>Sustainable Development Programme</seriesTitle>
+			</seriesGroup>
+			<titleGroup>
+				<fullTitle>UK Bilateral Investment Treaty Programme and Sustainable Development: Implications of bilateral negotiations on investment regulation at a time when multilateral talks are faltering</fullTitle>
+			</titleGroup>
+			<imprint>
+				<imprintFull>The Royal Institute of International Affairs</imprintFull>
+				<imprintPublisher>The Royal Institute of International Affairs</imprintPublisher>
+			</imprint>
+			<publicationPlace>
+				<publicationPlaceCity>London</publicationPlaceCity>
+				<publicationPlaceCountry>UK</publicationPlaceCountry>
+				<publicationPlaceComposed>London, UK</publicationPlaceComposed>
+			</publicationPlace>
+			<totalPages>12</totalPages>
+		</book>
+	</citation>
+	<page id="1" type="body_page" firstPage="Yes">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2004_peterson_000_0001</pageImage>
+		<article id="1" type="article" level="1">
+			<clip pgref="1" clipref="1"/>
+			<clip pgref="2" clipref="2"/>
+			<clip pgref="3" clipref="3"/>
+			<clip pgref="4" clipref="4"/>
+			<clip pgref="5" clipref="5"/>
+			<clip pgref="6" clipref="6"/>
+			<clip pgref="7" clipref="7"/>
+			<clip pgref="8" clipref="8"/>
+			<clip pgref="9" clipref="9"/>
+			<clip pgref="10" clipref="10"/>
+			<clip pgref="11" clipref="11"/>
+			<clip pgref="12" clipref="12"/>
+			<illustration pgref="1" type="photograph" colorimage="color"/>
+			<articleInfo>
+				<ocr>81.08</ocr>
+				<startingColumn>A</startingColumn>
+				<pageCount>12</pageCount>
+			</articleInfo>
+			<text>
+				<textclip>
+					<articlePage pgref="1" clipref="1">cho_chrx_2004_peterson_000_0001</articlePage>
+					<p>
+						<word pos="1148,324,1272,372">THE</word>
+						<word pos="1300,323,1506,373">ROYAL</word>
+						<word pos="1532,323,1862,373">INSTITUTE</word>
+						<word pos="1888,323,1968,373">OF</word>
+						<word pos="1161,395,1680,445">INTERNATIONAL</word>
+						<word pos="1703,395,1964,445">AFFAIRS</word>
+						<word pos="2074,321,2421,368">Sustainable</word>
+						<word pos="2447,322,2836,379">Development</word>
+						<word pos="2076,398,2418,456">Programme</word>
+						<word pos="1354,1962,1848,2108">mm</word>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="2" clipref="2">cho_chrx_2004_peterson_000_0002</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="3" clipref="3">cho_chrx_2004_peterson_000_0003</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="4" clipref="4">cho_chrx_2004_peterson_000_0004</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="5" clipref="5">cho_chrx_2004_peterson_000_0005</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="6" clipref="6">cho_chrx_2004_peterson_000_0006</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="7" clipref="7">cho_chrx_2004_peterson_000_0007</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="8" clipref="8">cho_chrx_2004_peterson_000_0008</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="9" clipref="9">cho_chrx_2004_peterson_000_0009</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="10" clipref="10">cho_chrx_2004_peterson_000_0010</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="11" clipref="11">cho_chrx_2004_peterson_000_0011</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="12" clipref="12">cho_chrx_2004_peterson_000_0012</articlePage>
+					<p>
+						<word pos="516,4159,640,4207">THE</word>
+						<word pos="667,4158,874,4208">ROYAL</word>
+						<word pos="900,4158,1230,4208">INSTITUTE</word>
+						<word pos="1255,4158,1336,4208">OF</word>
+						<word pos="529,4229,1048,4279">INTERNATIONAL</word>
+						<word pos="1071,4229,1332,4279">AFFAIRS</word>
+						<word pos="1428,4152,1599,4184">Chatham</word>
+						<word pos="1619,4154,1734,4184">House</word>
+						<word pos="1766,4153,1807,4184">10</word>
+						<word pos="1823,4153,1856,4184">St</word>
+						<word pos="1871,4154,2011,4184">James's</word>
+						<word pos="2027,4153,2157,4192">Square</word>
+						<word pos="2189,4152,2330,4184">London</word>
+						<word pos="2361,4153,2550,4184">SW1Y4LE</word>
+						<word pos="1426,4207,1477,4239">Tel</word>
+						<word pos="1517,4208,1583,4239">020</word>
+						<word pos="1599,4208,1688,4239">7957</word>
+						<word pos="1706,4208,1795,4239">5700</word>
+						<word pos="1874,4207,1987,4239">E-mail</word>
+						<word pos="2004,4207,2319,4247">contact@riia.org</word>
+						<word pos="1429,4256,1490,4286">Fax</word>
+						<word pos="1517,4255,1583,4286">020</word>
+						<word pos="1599,4255,1688,4286">7957</word>
+						<word pos="1706,4255,1795,4286">5710</word>
+						<word pos="1870,4254,2024,4286">Website</word>
+						<word pos="2179,4254,2430,4294">www.riia.org</word>
+						<word pos="2609,4151,2747,4189">Charity</word>
+						<word pos="2765,4151,2996,4189">Registration</word>
+						<word pos="2611,4198,2771,4229">Number:</word>
+						<word pos="2787,4198,2939,4229">208223</word>
+					</p>
+				</textclip>
+			</text>
+		</article>
+	</page>
+	<page id="2" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2004_peterson_000_0002</pageImage>
+		<sourcePage>2</sourcePage>
+	</page>
+	<page id="3" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2004_peterson_000_0003</pageImage>
+		<sourcePage>3</sourcePage>
+	</page>
+	<page id="4" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2004_peterson_000_0004</pageImage>
+		<sourcePage>4</sourcePage>
+	</page>
+	<page id="5" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2004_peterson_000_0005</pageImage>
+		<sourcePage>5</sourcePage>
+	</page>
+	<page id="6" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2004_peterson_000_0006</pageImage>
+		<sourcePage>6</sourcePage>
+	</page>
+	<page id="7" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2004_peterson_000_0007</pageImage>
+		<sourcePage>7</sourcePage>
+	</page>
+	<page id="8" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2004_peterson_000_0008</pageImage>
+		<sourcePage>8</sourcePage>
+	</page>
+	<page id="9" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2004_peterson_000_0009</pageImage>
+		<sourcePage>9</sourcePage>
+	</page>
+	<page id="10" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2004_peterson_000_0010</pageImage>
+		<sourcePage>10</sourcePage>
+	</page>
+	<page id="11" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2004_peterson_000_0011</pageImage>
+		<sourcePage>11</sourcePage>
+	</page>
+	<page id="12" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2004_peterson_000_0012</pageImage>
+		<sourcePage>12</sourcePage>
+	</page>
+</chapter>

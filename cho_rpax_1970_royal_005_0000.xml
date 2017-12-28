@@ -1,0 +1,582 @@
+<chapter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" contentType="book" xsi:noNamespaceSchemaLocation="V:\Production\Chatham_House\Schema\chapter.xsd">
+	<metadataInfo>
+		<PSMID>cho_rpax_1970_royal_005_0000</PSMID>
+		<language ocr="English" primary="Yes">English</language>
+		<productContentType>Pamphlets and Reports</productContentType>
+		<contentDate>
+			<contentComposed>December 1966</contentComposed>
+			<contentDecade>1960-1969</contentDecade>
+			<contentYear>1966</contentYear>
+			<contentMonth>12</contentMonth>
+			<contentDateStart>1966-12-01</contentDateStart>
+			<contentDateEnd>1966-12-31</contentDateEnd>
+		</contentDate>
+		<chathamHouseRule>No</chathamHouseRule>
+		<ocr>82.31</ocr>
+		<sourceLibrary>
+			<libraryName>Chatham House</libraryName>
+			<libraryLocation>London, England</libraryLocation>
+			<copyrightStatement>Copyright Royal Institute of International Affairs</copyrightStatement>
+		</sourceLibrary>
+	</metadataInfo>
+	<citation>
+		<book>
+			<pubDate>
+				<composed>December 1966</composed>
+				<year>1966</year>
+				<month>12</month>
+				<pubDateStart>1966-12-01</pubDateStart>
+				<pubDateEnd>1966-12-31</pubDateEnd>
+			</pubDate>
+			<author role="author" type="Yes">
+				<aucomposed>Stanley Henig</aucomposed>
+				<first>Stanley</first>
+				<last>Henig</last>
+			</author>
+			<titleGroup>
+				<fullTitle>Register of Current Research into European Integration</fullTitle>
+			</titleGroup>
+			<imprint>
+				<imprintFull>Royal Institute of International Affairs</imprintFull>
+				<imprintPublisher>Royal Institute of International Affairs</imprintPublisher>
+			</imprint>
+			<publicationPlace>
+				<publicationPlaceCity>London</publicationPlaceCity>
+				<publicationPlaceCountry>UK</publicationPlaceCountry>
+				<publicationPlaceComposed>London, UK</publicationPlaceComposed>
+			</publicationPlace>
+			<totalPages>2</totalPages>
+		</book>
+	</citation>
+	<page id="1" type="body_page" firstPage="Yes">
+		<pageImage pageIndicator="single" width="3470" height="5390" type="jpeg" colorimage="color" pagePosition="right">cho_rpax_1970_royal_005_0001</pageImage>
+		<article id="1" type="article" level="1">
+			<clip pgref="1" clipref="1"/>
+			<clip pgref="2" clipref="2"/>
+			<articleInfo>
+				<ocr>82.31</ocr>
+				<startingColumn>A</startingColumn>
+				<pageCount>2</pageCount>
+			</articleInfo>
+			<text>
+				<textclip>
+					<articlePage pgref="1" clipref="1">cho_rpax_1970_royal_005_0001</articlePage>
+					<p>
+						<word pos="472,295,642,342">THE</word>
+						<word pos="718,295,1008,342">ROYAL</word>
+						<word pos="1083,295,1564,343">INSTITUTE</word>
+						<word pos="1640,294,1743,340">OF</word>
+						<word pos="1818,294,2576,342">INTERNATIONAL</word>
+						<word pos="2646,295,3006,344">AFFAIRS</word>
+						<word pos="942,420,1182,467">Chatham</word>
+						<word pos="1226,420,1408,473">House,</word>
+						<word pos="1457,420,1508,467">10</word>
+						<word pos="1545,420,1596,467">St</word>
+						<word pos="1629,418,1823,477">James's</word>
+						<word pos="1862,419,2062,481">Square,</word>
+						<word pos="2105,419,2322,472">London,</word>
+						<word pos="2362,419,2516,466">S.W.I</word>
+						<word pos="807,730,1088,775">Register</word>
+						<word pos="1121,730,1179,775">of</word>
+						<word pos="1212,732,1467,776">Current</word>
+						<word pos="1500,733,1808,777">Research</word>
+						<word pos="1836,732,1955,776">into</word>
+						<word pos="1988,734,2298,779">European</word>
+						<word pos="2328,733,2685,778">Integration</word>
+						<word pos="2832,730,2836,780">!</word>
+						<word pos="1287,802,1556,863">(seventh</word>
+						<word pos="1585,801,1781,866">issue)</word>
+						<word pos="2638,818,2673,840">^</word>
+						<word pos="2717,858,2726,863">.</word>
+						<word pos="402,1080,542,1130">FOR</word>
+						<word pos="592,1066,1014,1124">REFERENCE</word>
+						<word pos="1062,1058,1260,1112">ONLY</word>
+						<word pos="354,1142,508,1196">NOT</word>
+						<word pos="546,1142,644,1190">TO</word>
+						<word pos="684,1138,770,1186">BE</word>
+						<word pos="806,1130,1054,1184">TAKEN</word>
+						<word pos="1096,1122,1314,1176">AWAY</word>
+						<word pos="1623,961,1918,1018">compiled</word>
+						<word pos="1948,961,2021,1018">by</word>
+						<word pos="2050,961,2285,1018">Stanley</word>
+						<word pos="2314,964,2524,1022">Henig,</word>
+						<word pos="2567,963,2735,1009">M.P.</word>
+						<word pos="2778,964,2961,1012">under</word>
+						<word pos="2991,965,3086,1008">the</word>
+						<word pos="2213,1041,2493,1096">auspices</word>
+						<word pos="2530,1040,2587,1084">of</word>
+						<word pos="2615,1041,2709,1085">the</word>
+						<word pos="2744,1040,2872,1088">R.I.</word>
+						<word pos="2891,1041,2935,1087">I.</word>
+						<word pos="2953,1042,3024,1087">A.</word>
+						<word pos="427,1458,783,1504">Edinburgh:</word>
+						<word pos="844,1460,998,1504">Mrs.</word>
+						<word pos="1042,1461,1213,1506">A.M.</word>
+						<word pos="1259,1459,1453,1504">Stuart</word>
+						<word pos="1484,1462,1591,1504">and</word>
+						<word pos="1623,1462,1740,1507">Mr.</word>
+						<word pos="1787,1464,1854,1508">D.</word>
+						<word pos="1876,1463,1931,1510">S,</word>
+						<word pos="1976,1463,2223,1520">Mackay</word>
+						<word pos="2250,1464,2394,1507">have</word>
+						<word pos="2432,1462,2661,1507">started</word>
+						<word pos="2693,1463,2809,1509">LL.</word>
+						<word pos="2830,1464,2912,1510">M.</word>
+						<word pos="426,1533,858,1579">dissertations</word>
+						<word pos="893,1549,963,1579">on</word>
+						<word pos="1001,1535,1478,1581">'Constitutional</word>
+						<word pos="1512,1539,1641,1582">Law</word>
+						<word pos="1673,1539,1780,1581">and</word>
+						<word pos="1810,1539,1904,1582">the</word>
+						<word pos="1937,1541,2248,1597">European</word>
+						<word pos="2282,1539,2789,1585">Communities'.'</word>
+						<word pos="429,1687,770,1731">Leicester:</word>
+						<word pos="819,1688,986,1736">M.A.</word>
+						<word pos="1031,1689,1461,1733">dissertations</word>
+						<word pos="1495,1691,1639,1735">have</word>
+						<word pos="1675,1690,1945,1746">recently</word>
+						<word pos="1973,1690,2121,1734">been</word>
+						<word pos="2151,1692,2483,1749">completed</word>
+						<word pos="2514,1692,2586,1749">by</word>
+						<word pos="430,1764,546,1811">Mr.</word>
+						<word pos="596,1766,646,1811">J.</word>
+						<word pos="670,1766,736,1811">T.</word>
+						<word pos="787,1765,1089,1810">Anderson</word>
+						<word pos="1120,1780,1190,1809">on</word>
+						<word pos="1227,1765,1530,1825">'Nigerian</word>
+						<word pos="1559,1767,1944,1812">Association</word>
+						<word pos="1971,1768,2107,1811">with</word>
+						<word pos="2136,1768,2230,1811">the</word>
+						<word pos="2263,1770,2508,1816">E.E.C.</word>
+						<word pos="2534,1767,2570,1822">f;</word>
+						<word pos="2629,1770,2747,1814">Mr.</word>
+						<word pos="2794,1770,2859,1815">R.</word>
+						<word pos="2879,1768,2960,1815">W.</word>
+						<word pos="430,1842,688,1886">Cornish</word>
+						<word pos="718,1856,789,1885">on</word>
+						<word pos="825,1841,1079,1888">'Sweden</word>
+						<word pos="1108,1845,1214,1888">and</word>
+						<word pos="1244,1846,1556,1902">European</word>
+						<word pos="1584,1844,1990,1904">Integration1;</word>
+						<word pos="2050,1845,2157,1889">and</word>
+						<word pos="2188,1846,2307,1891">Mr.</word>
+						<word pos="2351,1847,2420,1891">E.</word>
+						<word pos="2466,1846,2660,1890">Solem</word>
+						<word pos="2691,1859,2762,1889">on</word>
+						<word pos="2798,1844,2934,1889">'The</word>
+						<word pos="429,1920,646,1964">Nordic</word>
+						<word pos="684,1920,973,1969">Council',</word>
+						<word pos="429,2072,687,2119">London.</word>
+						<word pos="731,2075,798,2119">L.</word>
+						<word pos="818,2074,873,2119">S.</word>
+						<word pos="893,2075,996,2119">E.:</word>
+						<word pos="1058,2075,1174,2120">Mr.</word>
+						<word pos="1220,2075,1288,2120">F.</word>
+						<word pos="1335,2075,1552,2132">Taylor</word>
+						<word pos="1585,2076,1639,2119">is</word>
+						<word pos="1670,2076,1930,2134">working</word>
+						<word pos="1964,2090,2034,2120">on</word>
+						<word pos="2064,2089,2280,2133">papers</word>
+						<word pos="2315,2088,2387,2119">on</word>
+						<word pos="2422,2074,2838,2132">'Community,</word>
+						<word pos="431,2149,825,2195">Nationalism</word>
+						<word pos="855,2152,962,2196">and</word>
+						<word pos="998,2165,1162,2195">some</word>
+						<word pos="1196,2153,1566,2209">operational</word>
+						<word pos="1599,2159,1878,2211">concepts</word>
+						<word pos="1911,2154,2006,2197">for</word>
+						<word pos="2037,2154,2331,2211">detecting</word>
+						<word pos="2366,2153,2670,2211">emerging</word>
+						<word pos="2704,2151,3064,2207">community</word>
+						<word pos="427,2227,487,2270">in</word>
+						<word pos="515,2227,801,2286">Europe1,</word>
+						<word pos="843,2230,951,2273">and</word>
+						<word pos="988,2228,1124,2274">'The</word>
+						<word pos="1158,2237,1404,2287">present</word>
+						<word pos="1434,2231,1694,2288">position</word>
+						<word pos="1724,2232,1782,2275">of</word>
+						<word pos="1810,2232,1904,2275">the</word>
+						<word pos="1938,2230,2560,2289">Secretary-General</word>
+						<word pos="2591,2230,2649,2274">of</word>
+						<word pos="2677,2232,2770,2275">the</word>
+						<word pos="2807,2228,3050,2274">Council</word>
+						<word pos="428,2303,487,2348">of</word>
+						<word pos="514,2306,798,2364">Europe'.</word>
+						<word pos="429,2459,707,2504">Reading:</word>
+						<word pos="768,2460,921,2504">Miss</word>
+						<word pos="958,2461,1111,2506">C.A.</word>
+						<word pos="1161,2462,1463,2519">Cosgrove</word>
+						<word pos="1496,2462,1550,2505">is</word>
+						<word pos="1582,2462,1816,2519">writing</word>
+						<word pos="1850,2476,1880,2505">a</word>
+						<word pos="1914,2461,2105,2506">Ph.D.</word>
+						<word pos="2149,2461,2343,2504">thesis</word>
+						<word pos="2378,2474,2449,2504">on</word>
+						<word pos="2484,2461,2621,2505">'The</word>
+						<word pos="2653,2461,2899,2508">E.E.C.</word>
+						<word pos="2944,2461,3051,2505">and</word>
+						<word pos="426,2533,684,2582">Africa'.</word>
+						<word pos="782,2529,946,2590">(This</word>
+						<word pos="984,2539,1349,2594">supersedes</word>
+						<word pos="1382,2540,1489,2582">her</word>
+						<word pos="1519,2539,1682,2582">work</word>
+						<word pos="1711,2538,2059,2595">previously</word>
+						<word pos="2086,2538,2270,2582">listed</word>
+						<word pos="2303,2552,2372,2582">on</word>
+						<word pos="2403,2539,2671,2585">Austria.</word>
+						<word pos="2695,2531,2711,2596">)</word>
+						<word pos="428,2687,686,2738">Salford,</word>
+						<word pos="733,2690,972,2739">College</word>
+						<word pos="1006,2691,1064,2733">of</word>
+						<word pos="1094,2692,1402,2736">Advanced</word>
+						<word pos="1437,2695,1827,2741">Technology:</word>
+						<word pos="1889,2696,2006,2742">Mr.</word>
+						<word pos="2051,2697,2119,2742">D.</word>
+						<word pos="2168,2696,2357,2739">Bowie</word>
+						<word pos="2390,2695,2443,2738">is</word>
+						<word pos="2475,2695,2709,2753">writing</word>
+						<word pos="2742,2709,2814,2739">an</word>
+						<word pos="2843,2694,3036,2740">M.Sc.</word>
+						<word pos="426,2766,826,2810">dissertation</word>
+						<word pos="855,2781,925,2810">on</word>
+						<word pos="963,2767,1099,2811">'The</word>
+						<word pos="1132,2768,1327,2813">Effect</word>
+						<word pos="1358,2771,1418,2814">of</word>
+						<word pos="1448,2770,1643,2814">Tariff</word>
+						<word pos="1674,2772,1928,2830">changes</word>
+						<word pos="1963,2772,2021,2814">in</word>
+						<word pos="2050,2772,2384,2819">E.F.T.A.</word>
+						<word pos="2427,2784,2573,2827">upon</word>
+						<word pos="2602,2771,2772,2814">trade</word>
+						<word pos="2805,2775,3071,2827">patterns</word>
+						<word pos="428,2844,545,2890">Mr.</word>
+						<word pos="591,2843,759,2892">E.W.</word>
+						<word pos="807,2845,1114,2889">Brassloff</word>
+						<word pos="1143,2846,1197,2889">is</word>
+						<word pos="1230,2848,1488,2905">working</word>
+						<word pos="1522,2862,1593,2891">on</word>
+						<word pos="1630,2846,1765,2891">'The</word>
+						<word pos="1799,2849,2204,2905">Implications</word>
+						<word pos="2240,2849,2298,2893">of</word>
+						<word pos="2327,2848,2688,2906">Integration</word>
+						<word pos="2718,2849,2824,2892">and</word>
+						<word pos="427,2920,901,2981">Disintegration</word>
+						<word pos="928,2922,1023,2967">for</word>
+						<word pos="1056,2924,1341,2969">Austrian</word>
+						<word pos="1370,2926,1689,2969">Economic</word>
+						<word pos="1724,2926,2031,2970">Structure</word>
+						<word pos="2064,2927,2170,2970">and</word>
+						<word pos="2202,2925,2457,2982">Policy'.</word>
+						<word pos="428,3073,731,3120">Sheffield:</word>
+						<word pos="793,3078,897,3122">Dr.</word>
+						<word pos="943,3077,998,3122">S.</word>
+						<word pos="1020,3078,1086,3123">C.</word>
+						<word pos="1131,3078,1264,3121">Holt</word>
+						<word pos="1295,3078,1349,3122">is</word>
+						<word pos="1381,3078,1613,3136">writing</word>
+						<word pos="1648,3093,1678,3122">a</word>
+						<word pos="1710,3080,1858,3121">book</word>
+						<word pos="1885,3085,1942,3122">to</word>
+						<word pos="1974,3079,2042,3122">be</word>
+						<word pos="2075,3079,2383,3136">published</word>
+						<word pos="2414,3078,2486,3135">by</word>
+						<word pos="2514,3079,2762,3122">Hamish</word>
+						<word pos="2791,3076,3089,3121">Hamilton</word>
+						<word pos="428,3151,672,3196">entitled</word>
+						<word pos="712,3151,847,3197">'The</word>
+						<word pos="885,3154,1164,3198">Common</word>
+						<word pos="1196,3156,1428,3199">Market</word>
+						<word pos="1458,3155,1517,3198">in</word>
+						<word pos="1547,3155,1783,3212">Theory</word>
+						<word pos="1811,3156,1918,3199">and</word>
+						<word pos="1949,3155,2281,3201">Practice'.</word>
+						<word pos="426,3304,668,3351">Sussex:</word>
+						<word pos="727,3309,846,3354">Mr.</word>
+						<word pos="897,3311,947,3355">J.</word>
+						<word pos="970,3311,1035,3356">R.</word>
+						<word pos="1081,3310,1335,3367">Fhillips</word>
+						<word pos="1370,3310,1423,3353">is</word>
+						<word pos="1455,3310,1689,3368">writing</word>
+						<word pos="1723,3324,1755,3353">a</word>
+						<word pos="1786,3310,1853,3355">D.</word>
+						<word pos="1900,3309,2054,3353">Phil,</word>
+						<word pos="2098,3310,2292,3353">thesis</word>
+						<word pos="2328,3323,2398,3352">on</word>
+						<word pos="2435,3308,2586,3354">'New</word>
+						<word pos="2623,3309,2873,3354">Zealand</word>
+						<word pos="2906,3308,3012,3352">and</word>
+						<word pos="424,3383,520,3427">the</word>
+						<word pos="552,3385,945,3442">negotiations</word>
+						<word pos="980,3400,1051,3429">on</word>
+						<word pos="1084,3388,1315,3432">British</word>
+						<word pos="1346,3393,1517,3445">entry</word>
+						<word pos="1546,3389,1664,3432">into</word>
+						<word pos="1697,3389,1790,3431">the</word>
+						<word pos="1824,3387,2067,3434">E.E.C.</word>
+						<word pos="2118,3383,2383,3435">1961-3'.</word>
+						<word pos="2479,3390,2596,3435">Mr.</word>
+						<word pos="2641,3390,2709,3434">N.</word>
+						<word pos="2753,3388,3038,3444">Despicht</word>
+						<word pos="426,3460,482,3505">is</word>
+						<word pos="513,3461,745,3520">writing</word>
+						<word pos="779,3476,810,3506">a</word>
+						<word pos="841,3463,909,3509">D.</word>
+						<word pos="954,3463,1110,3508">Phil,</word>
+						<word pos="1155,3465,1348,3510">thesis</word>
+						<word pos="1384,3479,1455,3509">on</word>
+						<word pos="1490,3464,2004,3509">'Administrative</word>
+						<word pos="2036,3465,2291,3522">Aspects</word>
+						<word pos="2328,3465,2385,3508">of</word>
+						<word pos="2418,3466,2700,3525">Regional</word>
+						<word pos="2729,3465,2940,3522">Policy</word>
+						<word pos="2968,3465,3028,3507">in</word>
+						<word pos="429,3538,661,3583">Britain</word>
+						<word pos="692,3540,798,3584">and</word>
+						<word pos="827,3541,923,3584">the</word>
+						<word pos="953,3541,1264,3598">European</word>
+						<word pos="1300,3542,1715,3600">Community'.</word>
+						<word pos="1811,3543,1917,3589">Dr.</word>
+						<word pos="1963,3543,2083,3601">Guy</word>
+						<word pos="2115,3543,2297,3587">Routh</word>
+						<word pos="2327,3542,2380,3585">is</word>
+						<word pos="2414,3544,2672,3602">working</word>
+						<word pos="2705,3557,2775,3586">on</word>
+						<word pos="435,3614,726,3675">'Industry</word>
+						<word pos="753,3618,812,3661">in</word>
+						<word pos="840,3619,934,3661">the</word>
+						<word pos="972,3619,1252,3663">Common</word>
+						<word pos="1283,3620,1564,3668">Market'.</word>
+						<word pos="425,3770,694,3817">Institute</word>
+						<word pos="728,3773,787,3817">of</word>
+						<word pos="818,3774,1109,3820">Strategic</word>
+						<word pos="1144,3774,1398,3821">Studies:</word>
+						<word pos="1444,3777,1491,3818">A</word>
+						<word pos="1520,3777,1715,3831">major</word>
+						<word pos="1750,3777,2046,3820">research</word>
+						<word pos="2076,3776,2309,3832">project</word>
+						<word pos="2340,3788,2410,3817">on</word>
+						<word pos="2438,3776,2533,3818">the</word>
+						<word pos="2566,3776,2875,3829">European</word>
+						<word pos="426,3857,794,3896">armaments</word>
+						<word pos="829,3851,1160,3897">industries</word>
+						<word pos="1194,3853,1248,3896">is</word>
+						<word pos="1283,3853,1526,3911">nearing</word>
+						<word pos="1560,3853,1942,3909">completion.</word>
+						<word pos="2038,3854,2083,3896">It</word>
+						<word pos="2114,3854,2165,3896">is</word>
+						<word pos="2201,3852,2371,3909">being</word>
+						<word pos="2403,3851,2723,3895">conducted</word>
+						<word pos="2753,3851,2826,3907">by</word>
+						<word pos="425,3924,544,3969">Mr.</word>
+						<word pos="594,3928,737,3971">John</word>
+						<word pos="769,3929,1052,3973">Calmann</word>
+						<word pos="1082,3931,1188,3974">and</word>
+						<word pos="1220,3931,1336,3976">Mr.</word>
+						<word pos="1387,3930,1778,3987">Christopher</word>
+						<word pos="1810,3930,2045,3973">Harlow</word>
+						<word pos="2077,3930,2182,3973">and</word>
+						<word pos="2212,3928,2335,3971">will</word>
+						<word pos="2366,3928,2495,3972">also</word>
+						<word pos="2529,3928,2760,3972">involve</word>
+						<word pos="2793,3942,2824,3971">a</word>
+						<word pos="426,4002,783,4048">conference</word>
+						<word pos="817,4005,875,4048">of</word>
+						<word pos="906,4013,1174,4063">experts.</word>
+						<word pos="1273,4008,1387,4050">The</word>
+						<word pos="1426,4007,1593,4065">study</word>
+						<word pos="1622,4008,1676,4051">is</word>
+						<word pos="1711,4007,1906,4051">aimed</word>
+						<word pos="1936,4012,1994,4050">at</word>
+						<word pos="2025,4006,2369,4064">identifying</word>
+						<word pos="2402,4006,2496,4048">the</word>
+						<word pos="2533,4006,2725,4056">scale,</word>
+						<word pos="2767,4002,3038,4060">potential</word>
+						<word pos="426,4079,533,4122">and</word>
+						<word pos="566,4083,870,4126">economic</word>
+						<word pos="908,4084,1299,4141">significance</word>
+						<word pos="1332,4083,1390,4126">of</word>
+						<word pos="1419,4085,1588,4127">these</word>
+						<word pos="1622,4085,1979,4131">industries.</word>
+						<word pos="2080,4085,2195,4127">The</word>
+						<word pos="2226,4083,2423,4130">I.S.S.</word>
+						<word pos="2464,4083,2587,4125">will</word>
+						<word pos="2620,4086,2824,4139">report</word>
+						<word pos="2855,4094,2926,4124">on</word>
+						<word pos="2954,4080,3048,4124">the</word>
+						<word pos="424,4154,761,4214">feasibility</word>
+						<word pos="791,4157,849,4200">of</word>
+						<word pos="879,4173,910,4202">a</word>
+						<word pos="941,4160,1253,4216">European</word>
+						<word pos="1286,4166,1516,4217">system</word>
+						<word pos="1546,4161,1604,4204">of</word>
+						<word pos="1635,4167,2003,4206">armaments</word>
+						<word pos="2037,4161,2386,4218">production</word>
+						<word pos="2416,4173,2483,4203">or</word>
+						<word pos="2517,4174,2547,4204">a</word>
+						<word pos="2578,4160,2890,4216">European</word>
+						<word pos="428,4234,723,4278">research</word>
+						<word pos="754,4234,860,4276">and</word>
+						<word pos="891,4234,1302,4291">development</word>
+						<word pos="1333,4239,1714,4294">community.</word>
+						<word pos="677,4309,858,4353">Other</word>
+						<word pos="896,4310,1121,4354">studies</word>
+						<word pos="1157,4311,1215,4354">in</word>
+						<word pos="1244,4326,1537,4371">progress</word>
+						<word pos="1572,4314,1803,4358">include</word>
+						<word pos="1843,4313,1978,4355">'The</word>
+						<word pos="2015,4311,2500,4371">reorganisation</word>
+						<word pos="2529,4309,2587,4354">of</word>
+						<word pos="2618,4309,2985,4357">N.A.T.O.'</word>
+						<word pos="427,4386,534,4429">and</word>
+						<word pos="572,4385,708,4430">'The</word>
+						<word pos="739,4387,1151,4445">development</word>
+						<word pos="1182,4389,1241,4432">of</word>
+						<word pos="1269,4390,1616,4434">East-West</word>
+						<word pos="1650,4390,1940,4434">relations</word>
+						<word pos="1975,4389,2034,4434">in</word>
+						<word pos="2064,4389,2345,4446">Europe'.</word>
+						<word pos="427,4540,661,4587">Britain</word>
+						<word pos="690,4543,750,4587">in</word>
+						<word pos="778,4545,1034,4590">Europe:</word>
+						<word pos="1093,4546,1139,4589">A</word>
+						<word pos="1174,4546,1342,4602">study</word>
+						<word pos="1371,4546,1424,4589">is</word>
+						<word pos="1459,4546,1626,4604">being</word>
+						<word pos="1659,4547,2022,4591">undertaken</word>
+						<word pos="2052,4547,2110,4590">of</word>
+						<word pos="2146,4545,2472,4589">'Advanced</word>
+						<word pos="2508,4542,2875,4600">Technology</word>
+						<word pos="2905,4542,2964,4584">in</word>
+						<word pos="429,4618,611,4663">North</word>
+						<word pos="639,4619,925,4667">America</word>
+						<word pos="956,4624,1063,4667">and</word>
+						<word pos="1094,4621,1377,4679">Europe'.</word>
+						<word pos="136,5078,568,5166">-K-V\.h</word>
+						<word pos="174,5176,320,5272">(*ro</word>
+						<word pos="342,5180,358,5272">\</word>
+						<word pos="378,5208,422,5276">&amp;</word>
+						<word pos="440,5198,532,5284">er)</word>
+						<word pos="1614,4734,1660,4832">i-</word>
+						<word pos="1680,4792,1720,4832">o</word>
+						<word pos="1822,4754,2000,4828">&lt;k.Oi/V</word>
+						<word pos="1616,4878,1860,4954">Fs.U.</word>
+					</p>
+					<marginalia>London R.I.I.A ., December 1966 &#8211; R.I.I.A REF (Folder)</marginalia>
+				</textclip>
+				<textclip>
+					<articlePage pgref="2" clipref="2">cho_rpax_1970_royal_005_0002</articlePage>
+					<p>
+						<word pos="1589,311,1612,321">-</word>
+						<word pos="1649,295,1676,336">2</word>
+						<word pos="1714,312,1738,321">-</word>
+						<word pos="481,851,764,899">Political</word>
+						<word pos="796,855,904,898">and</word>
+						<word pos="934,856,1252,902">Economic</word>
+						<word pos="1286,860,1590,920">Planning:</word>
+						<word pos="1651,865,1755,910">Dr.</word>
+						<word pos="1801,866,1870,912">D.</word>
+						<word pos="1892,867,1957,912">L.</word>
+						<word pos="2006,867,2295,913">Coombes</word>
+						<word pos="2334,863,2637,934">(Reading)</word>
+						<word pos="2669,878,2720,922">is</word>
+						<word pos="477,929,735,988">working</word>
+						<word pos="769,944,839,974">on</word>
+						<word pos="878,932,1013,976">'The</word>
+						<word pos="1046,934,1355,993">European</word>
+						<word pos="1389,939,1543,985">Civil</word>
+						<word pos="1574,941,1868,990">Service1.</word>
+						<word pos="1968,945,2105,988">This</word>
+						<word pos="2139,946,2260,990">will</word>
+						<word pos="2291,948,2358,991">be</word>
+						<word pos="2392,964,2422,994">a</word>
+						<word pos="2458,953,2626,1010">study</word>
+						<word pos="2655,954,2713,998">of</word>
+						<word pos="476,1005,571,1050">the</word>
+						<word pos="609,1005,1014,1055">Commission</word>
+						<word pos="1045,1010,1103,1054">of</word>
+						<word pos="1131,1013,1224,1057">the</word>
+						<word pos="1257,1014,1500,1064">E.E.C.</word>
+						<word pos="1598,1019,1716,1065">Mr.</word>
+						<word pos="1760,1020,1829,1067">G.</word>
+						<word pos="1851,1021,1917,1066">R.</word>
+						<word pos="1962,1021,2184,1067">Denton</word>
+						<word pos="2217,1016,2521,1086">(Reading)</word>
+						<word pos="2553,1030,2606,1073">is</word>
+						<word pos="475,1082,733,1144">working</word>
+						<word pos="767,1098,836,1130">on</word>
+						<word pos="875,1085,1011,1130">'The</word>
+						<word pos="1044,1089,1301,1135">Medium</word>
+						<word pos="1333,1093,1515,1138">Term</word>
+						<word pos="1545,1095,1864,1141">Economic</word>
+						<word pos="1898,1097,2108,1156">Policy</word>
+						<word pos="2138,1099,2196,1143">of</word>
+						<word pos="2224,1102,2318,1145">the</word>
+						<word pos="2351,1103,2505,1151">E.E.</word>
+						<word pos="2531,1106,2632,1156">C.'.</word>
+						<word pos="476,1236,658,1284">Royal</word>
+						<word pos="688,1240,957,1287">Institute</word>
+						<word pos="991,1242,1050,1285">of</word>
+						<word pos="1078,1244,1502,1290">International</word>
+						<word pos="1532,1246,1785,1291">Affairs;</word>
+						<word pos="1863,1251,1978,1294">The</word>
+						<word pos="2015,1253,2182,1308">study</word>
+						<word pos="2210,1255,2282,1310">by</word>
+						<word pos="2312,1257,2417,1302">Dr.</word>
+						<word pos="2463,1259,2530,1303">D.</word>
+						<word pos="2554,1259,2618,1304">L,.</word>
+						<word pos="475,1313,834,1361">McLachlan</word>
+						<word pos="865,1318,971,1362">and</word>
+						<word pos="1003,1320,1107,1366">Dr.</word>
+						<word pos="1153,1322,1222,1365">D.</word>
+						<word pos="1269,1321,1465,1365">Swann</word>
+						<word pos="1493,1335,1565,1367">on</word>
+						<word pos="1602,1322,2018,1380">'Competition</word>
+						<word pos="2049,1327,2257,1386">Policy</word>
+						<word pos="2286,1330,2345,1372">in</word>
+						<word pos="2374,1332,2467,1374">the</word>
+						<word pos="2500,1334,2810,1390">European</word>
+						<word pos="476,1389,866,1451">Community*</word>
+						<word pos="926,1396,1043,1440">The</word>
+						<word pos="1079,1397,1258,1441">Rules</word>
+						<word pos="1292,1397,1352,1440">in</word>
+						<word pos="1382,1398,1615,1456">Theory</word>
+						<word pos="1645,1401,1753,1443">and</word>
+						<word pos="1783,1401,2089,1446">Practice'</word>
+						<word pos="2120,1405,2242,1449">will</word>
+						<word pos="2273,1406,2341,1449">be</word>
+						<word pos="2374,1407,2682,1462">published</word>
+						<word pos="473,1465,532,1511">in</word>
+						<word pos="566,1464,730,1516">1967.</word>
+						<word pos="1612,3046,1849,3105">Stanley</word>
+						<word pos="1875,3049,2057,3106">Henig</word>
+						<word pos="1952,3241,2233,3285">Chatham</word>
+						<word pos="2263,3243,2486,3295">House,</word>
+						<word pos="1104,3338,1119,3352">*</word>
+						<word pos="1966,3320,2030,3363">10</word>
+						<word pos="2062,3321,2142,3368">St.</word>
+						<word pos="2192,3321,2455,3367">James's</word>
+						<word pos="2490,3322,2736,3382">Square,</word>
+						<word pos="445,3393,779,3440">December</word>
+						<word pos="818,3391,954,3440">1966</word>
+						<word pos="1974,3398,2231,3447">London,</word>
+						<word pos="2275,3399,2505,3447">S.W.I.</word>
+						<word pos="449,3472,482,3514">.i</word>
+						<word pos="531,3520,537,3528">_</word>
+						<word pos="620,3506,627,3512">&#8226;</word>
+						<word pos="662,3490,671,3514">&gt;</word>
+						<word pos="707,3490,722,3517">i</word>
+						<word pos="758,3476,773,3518">i</word>
+						<word pos="803,3506,810,3516">.</word>
+						<word pos="715,3565,744,3591">c&gt;</word>
+						<word pos="1241,3576,1248,3589">&#8226;</word>
+						<word pos="1302,3564,1309,3571">&#9632;</word>
+					</p>
+				</textclip>
+			</text>
+		</article>
+	</page>
+	<page id="2" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3496" height="5400" type="jpeg" colorimage="color" pagePosition="left">cho_rpax_1970_royal_005_0002</pageImage>
+		<sourcePage>2</sourcePage>
+	</page>
+</chapter>

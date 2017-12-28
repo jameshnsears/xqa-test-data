@@ -1,0 +1,248 @@
+<chapter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" contentType="speech" xsi:noNamespaceSchemaLocation="V:\Production\Chatham_House\Schema\chapterv2.xsd">
+	<metadataInfo>
+		<PSMID>cho_meet_1997_5847_000_0000</PSMID>
+		<language ocr="English" primary="Yes">English</language>
+		<productContentType>Meetings</productContentType>
+		<contentDate>
+			<contentComposed>Monday, 6th October 1997</contentComposed>
+			<contentDecade>1990-1999</contentDecade>
+			<contentYear>1997</contentYear>
+			<contentMonth>10</contentMonth>
+			<contentDay>06</contentDay>
+			<contentDateStart>1997-10-06</contentDateStart>
+			<contentDateEnd>1997-10-06</contentDateEnd>
+		</contentDate>
+		<chathamHouseRule>No</chathamHouseRule>
+		<ocr>85.05</ocr>
+		<sourceLibrary>
+			<libraryName>Chatham House</libraryName>
+			<libraryLocation>London, England</libraryLocation>
+			<copyrightStatement>Copyright Royal Institute of International Affairs</copyrightStatement>
+		</sourceLibrary>
+		<relatedMedia id="cho_meet_1997_5847_000_0000.mp3" mediaType="Audio" dataType="mp3" duration="0.40"/>
+	</metadataInfo>
+	<citation>
+		<meeting>
+			<pubDate>
+				<composed>Monday, 6th October 1997</composed>
+				<year>1997</year>
+				<month>10</month>
+				<day>06</day>
+				<dayofweek>Monday</dayofweek>
+				<pubDateStart>1997-10-06</pubDateStart>
+				<pubDateEnd>1997-10-06</pubDateEnd>
+			</pubDate>
+			<author role="author" type="Yes">
+				<aucomposed>Hocine Ait Ahmed</aucomposed>
+				<first>Hocine</first>
+				<middle>Ait</middle>
+				<last>Ahmed</last>
+			</author>
+			<author role="author" type="Yes">
+				<aucomposed>Mike Gapes</aucomposed>
+				<first>Mike</first>
+				<last>Gapes</last>
+			</author>
+			<titleGroup>
+				<fullTitle>Democracy and Social Justice in North Africa</fullTitle>
+			</titleGroup>
+			<meetingGroup>
+				<meetingNumber>8/5847</meetingNumber>
+				<sponsoringOrganisation>Chatham House</sponsoringOrganisation>
+				<meetingLocation>Chatham House</meetingLocation>
+				<meetingType>Speech</meetingType>
+			</meetingGroup>
+			<totalPages>1</totalPages>
+		</meeting>
+	</citation>
+	<page id="1" type="body_page" firstPage="Yes">
+		<pageImage pageIndicator="single" width="3307" height="4678" type="jpeg" colorimage="color" pagePosition="stand_alone">cho_meet_1997_5847_000_0001</pageImage>
+		<sourcePage>1</sourcePage>
+		<article id="1" type="article" level="1">
+			<clip pgref="1" clipref="1"/>
+			<articleInfo>
+				<ocr>85.05</ocr>
+				<startingColumn>A</startingColumn>
+				<pageCount>1</pageCount>
+			</articleInfo>
+			<text>
+				<textclip>
+					<articlePage pgref="1" clipref="1">cho_meet_1997_5847_000_0001</articlePage>
+					<p>
+						<word pos="203,353,458,399">Chatham</word>
+						<word pos="482,354,663,399">House</word>
+						<word pos="686,354,945,411">Meetings</word>
+						<word pos="966,353,1068,399">and</word>
+						<word pos="1092,353,1373,411">Speeches</word>
+						<word pos="201,424,549,481">Transcription</word>
+						<word pos="571,424,687,469">from</word>
+						<word pos="712,424,856,469">audio</word>
+						<word pos="880,424,1126,481">recording</word>
+						<word pos="1149,424,1450,469">26/07/2013</word>
+						<word pos="1474,423,1584,481">[PC]</word>
+						<word pos="602,565,729,610">Title:</word>
+						<word pos="1205,564,1507,622">Democracy</word>
+						<word pos="1529,565,1624,610">and</word>
+						<word pos="1648,564,1807,610">Social</word>
+						<word pos="1830,565,2016,610">Justice</word>
+						<word pos="2040,565,2079,609">in</word>
+						<word pos="2105,564,2246,610">North</word>
+						<word pos="2268,564,2422,610">Africa</word>
+						<word pos="603,669,841,727">Speaker:</word>
+						<word pos="1205,670,1387,715">Hocine</word>
+						<word pos="1408,670,1476,715">Ait</word>
+						<word pos="1496,670,1685,715">Ahmed</word>
+						<word pos="1711,669,1776,727">(1)</word>
+						<word pos="1801,670,1896,715">and</word>
+						<word pos="1922,669,2043,715">Mike</word>
+						<word pos="2066,669,2240,727">Gapes</word>
+						<word pos="2265,670,2330,727">(2)</word>
+						<word pos="603,775,878,821">Chairman:</word>
+						<word pos="1205,776,1451,821">Unknown</word>
+						<word pos="605,881,813,938">Meeting</word>
+						<word pos="839,880,1078,926">Location:</word>
+						<word pos="1203,880,1443,926">Chatham</word>
+						<word pos="1470,881,1653,934">House,</word>
+						<word pos="1680,880,1891,934">London,</word>
+						<word pos="1918,880,1997,926">UK</word>
+						<word pos="605,985,742,1031">Date:</word>
+						<word pos="1205,986,1429,1043">Monday,</word>
+						<word pos="1454,975,1515,1031">6th</word>
+						<word pos="1537,985,1752,1031">October</word>
+						<word pos="1775,987,1903,1031">1997</word>
+						<word pos="605,1091,844,1137">Duration:</word>
+						<word pos="1203,1093,1316,1137">0.40</word>
+						<word pos="1340,1092,1547,1137">minutes</word>
+						<word pos="602,1196,1000,1244">Q&amp;Asession:</word>
+						<word pos="1205,1196,1275,1242">No</word>
+						<word pos="605,1303,740,1360">Page</word>
+						<word pos="766,1302,953,1360">Range:</word>
+						<word pos="1206,1303,1276,1347">1-1</word>
+						<word pos="605,1407,956,1465">Language(s):</word>
+						<word pos="1205,1407,1397,1465">English</word>
+						<word pos="606,1512,879,1558">Reference</word>
+						<word pos="904,1512,1007,1558">No.:</word>
+						<word pos="1206,1512,1521,1558">RIIA/8/5847</word>
+						<word pos="602,1618,789,1676">Quality</word>
+						<word pos="809,1618,857,1664">of</word>
+						<word pos="876,1619,1044,1664">Audio:</word>
+						<word pos="1206,1618,1521,1676">Reasonably</word>
+						<word pos="1541,1619,1671,1676">good</word>
+						<word pos="203,1828,359,1876">Chair:</word>
+						<word pos="631,1841,780,1887">...you</word>
+						<word pos="811,1830,890,1874">will</word>
+						<word pos="923,1830,985,1875">be</word>
+						<word pos="1017,1830,1126,1875">able</word>
+						<word pos="1156,1833,1260,1875">to...</word>
+						<word pos="1295,1841,1427,1887">sorry</word>
+						<word pos="1458,1830,1606,1875">about</word>
+						<word pos="1635,1830,1748,1875">that.</word>
+						<word pos="1806,1830,1906,1875">The</word>
+						<word pos="1936,1830,2119,1875">trouble</word>
+						<word pos="2149,1830,2252,1875">with</word>
+						<word pos="2285,1841,2315,1875">a</word>
+						<word pos="2346,1841,2453,1875">new</word>
+						<word pos="2481,1830,2683,1875">director</word>
+						<word pos="2713,1829,2751,1875">is</word>
+						<word pos="2783,1830,2844,1875">he</word>
+						<word pos="626,1935,819,1980">doesn't</word>
+						<word pos="845,1935,983,1980">know</word>
+						<word pos="1006,1935,1168,1980">where</word>
+						<word pos="1193,1935,1274,1980">the</word>
+						<word pos="1300,1935,1464,1980">switch</word>
+						<word pos="1493,1935,1545,1980">is.</word>
+						<word pos="1594,1935,1696,1981">You</word>
+						<word pos="1722,1934,1802,1979">will</word>
+						<word pos="1830,1935,1892,1980">be</word>
+						<word pos="1919,1935,2028,1980">able</word>
+						<word pos="2053,1938,2100,1980">to</word>
+						<word pos="2127,1935,2221,1992">buy</word>
+						<word pos="2247,1946,2277,1980">a</word>
+						<word pos="2301,1946,2440,1992">copy,</word>
+						<word pos="2470,1934,2495,1979">if</word>
+						<word pos="2519,1946,2612,1992">you</word>
+						<word pos="2638,1935,2771,1988">wish,</word>
+						<word pos="2800,1938,2846,1980">at</word>
+						<word pos="625,2040,706,2085">the</word>
+						<word pos="732,2040,975,2097">reception</word>
+						<word pos="1001,2039,1281,2085">afterwards</word>
+						<word pos="1305,2039,1353,2085">of</word>
+						<word pos="1374,2040,1455,2085">the</word>
+						<word pos="1480,2039,1720,2085">Chatham</word>
+						<word pos="1749,2040,1917,2085">House</word>
+						<word pos="1945,2039,2111,2085">Forum</word>
+						<word pos="2141,2039,2317,2097">Report</word>
+						<word pos="2341,2040,2436,2085">and</word>
+						<word pos="2462,2040,2583,2093">also,</word>
+						<word pos="2608,2039,2678,2085">for</word>
+						<word pos="2699,2040,2845,2085">those</word>
+						<word pos="626,2145,674,2191">of</word>
+						<word pos="702,2157,795,2203">you</word>
+						<word pos="824,2146,923,2191">that</word>
+						<word pos="953,2157,1035,2191">are</word>
+						<word pos="1065,2149,1317,2203">computer</word>
+						<word pos="1347,2146,1539,2199">literate,</word>
+						<word pos="1570,2157,1663,2203">you</word>
+						<word pos="1694,2157,1786,2191">can</word>
+						<word pos="1818,2146,1912,2203">buy</word>
+						<word pos="1939,2146,2020,2191">the</word>
+						<word pos="2051,2146,2380,2203">presentation</word>
+						<word pos="2411,2157,2473,2191">on</word>
+						<word pos="2504,2146,2610,2191">disk</word>
+						<word pos="2639,2157,2698,2191">as</word>
+						<word pos="2726,2146,2843,2191">well.</word>
+						<word pos="629,2250,926,2308">Developing</word>
+						<word pos="966,2251,1057,2296">this</word>
+						<word pos="1099,2251,1318,2308">[unclear</word>
+						<word pos="1350,2251,1513,2308">00.23]</word>
+						<word pos="1555,2262,1734,2308">among</word>
+						<word pos="1774,2251,1855,2296">the</word>
+						<word pos="1897,2251,2145,2296">members</word>
+						<word pos="2184,2250,2232,2296">of</word>
+						<word pos="2269,2251,2350,2296">the</word>
+						<word pos="2391,2250,2631,2296">Chatham</word>
+						<word pos="2676,2251,2844,2296">House</word>
+						<word pos="629,2357,813,2410">Forum,</word>
+						<word pos="854,2357,1006,2402">we've</word>
+						<word pos="1043,2357,1137,2414">just</word>
+						<word pos="1176,2357,1357,2402">started</word>
+						<word pos="1399,2357,1559,2414">phase</word>
+						<word pos="1599,2358,1628,2401">2</word>
+						<word pos="1669,2357,1764,2402">and</word>
+						<word pos="1807,2357,1933,2402">have</word>
+						<word pos="1974,2368,2004,2402">a</word>
+						<word pos="2044,2368,2151,2402">new</word>
+						<word pos="2188,2368,2327,2402">wave</word>
+						<word pos="2367,2356,2415,2402">of</word>
+						<word pos="2453,2360,2707,2414">corporate</word>
+						<word pos="2748,2357,2843,2402">and</word>
+						<word pos="626,2465,945,2519">government</word>
+						<word pos="972,2462,1221,2507">members</word>
+						<word pos="1246,2465,1293,2507">to</word>
+						<word pos="1321,2462,1428,2507">look</word>
+						<word pos="1453,2465,1499,2507">at</word>
+						<word pos="1522,2462,1695,2519">joining</word>
+						<word pos="1722,2462,1821,2507">that</word>
+						<word pos="1846,2465,1990,2519">stage</word>
+						<word pos="2016,2461,2064,2507">of</word>
+						<word pos="2091,2462,2115,2507">it</word>
+						<word pos="2142,2462,2222,2507">but</word>
+						<word pos="2246,2462,2372,2507">what</word>
+						<word pos="2397,2473,2490,2519">you</word>
+						<word pos="2519,2473,2601,2507">are</word>
+						<word pos="2627,2462,2771,2519">going</word>
+						<word pos="2797,2465,2844,2507">to</word>
+						<word pos="628,2567,746,2612">hear</word>
+						<word pos="764,2567,945,2624">tonight</word>
+						<word pos="964,2566,1081,2612">from</word>
+						<word pos="1104,2566,1262,2612">Oliver</word>
+						<word pos="1279,2592,1313,2596">-</word>
+						<word pos="628,2777,916,2835">[Recording</word>
+						<word pos="939,2778,1082,2835">ends]</word>
+						<word pos="3081,4351,3103,4390">1</word>
+					</p>
+				</textclip>
+			</text>
+		</article>
+	</page>
+</chapter>

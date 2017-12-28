@@ -1,0 +1,526 @@
+<chapter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" contentType="speech" xsi:noNamespaceSchemaLocation="V:\Production\Chatham_House\Schema\chapterv2.xsd">
+	<metadataInfo>
+		<PSMID>cho_meet_1985_4585_000_0000</PSMID>
+		<language ocr="English" primary="Yes">English</language>
+		<productContentType>Meetings</productContentType>
+		<contentDate>
+			<contentComposed>November 13, 1985</contentComposed>
+			<contentDecade>1980-1989</contentDecade>
+			<contentYear>1985</contentYear>
+			<contentMonth>11</contentMonth>
+			<contentDay>13</contentDay>
+			<contentDateStart>1985-11-13</contentDateStart>
+			<contentDateEnd>1985-11-13</contentDateEnd>
+		</contentDate>
+		<chathamHouseRule>No</chathamHouseRule>
+		<ocr>54.53</ocr>
+		<sourceLibrary>
+			<libraryName>Chatham House</libraryName>
+			<libraryLocation>London, England</libraryLocation>
+			<copyrightStatement>Copyright Royal Institute of International Affairs</copyrightStatement>
+		</sourceLibrary>
+                <relatedMedia id="cho_meet_1985_4585_000_0000.mp3" mediaType="Audio" dataType="mp3" duration="53.46"/>
+	</metadataInfo>
+	<citation>
+		<meeting>
+			<pubDate>
+				<composed>November 13, 1985</composed>
+				<year>1985</year>
+				<month>11</month>
+				<day>13</day>
+				<pubDateStart>1985-11-13</pubDateStart>
+				<pubDateEnd>1985-11-13</pubDateEnd>
+			</pubDate>
+			<author role="author" type="Yes">
+				<aucomposed>Beryl W. Sprinkel</aucomposed>
+				<first>Beryl</first>
+				<middle>W.</middle>
+				<last>Sprinkel</last>
+			</author>
+			<titleGroup>
+				<fullTitle>The American Economic Outlook</fullTitle>
+			</titleGroup>
+			<meetingGroup>
+				<meetingNumber>8/4585</meetingNumber>
+				<sponsoringOrganisation>Chatham House</sponsoringOrganisation>
+				<meetingLocation>Chatham House</meetingLocation>
+				<meetingType>Speech</meetingType>
+			</meetingGroup>
+			<totalPages>2</totalPages>
+		</meeting>
+	</citation>
+	<page id="1" type="body_page" firstPage="Yes">
+		<pageImage pageIndicator="single" width="3557" height="4582" type="jpeg" colorimage="color" pagePosition="stand_alone">cho_meet_1985_4585_000_0001</pageImage>
+		<article id="1" type="article" level="1">
+			<clip pgref="1" clipref="1"/>
+			<clip pgref="2" clipref="2"/>
+			<articleInfo>
+				<ocr>54.53</ocr>
+				<startingColumn>A</startingColumn>
+				<pageCount>2</pageCount>
+			</articleInfo>
+			<text>
+				<textclip>
+					<articlePage pgref="1" clipref="1">cho_meet_1985_4585_000_0001</articlePage>
+					<p>
+						<word pos="1434,445,1528,470">THE</word>
+						<word pos="1559,445,1816,471">CHAIRMAN</word>
+						<word pos="1850,447,1913,472">OF</word>
+						<word pos="1940,448,2032,474">THE</word>
+						<word pos="1288,497,1509,524">COUNCIL</word>
+						<word pos="1538,499,1600,524">OF</word>
+						<word pos="1632,500,1897,527">ECONOMIC</word>
+						<word pos="1925,504,2177,531">ADVISERS</word>
+						<word pos="1589,571,1879,596">WASHINGTON</word>
+						<word pos="981,800,1342,845">Statement</word>
+						<word pos="1394,804,1468,860">by</word>
+						<word pos="1519,803,1837,850">Chairman</word>
+						<word pos="1888,809,2080,865">Beryl</word>
+						<word pos="2131,814,2194,854">W.</word>
+						<word pos="2261,814,2573,868">Sprinkel</word>
+						<word pos="1767,943,1836,989">in</word>
+						<word pos="1475,1084,1744,1139">London,</word>
+						<word pos="1807,1087,2080,1144">England</word>
+						<word pos="1432,1156,1751,1200">November</word>
+						<word pos="1806,1159,1910,1210">13,</word>
+						<word pos="1970,1160,2120,1204">1985</word>
+						<word pos="690,1352,846,1393">Next</word>
+						<word pos="893,1353,1094,1396">month</word>
+						<word pos="1148,1354,1255,1398">the</word>
+						<word pos="1311,1357,1625,1403">economic</word>
+						<word pos="1680,1362,2038,1418">expansion</word>
+						<word pos="2097,1364,2162,1409">in</word>
+						<word pos="2217,1367,2324,1410">the</word>
+						<word pos="2374,1374,2523,1414">U.S.</word>
+						<word pos="2583,1371,2733,1416">will</word>
+						<word pos="2789,1375,2855,1417">be</word>
+						<word pos="489,1418,677,1461">three</word>
+						<word pos="727,1431,923,1475">years</word>
+						<word pos="976,1422,1123,1466">old.</word>
+						<word pos="1223,1428,1379,1468">Over</word>
+						<word pos="1434,1428,1541,1470">the</word>
+						<word pos="1595,1429,1831,1473">eleven</word>
+						<word pos="1883,1437,2198,1488">quarters</word>
+						<word pos="2251,1436,2321,1479">of</word>
+						<word pos="2380,1436,2528,1481">this</word>
+						<word pos="2580,1440,2939,1496">expansion</word>
+						<word pos="2994,1455,3064,1487">so</word>
+						<word pos="487,1482,630,1536">far,</word>
+						<word pos="692,1486,842,1529">real</word>
+						<word pos="893,1490,1010,1532">GNP</word>
+						<word pos="1064,1487,1134,1532">in</word>
+						<word pos="1189,1491,1296,1534">the</word>
+						<word pos="1347,1497,1496,1539">U.S.</word>
+						<word pos="1556,1495,1665,1539">has</word>
+						<word pos="1719,1509,1915,1552">grown</word>
+						<word pos="1968,1505,2036,1544">at</word>
+						<word pos="2092,1514,2161,1545">an</word>
+						<word pos="2214,1515,2488,1560">average</word>
+						<word pos="2544,1509,2774,1553">annual</word>
+						<word pos="2831,1515,2979,1556">rate</word>
+						<word pos="482,1552,554,1595">of</word>
+						<word pos="609,1554,717,1598">4.9</word>
+						<word pos="768,1560,1082,1610">percent;</word>
+						<word pos="1144,1558,1293,1603">this</word>
+						<word pos="1354,1560,1417,1605">is</word>
+						<word pos="1468,1574,1625,1620">very</word>
+						<word pos="1677,1565,1869,1611">close</word>
+						<word pos="1926,1572,1994,1612">to</word>
+						<word pos="2050,1571,2156,1613">the</word>
+						<word pos="2209,1583,2485,1629">average</word>
+						<word pos="2542,1576,2689,1620">real</word>
+						<word pos="2742,1580,2982,1633">growth</word>
+						<word pos="484,1624,637,1663">rate</word>
+						<word pos="694,1620,802,1664">for</word>
+						<word pos="856,1623,963,1666">all</word>
+						<word pos="1018,1629,1296,1681">postwar</word>
+						<word pos="1351,1631,1781,1680">recoveries.</word>
+						<word pos="684,1758,881,1804">There</word>
+						<word pos="936,1773,1045,1807">are</word>
+						<word pos="1102,1776,1253,1810">some</word>
+						<word pos="1307,1768,1744,1826">exceptional</word>
+						<word pos="1800,1780,2073,1832">aspects</word>
+						<word pos="2127,1779,2197,1823">of</word>
+						<word pos="2254,1779,2402,1827">this</word>
+						<word pos="2459,1795,2776,1845">recovery</word>
+						<word pos="2831,1788,2976,1835">that</word>
+						<word pos="480,1837,590,1870">are</word>
+						<word pos="644,1830,839,1873">worth</word>
+						<word pos="892,1830,1160,1889">noting.</word>
+						<word pos="1263,1834,1488,1890">First,</word>
+						<word pos="1548,1841,1948,1900">employment</word>
+						<word pos="1999,1847,2236,1902">growth</word>
+						<word pos="2289,1849,2399,1894">has</word>
+						<word pos="2457,1851,2565,1896">far</word>
+						<word pos="2616,1856,2934,1900">exceeded</word>
+						<word pos="483,1893,634,1938">that</word>
+						<word pos="688,1897,756,1940">of</word>
+						<word pos="810,1898,1127,1954">previous</word>
+						<word pos="1180,1908,1457,1960">postwar</word>
+						<word pos="1510,1909,1941,1966">expansions.</word>
+						<word pos="2043,1914,2235,1962">Since</word>
+						<word pos="2292,1919,2399,1965">the</word>
+						<word pos="2457,1925,2691,1980">trough</word>
+						<word pos="2742,1927,2811,1971">of</word>
+						<word pos="2870,1928,2974,1973">the</word>
+						<word pos="481,1973,837,2009">recession</word>
+						<word pos="894,1978,964,2011">in</word>
+						<word pos="1012,1971,1368,2025">November,</word>
+						<word pos="1429,1975,1609,2028">1982,</word>
+						<word pos="1672,1991,1742,2023">an</word>
+						<word pos="1793,1980,2193,2028">additional</word>
+						<word pos="2247,1987,2358,2031">8.8</word>
+						<word pos="2403,1987,2686,2034">million</word>
+						<word pos="2738,1993,2975,2048">people</word>
+						<word pos="478,2028,632,2074">have</word>
+						<word pos="687,2032,840,2077">been</word>
+						<word pos="891,2036,1208,2095">employed</word>
+						<word pos="1268,2038,1332,2084">in</word>
+						<word pos="1389,2042,1495,2087">the</word>
+						<word pos="1545,2050,1694,2092">U.S.</word>
+						<word pos="1798,2053,1866,2093">In</word>
+						<word pos="1921,2051,2069,2097">1985</word>
+						<word pos="2123,2053,2351,2110">alone,</word>
+						<word pos="2415,2058,2520,2103">the</word>
+						<word pos="2570,2065,2720,2107">U.S.</word>
+						<word pos="2781,2075,3057,2122">economy</word>
+						<word pos="477,2102,589,2144">has</word>
+						<word pos="641,2106,756,2157">put</word>
+						<word pos="810,2104,920,2149">1.6</word>
+						<word pos="964,2104,1247,2153">million</word>
+						<word pos="1300,2111,1696,2159">additional</word>
+						<word pos="1749,2119,1985,2175">people</word>
+						<word pos="2041,2125,2110,2165">to</word>
+						<word pos="2159,2124,2348,2169">work.</word>
+						<word pos="680,2237,997,2286">Business</word>
+						<word pos="1056,2241,1452,2292">investment</word>
+						<word pos="1504,2250,1614,2295">has</word>
+						<word pos="1668,2252,1821,2297">also</word>
+						<word pos="1874,2255,2027,2300">been</word>
+						<word pos="2078,2261,2439,2318">unusually</word>
+						<word pos="2493,2267,2761,2319">strong,</word>
+						<word pos="474,2308,794,2360">compared</word>
+						<word pos="851,2311,918,2353">to</word>
+						<word pos="971,2308,1368,2359">historical</word>
+						<word pos="1423,2319,1856,2375">experience.</word>
+						<word pos="1956,2326,2273,2374">Business</word>
+						<word pos="2334,2330,2725,2381">investment</word>
+						<word pos="2781,2350,2847,2383">as</word>
+						<word pos="2903,2353,2935,2384">a</word>
+						<word pos="474,2375,665,2417">share</word>
+						<word pos="719,2376,794,2419">of</word>
+						<word pos="843,2380,960,2422">GNP</word>
+						<word pos="1015,2391,1078,2424">&#305;s</word>
+						<word pos="1134,2385,1202,2426">at</word>
+						<word pos="1254,2395,1285,2427">a</word>
+						<word pos="1336,2390,1615,2440">postwar</word>
+						<word pos="1668,2388,1821,2446">high</word>
+						<word pos="1871,2393,1945,2437">of</word>
+						<word pos="2000,2396,2067,2440">13</word>
+						<word pos="2117,2403,2395,2453">percent</word>
+						<word pos="2449,2402,2559,2446">and</word>
+						<word pos="2613,2403,2887,2456">capital</word>
+						<word pos="474,2442,790,2501">spending</word>
+						<word pos="844,2445,1038,2502">plans</word>
+						<word pos="1095,2449,1204,2495">for</word>
+						<word pos="1261,2452,1408,2499">1985</word>
+						<word pos="1467,2454,1658,2515">imply</word>
+						<word pos="1711,2471,1742,2504">a</word>
+						<word pos="1795,2461,2069,2509">further</word>
+						<word pos="2128,2464,2437,2515">increase</word>
+						<word pos="2497,2470,2561,2517">in</word>
+						<word pos="2618,2473,2764,2521">this</word>
+						<word pos="473,2514,699,2558">ratio.</word>
+						<word pos="800,2514,952,2561">This</word>
+						<word pos="1005,2518,1200,2565">bodes</word>
+						<word pos="1250,2523,1404,2568">well</word>
+						<word pos="1461,2525,1572,2570">for</word>
+						<word pos="1627,2529,1858,2575">future</word>
+						<word pos="1909,2536,2148,2589">growth</word>
+						<word pos="2200,2539,2310,2583">and</word>
+						<word pos="2366,2539,2476,2596">job</word>
+						<word pos="2530,2543,2879,2592">creation.</word>
+						<word pos="473,2581,780,2637">Finally,</word>
+						<word pos="850,2585,1202,2632">inflation</word>
+						<word pos="1261,2588,1325,2634">in</word>
+						<word pos="1381,2592,1489,2637">the</word>
+						<word pos="1540,2600,1688,2643">U.S.</word>
+						<word pos="1748,2599,2024,2647">remains</word>
+						<word pos="2080,2605,2384,2654">subdued.</word>
+						<word pos="2486,2615,2643,2656">Over</word>
+						<word pos="2698,2614,2803,2659">the</word>
+						<word pos="2859,2622,3010,2669">past</word>
+						<word pos="470,2649,703,2691">twelve</word>
+						<word pos="751,2652,1026,2706">months,</word>
+						<word pos="1087,2667,1405,2704">consumer</word>
+						<word pos="1455,2661,1691,2718">prices</word>
+						<word pos="1746,2666,1898,2712">have</word>
+						<word pos="1957,2668,2311,2719">increased</word>
+						<word pos="2366,2677,2476,2723">3.2</word>
+						<word pos="2525,2686,2801,2733">percent</word>
+						<word pos="2856,2684,2968,2728">and</word>
+						<word pos="467,2714,789,2766">producer</word>
+						<word pos="840,2731,1075,2774">prices</word>
+						<word pos="1129,2725,1284,2783">only</word>
+						<word pos="1335,2728,1445,2774">0.2</word>
+						<word pos="1495,2738,1809,2787">percent.</word>
+						<word pos="674,2852,908,2912">During</word>
+						<word pos="963,2859,1159,2917">early</word>
+						<word pos="1211,2863,1397,2918">1985,</word>
+						<word pos="1461,2867,1649,2913">there</word>
+						<word pos="1702,2884,1815,2916">was</word>
+						<word pos="1869,2876,1939,2919">of</word>
+						<word pos="1993,2888,2225,2924">course</word>
+						<word pos="2281,2894,2312,2926">a</word>
+						<word pos="2365,2884,2681,2932">slowdown</word>
+						<word pos="2738,2888,2801,2933">in</word>
+						<word pos="2858,2892,2964,2936">the</word>
+						<word pos="468,2927,611,2966">U.S.</word>
+						<word pos="672,2934,981,2984">economy.</word>
+						<word pos="1080,2936,1152,2976">We</word>
+						<word pos="1207,2934,1359,2979">have</word>
+						<word pos="1412,2937,1566,2983">been</word>
+						<word pos="1616,2946,1978,3003">generally</word>
+						<word pos="2028,2949,2427,3005">optimistic</word>
+						<word pos="2486,2957,2634,3001">that</word>
+						<word pos="2691,2960,2800,3003">the</word>
+						<word pos="466,2998,745,3047">economy</word>
+						<word pos="797,2995,990,3039">would</word>
+						<word pos="1045,3000,1320,3046">rebound</word>
+						<word pos="1379,3003,1444,3048">in</word>
+						<word pos="1500,3007,1606,3052">the</word>
+						<word pos="1663,3015,1896,3057">second</word>
+						<word pos="1950,3016,2101,3062">half</word>
+						<word pos="2154,3021,2223,3064">of</word>
+						<word pos="2282,3022,2387,3066">the</word>
+						<word pos="2441,3037,2595,3081">year</word>
+						<word pos="2649,3029,2757,3072">and</word>
+						<word pos="2815,3031,2921,3075">the</word>
+						<word pos="462,3061,986,3114">preponderance</word>
+						<word pos="1039,3069,1108,3112">of</word>
+						<word pos="1163,3073,1480,3119">economic</word>
+						<word pos="1532,3078,1687,3123">data</word>
+						<word pos="1745,3080,2223,3146">increasingly</word>
+						<word pos="2277,3099,2590,3147">supports</word>
+						<word pos="2649,3097,2799,3142">that</word>
+						<word pos="464,3132,977,3235">&#1079;&#1058;&#1087;&#1077;&#1075;^&#176;?\</word>
+						<word pos="1045,3140,1112,3179">In</word>
+						<word pos="1168,3138,1275,3235">&#1043;116</word>
+						<word pos="1332,3141,1523,3188">th&#304;rd</word>
+						<word pos="1576,3153,1886,3204">qUarter'</word>
+						<word pos="1947,3101,2879,3214">-aiggrowthPaccelerated</word>
+						<word pos="2936,3175,3002,3215">to</word>
+						<word pos="461,3194,740,3308">halVof</word>
+						<word pos="796,3266,903,3312">the</word>
+						<word pos="955,3200,1223,3327">&#237;e&#191;r:b</word>
+						<word pos="1286,3216,1601,3268">^^</word>
+						<word pos="1657,3221,1728,3261">t0</word>
+						<word pos="1783,3220,1890,3267">1&#1051;</word>
+						<word pos="1940,3231,2222,3279">PerCent</word>
+						<word pos="2280,3228,2499,3281">&#1067;'&#1043;']</word>
+						<word pos="2566,3232,2631,3277">&#304;n</word>
+						<word pos="2687,3236,2792,3280">the</word>
+						<word pos="2851,3237,3042,3284">ficst</word>
+						<word pos="455,3399,776,3503">nrnwr-hhe</word>
+						<word pos="825,3403,1312,3503">rf7undamen^ls</word>
+						<word pos="1368,3428,1476,3461">are</word>
+						<word pos="1536,3418,1601,3464">in</word>
+						<word pos="1652,3424,1846,3479">place</word>
+						<word pos="1903,3432,1970,3473">to</word>
+						<word pos="2025,3431,2221,3478">allow</word>
+						<word pos="2271,3437,2627,3485">continued</word>
+						<word pos="2682,3445,2995,3492">economic</word>
+						<word pos="456,3503,736,3579">cuarte;</word>
+						<word pos="787,3477,1186,3579">n?%eX?eCt</word>
+						<word pos="1242,3484,1350,3579">tht</word>
+						<word pos="1405,3486,1639,3535">fOUrth</word>
+						<word pos="1691,3500,1969,3551">qUarter</word>
+						<word pos="2023,3504,2091,3545">t0</word>
+						<word pos="2144,3502,2212,3547">be</word>
+						<word pos="2271,3506,2377,3550">the</word>
+						<word pos="2434,3513,2792,3568">wrongest</word>
+						<word pos="455,3541,856,3661">carryteove&#176;r</word>
+						<word pos="913,3586,1062,3659">into"</word>
+						<word pos="1115,3553,1352,3663">1986^</word>
+						<word pos="1411,3568,1475,3602">"</word>
+						<word pos="1530,3561,1678,3607">'^</word>
+						<word pos="1732,3566,1844,3609">^</word>
+						<word pos="1901,3568,2050,3615">^</word>
+						<word pos="2105,3577,2379,3621">&#915;&#920;O&#920;*&#952;&#945;</word>
+						<word pos="2435,3582,2749,3640">St^th</word>
+						<word pos="2801,3587,2951,3632">-11</word>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="2" clipref="2">cho_meet_1985_4585_000_0002</articlePage>
+					<p>
+						<word pos="1689,502,1719,509">-</word>
+						<word pos="1776,485,1803,528">2</word>
+						<word pos="1855,507,1885,514">-</word>
+						<word pos="699,680,769,763">^u</word>
+						<word pos="1030,684,1220,737">Stage</word>
+						<word pos="1274,686,1344,728">0f</word>
+						<word pos="1400,687,1508,730">the</word>
+						<word pos="1562,691,1877,736">economic</word>
+						<word pos="1930,698,2320,752">expansion,</word>
+						<word pos="2389,702,2452,747">it</word>
+						<word pos="2512,704,2574,749">is</word>
+						<word pos="2634,705,2987,763">important</word>
+						<word pos="499,743,650,785">that</word>
+						<word pos="706,744,813,787">the</word>
+						<word pos="863,749,1011,792">U.S.</word>
+						<word pos="1069,768,1141,776">&#8212;</word>
+						<word pos="1193,752,1306,795">and</word>
+						<word pos="1364,751,1592,799">indeed</word>
+						<word pos="1649,757,1756,801">the</word>
+						<word pos="1809,761,2003,806">world</word>
+						<word pos="2058,776,2125,808">as</word>
+						<word pos="2180,779,2211,810">a</word>
+						<word pos="2260,769,2453,814">whole</word>
+						<word pos="2504,793,2575,801">&#8212;</word>
+						<word pos="2628,776,2822,822">avoid</word>
+						<word pos="2878,780,2983,825">the</word>
+						<word pos="491,811,809,866">policies</word>
+						<word pos="867,815,1015,860">that</word>
+						<word pos="1067,818,1548,881">historically</word>
+						<word pos="1601,827,1752,871">have</word>
+						<word pos="1804,835,2247,892">prematurely</word>
+						<word pos="2298,840,2490,883">ended</word>
+						<word pos="2544,844,2860,888">economic</word>
+						<word pos="494,888,927,934">expansions.</word>
+						<word pos="1025,885,1220,931">These</word>
+						<word pos="1280,887,1548,936">include</word>
+						<word pos="1605,895,1712,939">the</word>
+						<word pos="1769,900,2084,959">tendency</word>
+						<word pos="2139,908,2205,948">to</word>
+						<word pos="2257,919,2492,962">pursue</word>
+						<word pos="2547,923,2615,955">an</word>
+						<word pos="2668,917,2941,964">overlv-</word>
+						<word pos="495,948,930,995">stimulative</word>
+						<word pos="978,959,1301,1014">monetary</word>
+						<word pos="1351,959,1621,1019">policy.</word>
+						<word pos="1726,969,1793,1009">In</word>
+						<word pos="1847,968,1959,1012">the</word>
+						<word pos="2009,975,2194,1025">U.S.,</word>
+						<word pos="2262,972,2324,1019">it</word>
+						<word pos="2385,974,2447,1021">is</word>
+						<word pos="2501,978,2900,1033">critically</word>
+						<word pos="498,1019,852,1070">important</word>
+						<word pos="909,1018,1056,1064">that</word>
+						<word pos="1107,1033,1179,1066">we</word>
+						<word pos="1231,1035,1588,1080">persevere</word>
+						<word pos="1648,1029,1712,1076">in</word>
+						<word pos="1764,1045,1878,1079">our</word>
+						<word pos="1929,1037,2202,1085">efforts</word>
+						<word pos="2260,1046,2326,1088">to</word>
+						<word pos="2381,1047,2611,1094">reduce</word>
+						<word pos="2666,1062,2778,1098">our</word>
+						<word pos="2833,1052,3060,1103">fiscal</word>
+						<word pos="489,1081,766,1129">deficit</word>
+						<word pos="818,1086,890,1144">by</word>
+						<word pos="944,1090,1378,1151">restraining</word>
+						<word pos="1436,1098,1543,1142">the</word>
+						<word pos="1594,1102,1833,1155">growth</word>
+						<word pos="1882,1106,1958,1150">of</word>
+						<word pos="2005,1110,2405,1157">Government</word>
+						<word pos="2461,1118,2807,1176">spending.</word>
+						<word pos="689,1222,885,1268">While</word>
+						<word pos="942,1226,1054,1270">the</word>
+						<word pos="1102,1233,1247,1275">U.S.</word>
+						<word pos="1306,1240,1583,1280">current</word>
+						<word pos="1636,1246,1910,1286">account</word>
+						<word pos="1961,1244,2239,1291">deficit</word>
+						<word pos="2293,1257,2565,1297">creates</word>
+						<word pos="2622,1256,2896,1302">serious</word>
+						<word pos="487,1288,805,1340">problems</word>
+						<word pos="861,1291,970,1335">for</word>
+						<word pos="1019,1306,1176,1352">many</word>
+						<word pos="1223,1303,1372,1345">U.S.</word>
+						<word pos="1438,1301,1863,1362">industries,</word>
+						<word pos="1931,1310,1994,1355">it</word>
+						<word pos="2053,1312,2116,1357">is</word>
+						<word pos="2172,1316,2323,1361">also</word>
+						<word pos="2377,1321,2647,1367">crucial</word>
+						<word pos="2704,1327,2854,1372">that</word>
+						<word pos="2906,1343,2978,1374">we</word>
+						<word pos="486,1367,1050,1467">on01freentradf</word>
+						<word pos="1059,1365,1417,1467">sionist</word>
+						<word pos="1465,1384,1819,1422">measures.</word>
+						<word pos="1915,1385,1953,1424">A</word>
+						<word pos="2000,1385,2196,1427">world</word>
+						<word pos="2253,1390,2441,1432">trade</word>
+						<word pos="2496,1397,2760,1448">system,</word>
+						<word pos="2821,1399,3139,1453">premised</word>
+						<word pos="486,1431,520,1515">&#918;</word>
+						<word pos="570,1492,634,1515">,u</word>
+						<word pos="688,1436,761,1515">T</word>
+						<word pos="818,1430,1041,1515">^a&#250;e'</word>
+						<word pos="1108,1443,1171,1476">ls</word>
+						<word pos="1226,1435,1502,1496">clearly</word>
+						<word pos="1560,1452,1624,1485">in</word>
+						<word pos="1680,1444,1785,1488">the</word>
+						<word pos="1840,1447,1993,1493">best</word>
+						<word pos="2052,1449,2363,1500">interest</word>
+						<word pos="2414,1459,2483,1502">of</word>
+						<word pos="2539,1461,2645,1505">all</word>
+						<word pos="2702,1464,2974,1513">nations</word>
+						<word pos="486,1489,638,1535">both</word>
+						<word pos="687,1493,1044,1554">developed</word>
+						<word pos="1098,1503,1209,1546">and</word>
+						<word pos="1261,1504,1695,1567">developing.</word>
+						<word pos="1799,1519,1866,1559">&#1097;</word>
+						<word pos="1918,1517,2268,1575">addition,</word>
+						<word pos="2330,1536,2400,1569">an</word>
+						<word pos="2456,1525,2812,1585">important</word>
+						<word pos="483,1565,801,1618">priority</word>
+						<word pos="859,1575,923,1607">in</word>
+						<word pos="979,1566,1086,1610">the</word>
+						<word pos="1136,1574,1285,1616">U.S.</word>
+						<word pos="1352,1572,1414,1617">is</word>
+						<word pos="1471,1588,1502,1619">a</word>
+						<word pos="1553,1579,1789,1624">reform</word>
+						<word pos="1838,1585,1906,1627">of</word>
+						<word pos="1966,1586,2070,1630">the</word>
+						<word pos="2128,1593,2237,1633">tax</word>
+						<word pos="2290,1594,2475,1648">code,</word>
+						<word pos="2539,1600,2605,1641">to</word>
+						<word pos="2657,1600,2930,1656">provide</word>
+						<word pos="2987,1618,3018,1650">a</word>
+						<word pos="480,1695,635,1734">&#1058;&#1087;&#1077;&#1103;</word>
+						<word pos="688,1641,868,1734">&#304;r</word>
+						<word pos="942,1636,1207,1708">-fairer</word>
+						<word pos="1263,1644,1371,1686">tax</word>
+						<word pos="1425,1651,1662,1702">system</word>
+						<word pos="1714,1651,1863,1696">that</word>
+						<word pos="1917,1654,2070,1700">also</word>
+						<word pos="2124,1658,2396,1707">fosters</word>
+						<word pos="2450,1669,2763,1714">economic</word>
+						<word pos="2816,1677,3087,1728">growth.</word>
+						<word pos="480,1694,762,1797">&#205;h&#318;L&#318;</word>
+						<word pos="842,1711,1042,1797">&#318;&#318;S</word>
+						<word pos="1098,1716,1206,1793">&#1072;&#1043;!</word>
+						<word pos="1261,1720,1332,1752">an</word>
+						<word pos="1389,1718,1742,1768">lmP&#176;rtant</word>
+						<word pos="1793,1725,1946,1776">Part</word>
+						<word pos="1999,1725,2069,1768">of</word>
+						<word pos="2127,1726,2231,1771">the</word>
+						<word pos="2287,1733,2600,1779">economic</word>
+						<word pos="2656,1741,2888,1794">agenda</word>
+						<word pos="2946,1744,3053,1789">for</word>
+						<word pos="483,1761,590,1806">the</word>
+						<word pos="644,1769,875,1812">second</word>
+						<word pos="930,1774,1082,1816">term</word>
+						<word pos="1133,1776,1202,1820">of</word>
+						<word pos="1258,1778,1370,1822">the</word>
+						<word pos="1422,1785,1658,1839">Reagan</word>
+						<word pos="1704,1787,2304,1843">Administration.</word>
+					</p>
+				</textclip>
+			</text>
+		</article>
+	</page>
+	<page id="2" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3557" height="4582" type="jpeg" colorimage="color" pagePosition="stand_alone">cho_meet_1985_4585_000_0002</pageImage>
+		<sourcePage>2</sourcePage>
+	</page>
+</chapter>

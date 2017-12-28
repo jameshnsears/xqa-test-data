@@ -1,0 +1,466 @@
+<chapter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" contentType="default_journal" xsi:noNamespaceSchemaLocation="V:\Production\Chatham_House\Schema\chapter.xsd">
+	<metadataInfo>
+		<PSMID>cho_rfpc_1943-1945L_0000_072_0000</PSMID>
+		<language ocr="English" primary="Yes">English</language>
+		<productContentType>Special Publications</productContentType>
+		<contentDate>
+			<contentComposed>June 18, 1945</contentComposed>
+			<contentDecade>1940-1949</contentDecade>
+			<contentYear>1945</contentYear>
+			<contentMonth>06</contentMonth>
+			<contentDay>18</contentDay>
+			<contentDateStart>1945-06-18</contentDateStart>
+			<contentDateEnd>1945-06-18</contentDateEnd>
+		</contentDate>
+		<chathamHouseRule>No</chathamHouseRule>
+		<ocr>84.1</ocr>
+		<sourceLibrary>
+			<libraryName>Chatham House</libraryName>
+			<libraryLocation>London, England</libraryLocation>
+			<copyrightStatement>Copyright Royal Institute of International Affairs</copyrightStatement>
+		</sourceLibrary>
+	</metadataInfo>
+	<citation>
+		<journal>
+			<pubDate>
+				<composed>June 18, 1945</composed>
+				<year>1945</year>
+				<month>06</month>
+				<day>18</day>
+				<pubDateStart>1945-06-18</pubDateStart>
+				<pubDateEnd>1945-06-18</pubDateEnd>
+			</pubDate>
+			<titleGroup>
+				<fullTitle>Weekly Review of Foreign Press</fullTitle>
+			</titleGroup>
+			<totalPages>2</totalPages>
+		</journal>
+	</citation>
+	<page id="1" type="body_page" firstPage="Yes">
+		<pageImage pageIndicator="single" width="3329" height="5281" type="jpeg" colorimage="color" pagePosition="right">cho_rfpc_1943-1945L_0000_072_0001</pageImage>
+		<article id="1" type="part" level="1">
+			<clip pgref="1"/>
+			<articleInfo>
+				<issueNumber>72</issueNumber>
+				<issueTitle>No.72</issueTitle>
+				<pubDate>
+					<composed>June 18, 1945</composed>
+					<year>1945</year>
+					<month>06</month>
+					<day>18</day>
+					<pubDateStart>1945-06-18</pubDateStart>
+					<pubDateEnd>1945-06-18</pubDateEnd>
+				</pubDate>
+				<title>Issue 72: 18 June</title>
+				<publicationPlace>
+					<publicationPlaceCity>Whitehall</publicationPlaceCity>
+					<publicationPlaceComposed>Whitehall</publicationPlaceComposed>
+				</publicationPlace>
+				<language ocr="English" primary="Yes">English</language>
+				<ocr>84.10</ocr>
+				<startingColumn>A</startingColumn>
+				<pageCount>1</pageCount>
+			</articleInfo>
+			<text>
+				<textclip>
+					<articlePage pgref="1">cho_rfpc_1943-1945L_0000_072_0001</articlePage>
+					<p>
+						<word pos="233,288,792,336">CONFIDENTIAL.</word>
+						<word pos="742,542,1042,600">LATIN</word>
+						<word pos="1114,540,1646,600">AMERICAN</word>
+						<word pos="1718,544,2382,604">MEMORANDA</word>
+						<word pos="294,765,403,812">2nd</word>
+						<word pos="433,765,642,820">Series,</word>
+						<word pos="669,766,776,812">No.</word>
+						<word pos="803,765,864,812">72</word>
+						<word pos="2427,769,2577,816">June</word>
+						<word pos="2606,770,2684,824">18,</word>
+						<word pos="2714,770,2835,817">1945</word>
+						<word pos="547,1081,633,1120">The</word>
+						<word pos="659,1088,685,1105">"</word>
+						<word pos="704,1083,876,1120">Review</word>
+						<word pos="900,1083,943,1120">of</word>
+						<word pos="963,1083,1036,1120">the</word>
+						<word pos="1058,1082,1240,1127">Foreign</word>
+						<word pos="1264,1082,1388,1120">Press</word>
+						<word pos="1406,1082,1432,1098">"</word>
+						<word pos="1458,1082,1542,1119">will</word>
+						<word pos="1564,1093,1687,1120">cease</word>
+						<word pos="1709,1083,1753,1120">to</word>
+						<word pos="1775,1092,1933,1129">appaar</word>
+						<word pos="1954,1083,2066,1121">after</word>
+						<word pos="2086,1085,2158,1121">the</word>
+						<word pos="2181,1084,2283,1122">30th</word>
+						<word pos="2306,1085,2433,1131">June,</word>
+						<word pos="2457,1086,2576,1124">19$5.</word>
+						<word pos="757,1153,858,1191">This</word>
+						<word pos="879,1154,993,1191">issue</word>
+						<word pos="1016,1153,1059,1191">of</word>
+						<word pos="1082,1159,1109,1176">"</word>
+						<word pos="1127,1153,1257,1191">Latin</word>
+						<word pos="1280,1153,1507,1191">American</word>
+						<word pos="1531,1154,1814,1191">Memoranda</word>
+						<word pos="1831,1153,1857,1169">"</word>
+						<word pos="1883,1155,1933,1200">is,</word>
+						<word pos="1957,1155,2185,1201">therefore,</word>
+						<word pos="2209,1156,2282,1193">the</word>
+						<word pos="2304,1157,2402,1195">last.</word>
+					</p>
+				</textclip>
+			</text>
+		</article>
+		<article id="2" type="front_matter" level="2">
+			<clip pgref="1"/>
+			<articleInfo>
+				<issueNumber>72</issueNumber>
+				<issueTitle>No.72</issueTitle>
+				<pubDate>
+					<composed>June 18, 1945</composed>
+					<year>1945</year>
+					<month>06</month>
+					<day>18</day>
+					<pubDateStart>1945-06-18</pubDateStart>
+					<pubDateEnd>1945-06-18</pubDateEnd>
+				</pubDate>
+				<title>Index</title>
+				<publicationPlace>
+					<publicationPlaceCity>Whitehall</publicationPlaceCity>
+					<publicationPlaceComposed>Whitehall</publicationPlaceComposed>
+				</publicationPlace>
+				<language ocr="English" primary="Yes">English</language>
+				<ocr>84.10</ocr>
+				<startingColumn>A</startingColumn>
+				<pageCount>1</pageCount>
+			</articleInfo>
+			<text>
+				<textclip>
+					<articlePage pgref="1">cho_rfpc_1943-1945L_0000_072_0001</articlePage>
+					<p>
+						<word pos="1423,1407,1732,1465">INDEX</word>
+						<word pos="291,1511,443,1561">[Note:</word>
+						<word pos="507,1512,608,1550">This</word>
+						<word pos="630,1513,759,1551">index</word>
+						<word pos="782,1526,929,1553">covers</word>
+						<word pos="952,1514,1025,1551">the</word>
+						<word pos="1048,1515,1178,1552">Latin</word>
+						<word pos="1206,1514,1431,1552">American</word>
+						<word pos="1456,1515,1751,1560">Memoranda,</word>
+						<word pos="1768,1513,1850,1551">2nd</word>
+						<word pos="1877,1514,2028,1559">Series,</word>
+						<word pos="2045,1515,2142,1552">Nos.</word>
+						<word pos="2163,1516,2293,1554">60-71</word>
+						<word pos="2320,1516,2690,1564">(January-June,</word>
+						<word pos="2712,1517,2846,1566">1945).</word>
+						<word pos="391,1567,474,1604">For</word>
+						<word pos="497,1567,662,1605">indices</word>
+						<word pos="686,1571,729,1605">to</word>
+						<word pos="752,1568,903,1605">earlier</word>
+						<word pos="925,1568,1133,1606">numbers</word>
+						<word pos="1166,1582,1235,1606">see</word>
+						<word pos="1261,1571,1326,1606">1st</word>
+						<word pos="1353,1569,1505,1615">Series,</word>
+						<word pos="1529,1569,1604,1607">No.</word>
+						<word pos="1627,1571,1677,1608">95</word>
+						<word pos="1704,1569,1928,1619">(1940-41)</word>
+						<word pos="1968,1569,2048,1607">and</word>
+						<word pos="2082,1570,2158,1608">No.</word>
+						<word pos="2183,1572,2257,1608">147</word>
+						<word pos="2284,1572,2448,1621">(1942);</word>
+						<word pos="2483,1571,2563,1608">and</word>
+						<word pos="2586,1571,2669,1609">2nd</word>
+						<word pos="2697,1572,2848,1616">Series,</word>
+						<word pos="394,1621,470,1659">No.</word>
+						<word pos="496,1623,547,1660">32</word>
+						<word pos="572,1623,715,1672">(1943)</word>
+						<word pos="741,1622,823,1660">and</word>
+						<word pos="848,1623,923,1661">No.</word>
+						<word pos="945,1625,996,1661">59</word>
+						<word pos="1024,1624,1201,1674">(1944).]</word>
+					</p>
+				</textclip>
+			</text>
+		</article>
+		<article id="3" type="article" level="2">
+			<clip pgref="1"/>
+			<articleInfo>
+				<issueNumber>72</issueNumber>
+				<issueTitle>No.72</issueTitle>
+				<pubDate>
+					<composed>June 18, 1945</composed>
+					<year>1945</year>
+					<month>06</month>
+					<day>18</day>
+					<pubDateStart>1945-06-18</pubDateStart>
+					<pubDateEnd>1945-06-18</pubDateEnd>
+				</pubDate>
+				<title>I. General Memoranda</title>
+				<publicationPlace>
+					<publicationPlaceCity>Whitehall</publicationPlaceCity>
+					<publicationPlaceComposed>Whitehall</publicationPlaceComposed>
+				</publicationPlace>
+				<language ocr="English" primary="Yes">English</language>
+				<ocr>84.10</ocr>
+				<startingColumn>A</startingColumn>
+				<pageCount>1</pageCount>
+			</articleInfo>
+			<text>
+				<textclip>
+					<articlePage pgref="1">cho_rfpc_1943-1945L_0000_072_0001</articlePage>
+					<p>
+						<word pos="1073,1815,1116,1861">I.</word>
+						<word pos="1189,1815,1532,1863">GENERAL</word>
+						<word pos="1592,1818,2078,1867">MEMORANDA</word>
+						<word pos="227,1982,357,2019">Latin</word>
+						<word pos="379,1983,580,2020">America</word>
+						<word pos="603,1983,685,2020">and</word>
+						<word pos="710,1983,783,2021">the</word>
+						<word pos="808,1984,1011,2023">U.S.S.R.</word>
+						<word pos="230,2036,317,2074">The</word>
+						<word pos="340,2037,718,2075">Inter-American</word>
+						<word pos="741,2038,1008,2077">Conference</word>
+						<word pos="1031,2052,1086,2077">on</word>
+						<word pos="1107,2039,1333,2077">Problems</word>
+						<word pos="1355,2040,1397,2077">of</word>
+						<word pos="1421,2040,1522,2078">War</word>
+						<word pos="1544,2041,1625,2079">and</word>
+						<word pos="1648,2042,1787,2080">Peace</word>
+						<word pos="2277,1921,2471,1958">Number</word>
+						<word pos="2684,1920,2791,1958">Date</word>
+						<word pos="2336,1991,2388,2029">66</word>
+						<word pos="2585,1991,2704,2039">April</word>
+						<word pos="2725,1993,2748,2028">9</word>
+						<word pos="2337,2047,2388,2083">69</word>
+						<word pos="2587,2046,2687,2095">May</word>
+						<word pos="2712,2047,2761,2083">14</word>
+					</p>
+				</textclip>
+			</text>
+		</article>
+		<article id="4" type="article" level="2">
+			<clip pgref="1"/>
+			<clip pgref="2"/>
+			<articleInfo>
+				<issueNumber>72</issueNumber>
+				<issueTitle>No.72</issueTitle>
+				<pubDate>
+					<composed>June 18, 1945</composed>
+					<year>1945</year>
+					<month>06</month>
+					<day>18</day>
+					<pubDateStart>1945-06-18</pubDateStart>
+					<pubDateEnd>1945-06-18</pubDateEnd>
+				</pubDate>
+				<title>II. Special Memoranda</title>
+				<publicationPlace>
+					<publicationPlaceCity>Whitehall</publicationPlaceCity>
+					<publicationPlaceComposed>Whitehall</publicationPlaceComposed>
+				</publicationPlace>
+				<language ocr="English" primary="Yes">English</language>
+				<ocr>84.10</ocr>
+				<startingColumn>A</startingColumn>
+				<pageCount>2</pageCount>
+			</articleInfo>
+			<text>
+				<textclip>
+					<articlePage pgref="1">cho_rfpc_1943-1945L_0000_072_0001</articlePage>
+					<p>
+						<word pos="226,2468,315,2506">The</word>
+						<word pos="339,2470,575,2518">Argentine</word>
+						<word pos="600,2470,802,2509">Problem</word>
+						<word pos="228,2673,399,2711">Bolivia</word>
+						<word pos="422,2674,503,2711">and</word>
+						<word pos="528,2675,755,2725">Paraguay</word>
+						<word pos="1085,2255,1157,2302">II.</word>
+						<word pos="1232,2256,1534,2304">SPECIAL</word>
+						<word pos="1572,2259,2056,2306">MEMORANDA</word>
+						<word pos="1456,2384,1688,2432">Argentina</word>
+						<word pos="1482,2590,1648,2629">Bolivia</word>
+						<word pos="1497,2797,1638,2835">Brazil</word>
+						<word pos="225,2883,314,2921">The</word>
+						<word pos="338,2884,684,2922">Constitutional</word>
+						<word pos="708,2886,1011,2933">Organisation</word>
+						<word pos="1035,2885,1078,2922">of</word>
+						<word pos="1104,2885,1248,2922">Brazil</word>
+						<word pos="225,2938,313,2976">The</word>
+						<word pos="337,2939,557,2977">Electoral</word>
+						<word pos="582,2939,822,2988">Campaign</word>
+						<word pos="846,2941,888,2977">in</word>
+						<word pos="914,2940,1057,2977">Brazil</word>
+						<word pos="1375,3056,1543,3096">Central</word>
+						<word pos="1574,3057,1768,3095">America</word>
+						<word pos="226,3137,569,3189">Revolutionary</word>
+						<word pos="596,3141,772,3188">Change</word>
+						<word pos="796,3140,838,3177">in</word>
+						<word pos="862,3140,1037,3178">Central</word>
+						<word pos="1062,3142,1261,3178">America</word>
+						<word pos="1286,3141,1367,3179">and</word>
+						<word pos="1391,3141,1585,3179">Panama</word>
+						<word pos="227,3374,388,3412">Chile's</word>
+						<word pos="410,3374,614,3412">Political</word>
+						<word pos="638,3375,720,3412">and</word>
+						<word pos="742,3376,983,3414">Economic</word>
+						<word pos="1006,3377,1232,3414">Problems</word>
+						<word pos="222,3580,311,3617">The</word>
+						<word pos="334,3580,578,3618">Caribbean</word>
+						<word pos="601,3582,839,3630">Republics</word>
+						<word pos="222,3789,308,3826">The</word>
+						<word pos="333,3789,572,3827">Caribbean</word>
+						<word pos="596,3789,835,3838">Republics</word>
+						<word pos="222,3994,334,4032">Peru</word>
+						<word pos="358,3994,438,4032">and</word>
+						<word pos="464,3995,665,4033">Ecuador</word>
+						<word pos="1509,3294,1625,3333">Chile</word>
+						<word pos="1508,3495,1624,3534">Cuba</word>
+						<word pos="1324,3701,1579,3740">Dominican</word>
+						<word pos="1609,3700,1816,3748">Republic</word>
+						<word pos="1472,3905,1666,3944">Ecuador</word>
+						<word pos="1510,4110,1631,4148">Haiti</word>
+						<word pos="222,4200,310,4237">The</word>
+						<word pos="333,4200,573,4238">Caribbean</word>
+						<word pos="598,4200,836,4249">Republics</word>
+						<word pos="1472,4318,1661,4355">Panama</word>
+						<word pos="223,4408,564,4457">Revolutionary</word>
+						<word pos="590,4407,764,4457">Change</word>
+						<word pos="787,4409,830,4445">in</word>
+						<word pos="854,4408,1029,4445">Central</word>
+						<word pos="1054,4408,1255,4444">America</word>
+						<word pos="1280,4406,1360,4444">and</word>
+						<word pos="1384,4407,1579,4444">Panama</word>
+						<word pos="2339,2478,2389,2516">64</word>
+						<word pos="2584,2478,2734,2515">March</word>
+						<word pos="2759,2479,2808,2517">19</word>
+						<word pos="2331,2682,2379,2719">61</word>
+						<word pos="2577,2682,2769,2731">January</word>
+						<word pos="2793,2683,2844,2720">29</word>
+						<word pos="2344,2890,2395,2926">62</word>
+						<word pos="2592,2889,2816,2939">February</word>
+						<word pos="2841,2891,2889,2928">12</word>
+						<word pos="2345,2946,2393,2982">71</word>
+						<word pos="2590,2945,2704,2983">June</word>
+						<word pos="2728,2947,2777,2983">18</word>
+						<word pos="2345,3146,2395,3183">60</word>
+						<word pos="2589,3145,2782,3195">January</word>
+						<word pos="2805,3148,2827,3184">2</word>
+						<word pos="2345,3379,2395,3415">70</word>
+						<word pos="2589,3378,2692,3427">May</word>
+						<word pos="2714,3380,2765,3416">28</word>
+						<word pos="2340,3583,2389,3620">65</word>
+						<word pos="2343,3790,2392,3827">65</word>
+						<word pos="2339,3995,2390,4032">68</word>
+						<word pos="2335,4201,2385,4237">65</word>
+						<word pos="2336,4408,2387,4444">60</word>
+						<word pos="2805,3147,2854,3180">22</word>
+						<word pos="2584,3583,2735,3622">March</word>
+						<word pos="2758,3586,2810,3623">26</word>
+						<word pos="2589,3790,2738,3828">March</word>
+						<word pos="2763,3791,2814,3828">26</word>
+						<word pos="2586,3995,2688,4045">May</word>
+						<word pos="2712,3998,2733,4034">7</word>
+						<word pos="2581,4200,2730,4237">March</word>
+						<word pos="2754,4200,2805,4237">26</word>
+						<word pos="2582,4407,2779,4456">January</word>
+						<word pos="2802,4408,2851,4445">22</word>
+						<word pos="384,4614,772,4662">RESEARCH</word>
+						<word pos="817,4612,1329,4670">DEPARTMENT,</word>
+						<word pos="1376,4611,1697,4660">FOREIGN</word>
+						<word pos="1737,4611,2008,4670">OFFICE,</word>
+						<word pos="2054,4611,2517,4670">WHITEHALL,</word>
+						<word pos="2560,4612,2694,4661">S.W.</word>
+						<word pos="2719,4617,2742,4661">1</word>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="2">cho_rfpc_1943-1945L_0000_072_0002</articlePage>
+					<p>
+						<word pos="1693,237,1911,282">Paraguay</word>
+						<word pos="2572,292,2764,329">Number</word>
+						<word pos="2920,293,3030,331">Date</word>
+						<word pos="470,367,639,404">Bolivia</word>
+						<word pos="662,365,745,403">and</word>
+						<word pos="768,366,991,414">Paraguay</word>
+						<word pos="2571,364,2619,400">61</word>
+						<word pos="2816,363,3012,412">January</word>
+						<word pos="3034,366,3085,402">29</word>
+						<word pos="1749,479,1860,517">Peru</word>
+						<word pos="465,572,576,609">Peru</word>
+						<word pos="599,570,680,608">and</word>
+						<word pos="705,569,905,608">Ecuador</word>
+						<word pos="2570,569,2620,606">68</word>
+						<word pos="2817,569,2920,617">May</word>
+						<word pos="2944,571,2965,607">7</word>
+						<word pos="1704,685,1902,730">Uruguay</word>
+						<word pos="464,775,551,812">The</word>
+						<word pos="572,774,771,813">Political</word>
+						<word pos="795,773,876,811">and</word>
+						<word pos="901,774,1137,811">Economic</word>
+						<word pos="1164,774,1383,811">Situation</word>
+						<word pos="1408,773,1449,809">in</word>
+						<word pos="1478,773,1685,821">Uruguay</word>
+						<word pos="2573,774,2623,811">63</word>
+						<word pos="2825,774,3046,823">February</word>
+						<word pos="3068,776,3120,812">26</word>
+						<word pos="1684,888,1920,925">Venezuela</word>
+						<word pos="466,975,805,1024">Developments</word>
+						<word pos="828,977,869,1013">in</word>
+						<word pos="892,975,1138,1014">Venezuela</word>
+						<word pos="2568,977,2617,1013">67</word>
+						<word pos="2816,976,2933,1024">April</word>
+						<word pos="2957,977,3006,1014">23</word>
+						<word pos="1447,1444,1681,1481">Reference</word>
+						<word pos="1713,1444,1823,1482">Note</word>
+						<word pos="1853,1445,1920,1482">for</word>
+						<word pos="1950,1445,2140,1483">Readers</word>
+						<word pos="803,1516,933,1553">From</word>
+						<word pos="966,1515,1151,1553">October</word>
+						<word pos="1176,1516,1238,1560">12,</word>
+						<word pos="1263,1515,1619,1564">1939-February</word>
+						<word pos="1642,1517,1705,1561">29,</word>
+						<word pos="1730,1518,1847,1562">1940,</word>
+						<word pos="1871,1517,2001,1554">Latin</word>
+						<word pos="2033,1518,2231,1554">America</word>
+						<word pos="2264,1515,2477,1566">appeared</word>
+						<word pos="2509,1518,2551,1555">in</word>
+						<word pos="2586,1518,2726,1556">Series</word>
+						<word pos="2759,1519,2790,1556">C</word>
+						<word pos="967,1570,1011,1608">of</word>
+						<word pos="1032,1570,1104,1607">the</word>
+						<word pos="1128,1571,1298,1608">Review</word>
+						<word pos="1322,1571,1365,1619">of</word>
+						<word pos="1386,1571,1457,1608">the</word>
+						<word pos="1480,1572,1663,1621">Foreign</word>
+						<word pos="1687,1571,1832,1616">Press;</word>
+						<word pos="803,1642,913,1679">from</word>
+						<word pos="936,1641,1087,1679">March</word>
+						<word pos="1109,1644,1144,1688">7,</word>
+						<word pos="1168,1642,1545,1680">1940-December</word>
+						<word pos="1567,1643,1630,1689">31,</word>
+						<word pos="1655,1643,1772,1688">1942,</word>
+						<word pos="1794,1643,1837,1679">in</word>
+						<word pos="1860,1644,1990,1680">Latin</word>
+						<word pos="2014,1643,2242,1681">American</word>
+						<word pos="2266,1644,2569,1691">Memoranda;</word>
+						<word pos="804,1713,916,1751">from</word>
+						<word pos="938,1713,1133,1762">January</word>
+						<word pos="1157,1716,1192,1759">7,</word>
+						<word pos="1219,1714,1336,1759">1943,</word>
+						<word pos="1359,1715,1403,1751">to</word>
+						<word pos="1425,1712,1537,1759">date,</word>
+						<word pos="1562,1715,1604,1751">in</word>
+						<word pos="1627,1714,1757,1751">Latin</word>
+						<word pos="1781,1714,2009,1752">American</word>
+						<word pos="2034,1715,2330,1760">Memoranda,</word>
+						<word pos="2354,1716,2437,1753">2nd</word>
+						<word pos="2460,1716,2614,1754">Series.</word>
+						<word pos="587,4675,825,4712">12071&#8212;55</word>
+						<word pos="890,4676,1142,4727">[30082&#8212;2]</word>
+						<word pos="1785,4684,1810,4720">2</word>
+					</p>
+				</textclip>
+			</text>
+		</article>
+	</page>
+	<page id="2" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3329" height="5281" type="jpeg" colorimage="color" pagePosition="left">cho_rfpc_1943-1945L_0000_072_0002</pageImage>
+		<sourcePage>2</sourcePage>
+	</page>
+</chapter>

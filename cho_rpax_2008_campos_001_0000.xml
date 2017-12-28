@@ -1,0 +1,704 @@
+<chapter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" contentType="book" xsi:noNamespaceSchemaLocation="V:\Production\Chatham_House\Schema\chapterv2.xsd">
+	<metadataInfo>
+		<PSMID>cho_rpax_2008_campos_001_0000</PSMID>
+		<language ocr="English" primary="Yes">English</language>
+		<productContentType>Pamphlets and Reports</productContentType>
+		<contentDate>
+			<contentComposed>2008</contentComposed>
+			<contentDecade>2000-2010</contentDecade>
+			<contentYear>2008</contentYear>
+			<contentDateStart>2008-01-01</contentDateStart>
+			<contentDateEnd>2008-12-31</contentDateEnd>
+		</contentDate>
+		<chathamHouseRule>No</chathamHouseRule>
+		<ocr>78.56</ocr>
+		<sourceLibrary>
+			<libraryName>Chatham House</libraryName>
+			<libraryLocation>London, England</libraryLocation>
+			<copyrightStatement>Copyright Royal Institute of International Affairs</copyrightStatement>
+		</sourceLibrary>
+	</metadataInfo>
+	<citation>
+		<book>
+			<pubDate>
+				<composed>2008</composed>
+				<year>2008</year>
+				<pubDateStart>2008-01-01</pubDateStart>
+				<pubDateEnd>2008-12-31</pubDateEnd>
+			</pubDate>
+			<titleGroup>
+				<fullTitle>Les &#233;lections en Angola:en Angola: un g&#233;ant p&#233;trolier d&#233;mocratique?</fullTitle>
+			</titleGroup>
+			<imprint>
+				<imprintFull>The Royal Institute of International Affairs</imprintFull>
+				<imprintPublisher>The Royal Institute of International Affairs</imprintPublisher>
+			</imprint>
+			<publicationPlace>
+				<publicationPlaceCity>London</publicationPlaceCity>
+				<publicationPlaceCountry>UK</publicationPlaceCountry>
+				<publicationPlaceComposed>London, UK</publicationPlaceComposed>
+			</publicationPlace>
+			<totalPages>3</totalPages>
+		</book>
+	</citation>
+	<page id="1" type="body_page" firstPage="Yes">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_rpax_2008_campos_001_0001</pageImage>
+		<sourcePage>1</sourcePage>
+		<article id="1" type="article" level="1">
+			<clip pgref="1" clipref="1"/>
+			<clip pgref="2" clipref="2"/>
+			<clip pgref="3" clipref="3"/>
+			<articleInfo>
+				<ocr>78.56</ocr>
+				<startingColumn>A</startingColumn>
+				<pageCount>3</pageCount>
+			</articleInfo>
+			<text>
+				<textclip>
+					<articlePage pgref="1" clipref="1">cho_rpax_2008_campos_001_0001</articlePage>
+					<p>
+						<word pos="394,493,736,550">CHATHAM</word>
+						<word pos="773,494,1010,551">HOUSE</word>
+						<word pos="1304,418,1451,448">Chatham</word>
+						<word pos="1466,418,1580,452">House,</word>
+						<word pos="1599,418,1636,448">10</word>
+						<word pos="1649,418,1680,447">St</word>
+						<word pos="1692,419,1819,447">James's</word>
+						<word pos="1832,417,1952,458">Square,</word>
+						<word pos="1964,420,2083,448">London</word>
+						<word pos="2096,418,2198,448">SW1Y</word>
+						<word pos="2211,417,2275,448">4LE</word>
+						<word pos="1304,473,1331,503">T:</word>
+						<word pos="1344,473,1413,503">+44</word>
+						<word pos="1426,472,1517,507">(0)20</word>
+						<word pos="1529,472,1616,503">7957</word>
+						<word pos="1630,473,1719,503">5700</word>
+						<word pos="1741,472,1771,503">E:</word>
+						<word pos="1781,472,2278,513">contaci@chathamhouse.org.uk</word>
+						<word pos="1305,529,1331,559">F:</word>
+						<word pos="1344,528,1413,557">+44</word>
+						<word pos="1427,528,1518,563">(0)20</word>
+						<word pos="1530,529,1616,559">7957</word>
+						<word pos="1632,529,1720,559">5710</word>
+						<word pos="1741,529,2184,567">www.chatharnhouse.org.uk</word>
+						<word pos="1304,608,1416,645">Chanty</word>
+						<word pos="1429,608,1621,646">Registration</word>
+						<word pos="1634,608,1771,636">Number:</word>
+						<word pos="1782,606,1915,638">208223</word>
+						<word pos="510,1080,712,1178">Les</word>
+						<word pos="758,1080,1272,1178">elections</word>
+						<word pos="1318,1104,1454,1176">en</word>
+						<word pos="500,1234,942,1360">Angola:</word>
+						<word pos="996,1260,1130,1332">un</word>
+						<word pos="1180,1238,1512,1360">geant</word>
+						<word pos="508,1388,982,1510">petrolier</word>
+						<word pos="504,1538,1378,1664">democratique?</word>
+						<word pos="503,1929,735,1970">Chatham</word>
+						<word pos="787,1929,948,1970">House</word>
+						<word pos="999,1931,1076,1970">est</word>
+						<word pos="1128,1940,1220,1970">une</word>
+						<word pos="1276,1929,1536,1970">institution</word>
+						<word pos="1590,1929,1947,1981">independante</word>
+						<word pos="1997,1940,2118,1970">sans</word>
+						<word pos="2169,1929,2408,1970">affiliation</word>
+						<word pos="504,1993,727,2045">politique</word>
+						<word pos="750,2004,814,2034">ou</word>
+						<word pos="839,1994,1307,2045">gouvernementale.</word>
+						<word pos="1335,1992,1645,2034">L'institution</word>
+						<word pos="1672,2004,1730,2034">ne</word>
+						<word pos="1753,1993,1932,2034">detient</word>
+						<word pos="1957,2004,2046,2044">pas</word>
+						<word pos="2070,1994,2159,2034">des</word>
+						<word pos="2184,1994,2410,2044">opinions</word>
+						<word pos="503,2057,562,2098">de</word>
+						<word pos="582,2068,675,2098">son</word>
+						<word pos="701,2068,917,2108">propres;</word>
+						<word pos="944,2057,1013,2098">les</word>
+						<word pos="1036,2058,1140,2098">avis</word>
+						<word pos="1161,2058,1401,2108">exprimes</word>
+						<word pos="1423,2057,1548,2098">dans</word>
+						<word pos="1570,2068,1627,2098">ce</word>
+						<word pos="1645,2059,1774,2098">texte</word>
+						<word pos="1794,2059,1871,2098">est</word>
+						<word pos="1896,2057,1934,2098">la</word>
+						<word pos="1957,2057,2329,2108">responsabilite</word>
+						<word pos="2350,2058,2410,2098">de</word>
+						<word pos="504,2120,709,2162">I'auteur.</word>
+						<word pos="747,2121,812,2162">Ce</word>
+						<word pos="847,2121,1107,2162">document</word>
+						<word pos="1141,2123,1218,2162">est</word>
+						<word pos="1252,2121,1423,2162">delivre</word>
+						<word pos="1457,2132,1541,2162">sur</word>
+						<word pos="1576,2121,1615,2162">la</word>
+						<word pos="1650,2120,2056,2172">comprehension</word>
+						<word pos="2092,2132,2198,2172">que,</word>
+						<word pos="2235,2121,2276,2162">si</word>
+						<word pos="2309,2122,2413,2162">tout</word>
+						<word pos="502,2184,665,2226">extrait</word>
+						<word pos="699,2186,776,2226">est</word>
+						<word pos="812,2185,978,2234">utilise,</word>
+						<word pos="1020,2184,1214,2226">I'auteur</word>
+						<word pos="1246,2186,1292,2226">et</word>
+						<word pos="1328,2185,1560,2226">Chatham</word>
+						<word pos="1598,2185,1763,2226">House</word>
+						<word pos="1797,2184,1937,2226">doive</word>
+						<word pos="1988,2186,2087,2226">etre</word>
+						<word pos="2123,2186,2311,2233">credite,</word>
+						<word pos="2350,2185,2409,2226">de</word>
+						<word pos="504,2248,782,2300">preference</word>
+						<word pos="802,2259,920,2290">avec</word>
+						<word pos="942,2249,981,2289">la</word>
+						<word pos="1002,2249,1112,2290">date</word>
+						<word pos="1133,2249,1192,2290">de</word>
+						<word pos="1214,2248,1516,2300">publication.</word>
+						<word pos="502,2448,866,2498">SOMMAIRE</word>
+						<word pos="500,2708,619,2748">Avec</word>
+						<word pos="654,2718,740,2748">une</word>
+						<word pos="773,2707,1027,2759">production</word>
+						<word pos="1057,2708,1115,2748">de</word>
+						<word pos="1146,2707,1173,2748">2</word>
+						<word pos="1206,2707,1384,2748">millions</word>
+						<word pos="1417,2707,1545,2748">barils</word>
+						<word pos="1578,2718,1655,2759">par</word>
+						<word pos="1681,2708,1786,2759">jour,</word>
+						<word pos="1823,2707,2028,2759">I'Angola,</word>
+						<word pos="2064,2707,2101,2748">le</word>
+						<word pos="2134,2707,2229,2759">plus</word>
+						<word pos="2262,2709,2412,2748">recent</word>
+						<word pos="504,2802,701,2843">membre</word>
+						<word pos="738,2802,795,2843">de</word>
+						<word pos="834,2801,1019,2850">I'OPEP,</word>
+						<word pos="1061,2804,1132,2843">est</word>
+						<word pos="1170,2802,1206,2842">le</word>
+						<word pos="1245,2802,1508,2853">producteur</word>
+						<word pos="1545,2802,1582,2843">le</word>
+						<word pos="1620,2801,1718,2853">plus</word>
+						<word pos="1756,2801,1984,2853">important</word>
+						<word pos="2022,2802,2079,2843">de</word>
+						<word pos="2117,2802,2282,2853">petrole</word>
+						<word pos="2320,2801,2412,2843">brut</word>
+						<word pos="502,2899,715,2950">d'Afrique</word>
+						<word pos="736,2899,1108,2940">subsaharienne.</word>
+						<word pos="1134,2899,1190,2940">Le</word>
+						<word pos="1212,2899,1420,2940">vendredi</word>
+						<word pos="1441,2900,1467,2940">5</word>
+						<word pos="1488,2899,1769,2950">Septembre,</word>
+						<word pos="1795,2899,1859,2940">les</word>
+						<word pos="1878,2899,2087,2951">Angolais</word>
+						<word pos="2109,2899,2412,2950">participeront</word>
+						<word pos="502,3004,588,3034">aux</word>
+						<word pos="609,2994,851,3045">premieres</word>
+						<word pos="874,2993,1090,3034">elections</word>
+						<word pos="1117,2993,1242,3034">libres</word>
+						<word pos="1266,2995,1309,3034">et</word>
+						<word pos="1337,2993,1629,3045">multipartites</word>
+						<word pos="1652,2994,1767,3034">dans</word>
+						<word pos="1795,2994,1831,3034">le</word>
+						<word pos="1856,3004,1967,3045">pays</word>
+						<word pos="1991,2993,2151,3045">depuis</word>
+						<word pos="2181,2993,2308,3034">1992.</word>
+						<word pos="2337,2993,2413,3034">Dix</word>
+						<word pos="504,3091,634,3142">partis</word>
+						<word pos="668,3091,892,3142">politiques</word>
+						<word pos="925,3092,968,3131">et</word>
+						<word pos="999,3092,1154,3142">quatre</word>
+						<word pos="1186,3091,1424,3138">coalitions,</word>
+						<word pos="1462,3101,1569,3142">pour</word>
+						<word pos="1601,3101,1655,3131">un</word>
+						<word pos="1684,3090,1787,3131">total</word>
+						<word pos="1819,3091,1876,3132">de</word>
+						<word pos="1908,3091,2042,3131">5.198</word>
+						<word pos="2074,3091,2322,3138">candidats,</word>
+						<word pos="2357,3101,2412,3132">se</word>
+						<word pos="503,3187,754,3226">contestent</word>
+						<word pos="774,3185,862,3226">220</word>
+						<word pos="883,3185,1037,3237">sieges</word>
+						<word pos="1059,3185,1433,3236">parlementaires.</word>
+						<word pos="1460,3185,1747,3226">[-'evaluation</word>
+						<word pos="1766,3185,1823,3226">de</word>
+						<word pos="1845,3185,1880,3226">la</word>
+						<word pos="1902,3185,2105,3226">situation</word>
+						<word pos="2126,3185,2315,3226">realisee</word>
+						<word pos="2337,3196,2413,3236">par</word>
+						<word pos="503,3279,720,3320">Chatham</word>
+						<word pos="757,3280,910,3320">House</word>
+						<word pos="941,3280,1056,3320">dans</word>
+						<word pos="1088,3290,1175,3320">son</word>
+						<word pos="1206,3281,1379,3331">rapport</word>
+						<word pos="1416,3280,1633,3331">Angola's</word>
+						<word pos="1664,3280,1886,3320">Elections</word>
+						<word pos="1914,3303,1945,3307">-</word>
+						<word pos="1972,3280,2006,3320">A</word>
+						<word pos="2039,3280,2320,3320">Democratic</word>
+						<word pos="2352,3279,2418,3320">Oil</word>
+						<word pos="506,3393,637,3434">Giant</word>
+						<word pos="720,3395,843,3445">porte</word>
+						<word pos="894,3404,966,3434">sur</word>
+						<word pos="1017,3394,1053,3434">la</word>
+						<word pos="1107,3394,1284,3445">periode</word>
+						<word pos="1337,3393,1670,3445">pre-electorale</word>
+						<word pos="1721,3394,1834,3434">dans</word>
+						<word pos="1886,3404,1940,3434">ce</word>
+						<word pos="1992,3404,2104,3445">pays</word>
+						<word pos="2156,3394,2287,3434">haute</word>
+						<word pos="2295,3404,2365,3434">me</word>
+						<word pos="2373,3395,2412,3434">nt</word>
+						<word pos="502,3499,770,3551">strategique</word>
+						<word pos="816,3499,1032,3550">d'Afrique</word>
+						<word pos="1077,3499,1283,3547">australe,</word>
+						<word pos="1333,3499,1434,3540">dont</word>
+						<word pos="1481,3499,1545,3540">les</word>
+						<word pos="1592,3501,1787,3540">recettes</word>
+						<word pos="1833,3499,2144,3550">d'exportation</word>
+						<word pos="2188,3510,2247,3540">en</word>
+						<word pos="2291,3499,2409,3540">2008</word>
+						<word pos="502,3596,804,3648">depasseront</word>
+						<word pos="826,3596,889,3637">les</word>
+						<word pos="911,3596,967,3637">84</word>
+						<word pos="990,3596,1184,3637">milliards</word>
+						<word pos="1205,3596,1262,3637">de</word>
+						<word pos="1282,3596,1442,3637">dollars</word>
+						<word pos="1465,3596,1547,3637">US.</word>
+						<word pos="504,3944,514,3970">1</word>
+						<word pos="547,3957,612,3998">Ce</word>
+						<word pos="642,3959,815,4009">rapport</word>
+						<word pos="844,3960,915,3998">est</word>
+						<word pos="945,3957,1060,3998">base</word>
+						<word pos="1088,3968,1161,3998">sur</word>
+						<word pos="1192,3968,1247,3998">un</word>
+						<word pos="1274,3957,1525,4005">seminaire,</word>
+						<word pos="1558,3958,1765,4009">organise</word>
+						<word pos="1794,3968,1819,3998">a</word>
+						<word pos="1850,3957,2071,3998">Chatham</word>
+						<word pos="2104,3957,2254,3998">House</word>
+						<word pos="2287,3957,2324,3998">le</word>
+						<word pos="2355,3957,2402,3999">11</word>
+						<word pos="498,4055,636,4106">juillet,</word>
+						<word pos="663,4055,960,4106">organisation</word>
+						<word pos="982,4056,1207,4095">soutenue</word>
+						<word pos="1231,4065,1307,4106">par</word>
+						<word pos="1331,4054,1668,4095">I'Observatoire</word>
+						<word pos="1691,4055,1748,4096">de</word>
+						<word pos="1773,4054,1965,4106">I'Afrique</word>
+						<word pos="1988,4056,2032,4095">et</word>
+						<word pos="2056,4055,2093,4095">le</word>
+						<word pos="2118,4055,2299,4106">Foreign</word>
+						<word pos="2321,4055,2408,4096">and</word>
+						<word pos="503,4148,883,4190">Commonwealth</word>
+						<word pos="903,4149,1058,4190">Office.</word>
+						<word pos="501,4360,1233,4408">www.chathamhouse.org.uk/africa</word>
+						<word pos="2787,4363,2799,4396">1</word>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="2" clipref="2">cho_rpax_2008_campos_001_0002</articlePage>
+					<p>
+						<word pos="504,248,578,284">Les</word>
+						<word pos="597,248,790,284">elections</word>
+						<word pos="808,257,858,284">en</word>
+						<word pos="876,248,1038,294">Angola:</word>
+						<word pos="1059,256,1108,284">un</word>
+						<word pos="1127,249,1250,294">geant</word>
+						<word pos="1267,248,1445,294">petrolier</word>
+						<word pos="1460,247,1786,294">democratique?</word>
+						<word pos="504,510,603,551">Plus</word>
+						<word pos="624,510,682,551">de</word>
+						<word pos="702,510,728,551">8</word>
+						<word pos="751,510,928,551">millions</word>
+						<word pos="949,510,1212,551">d'electeurs</word>
+						<word pos="1232,520,1287,551">se</word>
+						<word pos="1308,512,1407,551">sont</word>
+						<word pos="1429,510,1595,551">inscrits</word>
+						<word pos="1616,521,1688,551">sur</word>
+						<word pos="1709,510,1773,551">les</word>
+						<word pos="1795,510,2003,562">registres</word>
+						<word pos="2024,510,2276,551">electoraux</word>
+						<word pos="520,662,624,703">pour</word>
+						<word pos="644,652,728,692">des</word>
+						<word pos="752,652,965,692">elections</word>
+						<word pos="988,652,1056,703">qui</word>
+						<word pos="1081,653,1390,703">represented</word>
+						<word pos="1415,662,1469,692">un</word>
+						<word pos="1490,662,1573,703">pas</word>
+						<word pos="1597,652,1654,692">de</word>
+						<word pos="1674,654,1812,703">geant</word>
+						<word pos="1833,652,1948,692">dans</word>
+						<word pos="1973,652,2008,692">la</word>
+						<word pos="2029,652,2252,692">transition</word>
+						<word pos="2276,653,2376,704">post</word>
+						<word pos="2396,674,2411,680">-</word>
+						<word pos="503,746,643,787">conflit</word>
+						<word pos="666,746,722,787">du</word>
+						<word pos="745,757,869,798">pays.</word>
+						<word pos="897,746,989,787">Ces</word>
+						<word pos="1013,746,1228,787">elections</word>
+						<word pos="1252,746,1515,787">constituent</word>
+						<word pos="1538,757,1597,787">en</word>
+						<word pos="1619,746,1727,787">effet</word>
+						<word pos="1750,757,1832,787">une</word>
+						<word pos="1855,748,1990,797">etape</word>
+						<word pos="2015,746,2273,797">importante</word>
+						<word pos="2297,746,2409,787">dans</word>
+						<word pos="504,854,558,884">un</word>
+						<word pos="581,854,828,895">processus</word>
+						<word pos="852,844,920,895">qui</word>
+						<word pos="945,843,1103,884">inclura</word>
+						<word pos="1128,843,1192,884">les</word>
+						<word pos="1216,843,1428,884">elections</word>
+						<word pos="1453,843,1816,895">presidentielles,</word>
+						<word pos="1845,854,2034,894">prevues</word>
+						<word pos="2057,854,2116,884">en</word>
+						<word pos="2138,843,2256,884">2009</word>
+						<word pos="2280,845,2323,884">et</word>
+						<word pos="2348,844,2412,884">les</word>
+						<word pos="502,938,715,979">elections</word>
+						<word pos="764,938,931,979">locales</word>
+						<word pos="978,948,1170,989">prevues</word>
+						<word pos="1216,948,1275,978">en</word>
+						<word pos="1321,938,1452,978">2010.</word>
+						<word pos="1504,938,1562,978">Le</word>
+						<word pos="1609,938,1896,978">Mouvement</word>
+						<word pos="1943,938,2170,989">Populaire</word>
+						<word pos="2220,948,2327,989">pour</word>
+						<word pos="2373,938,2408,979">la</word>
+						<word pos="504,1035,741,1076">Liberation</word>
+						<word pos="774,1035,831,1076">de</word>
+						<word pos="871,1035,1081,1087">L'Angola</word>
+						<word pos="1117,1034,1300,1087">(MPLA)</word>
+						<word pos="1336,1036,1407,1076">est</word>
+						<word pos="1441,1046,1500,1076">au</word>
+						<word pos="1537,1035,1716,1087">pouvoir</word>
+						<word pos="1749,1035,1909,1086">depuis</word>
+						<word pos="1948,1035,2317,1086">I'lndependance</word>
+						<word pos="2352,1035,2411,1076">du</word>
+						<word pos="504,1129,700,1181">Portugal</word>
+						<word pos="721,1140,780,1170">en</word>
+						<word pos="803,1130,930,1170">1975.</word>
+						<word pos="500,1410,537,1450">A</word>
+						<word pos="563,1420,704,1451">cause</word>
+						<word pos="733,1410,790,1451">de</word>
+						<word pos="820,1410,856,1451">la</word>
+						<word pos="884,1409,1007,1451">force</word>
+						<word pos="1037,1410,1381,1451">institutionnelle</word>
+						<word pos="1411,1412,1454,1451">et</word>
+						<word pos="1481,1410,1718,1451">financiere</word>
+						<word pos="1746,1410,1802,1451">du</word>
+						<word pos="1832,1410,1989,1457">MPLA,</word>
+						<word pos="2023,1410,2042,1451">il</word>
+						<word pos="2072,1412,2143,1451">est</word>
+						<word pos="2173,1410,2412,1462">largement</word>
+						<word pos="502,1507,683,1548">attendu</word>
+						<word pos="711,1518,798,1558">que</word>
+						<word pos="828,1507,865,1548">le</word>
+						<word pos="895,1507,998,1558">parti</word>
+						<word pos="1029,1518,1081,1548">va</word>
+						<word pos="1112,1509,1350,1559">remporter</word>
+						<word pos="1378,1507,1442,1548">les</word>
+						<word pos="1472,1507,1687,1548">elections</word>
+						<word pos="1716,1509,1760,1548">et</word>
+						<word pos="1790,1508,1971,1558">pourrait</word>
+						<word pos="2001,1518,2148,1548">meme</word>
+						<word pos="2177,1507,2330,1559">elargir</word>
+						<word pos="2358,1518,2412,1548">sa</word>
+						<word pos="504,1602,693,1653">majorite</word>
+						<word pos="714,1625,745,1629">-</word>
+						<word pos="763,1612,818,1642">ce</word>
+						<word pos="841,1602,909,1653">qui</word>
+						<word pos="934,1602,970,1642">le</word>
+						<word pos="995,1602,1176,1642">mettrait</word>
+						<word pos="1197,1612,1222,1642">a</word>
+						<word pos="1245,1612,1392,1642">meme</word>
+						<word pos="1416,1602,1473,1642">de</word>
+						<word pos="1495,1602,1675,1653">pouvoir</word>
+						<word pos="1698,1601,1891,1642">modifier</word>
+						<word pos="1912,1602,1948,1642">la</word>
+						<word pos="1973,1601,2272,1643">Constitution.</word>
+						<word pos="2299,1602,2414,1642">Pour</word>
+						<word pos="504,1699,540,1740">le</word>
+						<word pos="568,1699,767,1750">principal</word>
+						<word pos="795,1699,898,1750">parti</word>
+						<word pos="924,1699,1224,1750">d'opposition,</word>
+						<word pos="1256,1699,1442,1740">I'UNITA</word>
+						<word pos="1467,1698,1627,1751">(Union</word>
+						<word pos="1657,1699,1881,1740">Nationale</word>
+						<word pos="1909,1709,2016,1750">pour</word>
+						<word pos="2042,1698,2409,1750">I'lndependance</word>
+						<word pos="501,1793,651,1834">Totale</word>
+						<word pos="683,1794,740,1834">de</word>
+						<word pos="776,1793,1000,1845">I'Angola),</word>
+						<word pos="1036,1804,1117,1834">ces</word>
+						<word pos="1149,1793,1365,1834">elections</word>
+						<word pos="1396,1795,1548,1834">seront</word>
+						<word pos="1581,1794,1620,1834">le</word>
+						<word pos="1653,1793,1896,1834">revelateur</word>
+						<word pos="1927,1793,1984,1834">de</word>
+						<word pos="2020,1792,2108,1834">leur</word>
+						<word pos="2142,1793,2409,1845">importance</word>
+						<word pos="504,1891,704,1942">politique</word>
+						<word pos="724,1891,881,1942">depuis</word>
+						<word pos="904,1891,991,1931">leur</word>
+						<word pos="1010,1890,1173,1931">defaite</word>
+						<word pos="1195,1891,1379,1931">militaire</word>
+						<word pos="1399,1901,1458,1931">en</word>
+						<word pos="1477,1891,1595,1931">2002</word>
+						<word pos="1616,1893,1659,1931">et</word>
+						<word pos="1680,1901,1815,1942">apres</word>
+						<word pos="1835,1891,1862,1931">6</word>
+						<word pos="1883,1901,1965,1931">ans</word>
+						<word pos="1985,1890,2042,1931">de</word>
+						<word pos="2065,1891,2169,1942">paix.</word>
+						<word pos="504,2171,587,2212">Les</word>
+						<word pos="609,2171,867,2223">points-cles</word>
+						<word pos="888,2172,945,2212">de</word>
+						<word pos="966,2173,1084,2212">cette</word>
+						<word pos="1105,2171,1350,2212">evaluation</word>
+						<word pos="1369,2171,1426,2212">de</word>
+						<word pos="1448,2171,1484,2212">la</word>
+						<word pos="1505,2171,1708,2212">situation</word>
+						<word pos="1728,2182,1804,2222">pre</word>
+						<word pos="1824,2171,2087,2212">electorales</word>
+						<word pos="2107,2173,2236,2212">sont:</word>
+						<word pos="504,2452,559,2493">Le</word>
+						<word pos="593,2452,621,2492">5</word>
+						<word pos="656,2451,920,2503">Septembre</word>
+						<word pos="955,2452,1086,2499">2008,</word>
+						<word pos="1126,2452,1189,2492">les</word>
+						<word pos="1223,2452,1431,2504">Angolais</word>
+						<word pos="1467,2452,1768,2503">participeront</word>
+						<word pos="1802,2462,1888,2493">aux</word>
+						<word pos="1920,2452,2162,2503">premieres</word>
+						<word pos="2197,2452,2409,2493">elections</word>
+						<word pos="504,2546,795,2597">multipartites</word>
+						<word pos="816,2546,976,2597">depuis</word>
+						<word pos="1000,2546,1128,2587">1992.</word>
+						<word pos="1157,2546,1232,2587">Dix</word>
+						<word pos="1251,2546,1381,2598">partis</word>
+						<word pos="1403,2546,1634,2597">politiques</word>
+						<word pos="1655,2548,1698,2587">et</word>
+						<word pos="1719,2548,1873,2597">quatre</word>
+						<word pos="1894,2546,2120,2587">coalitions</word>
+						<word pos="2141,2557,2255,2587">avec</word>
+						<word pos="2275,2546,2409,2587">5.198</word>
+						<word pos="502,2643,734,2684">candidats</word>
+						<word pos="756,2654,863,2695">pour</word>
+						<word pos="882,2643,970,2684">220</word>
+						<word pos="991,2644,1158,2695">sieges.</word>
+						<word pos="504,2782,560,2823">Le</word>
+						<word pos="595,2782,742,2823">MPLA</word>
+						<word pos="774,2784,845,2823">est</word>
+						<word pos="880,2793,938,2823">au</word>
+						<word pos="976,2782,1155,2834">pouvoir</word>
+						<word pos="1188,2782,1348,2834">depuis</word>
+						<word pos="1387,2782,1754,2834">I'independance</word>
+						<word pos="1788,2783,1846,2823">du</word>
+						<word pos="1885,2782,2084,2834">Portugal</word>
+						<word pos="2119,2793,2177,2823">en</word>
+						<word pos="2217,2782,2332,2823">1975</word>
+						<word pos="2369,2784,2412,2823">et</word>
+						<word pos="502,2880,706,2920">continue</word>
+						<word pos="727,2890,753,2920">a</word>
+						<word pos="774,2880,969,2920">dominer</word>
+						<word pos="990,2880,1026,2920">le</word>
+						<word pos="1048,2890,1251,2931">paysage</word>
+						<word pos="1273,2880,1474,2931">politique</word>
+						<word pos="1494,2880,1711,2931">angolais.</word>
+						<word pos="504,3018,709,3059">L'UNITA</word>
+						<word pos="727,3029,753,3059">a</word>
+						<word pos="774,3018,1096,3059">officiellement</word>
+						<word pos="1117,3029,1312,3059">renonce</word>
+						<word pos="1333,3029,1358,3059">a</word>
+						<word pos="1380,3029,1466,3059">son</word>
+						<word pos="1486,3019,1568,3059">aile</word>
+						<word pos="1592,3018,1776,3059">militaire</word>
+						<word pos="1797,3020,1840,3059">et</word>
+						<word pos="1861,3019,2079,3059">constitue</word>
+						<word pos="2099,3018,2412,3059">actuellement</word>
+						<word pos="504,3126,558,3156">un</word>
+						<word pos="578,3116,681,3167">parti</word>
+						<word pos="704,3116,906,3168">politique</word>
+						<word pos="927,3116,1147,3167">organise.</word>
+						<word pos="1172,3115,1234,3156">Sa</word>
+						<word pos="1255,3126,1418,3156">source</word>
+						<word pos="1438,3116,1495,3156">de</word>
+						<word pos="1517,3126,1683,3156">revenu</word>
+						<word pos="1704,3116,1973,3167">primordiale</word>
+						<word pos="1994,3118,2065,3156">est</word>
+						<word pos="2087,3116,2123,3156">le</word>
+						<word pos="2144,3116,2331,3157">subside</word>
+						<word pos="2352,3116,2409,3156">de</word>
+						<word pos="506,3210,559,3250">14</word>
+						<word pos="581,3210,759,3251">millions</word>
+						<word pos="780,3210,837,3251">de</word>
+						<word pos="857,3210,992,3251">dollar</word>
+						<word pos="1015,3210,1081,3251">US</word>
+						<word pos="1104,3210,1218,3251">base</word>
+						<word pos="1238,3220,1314,3251">sur</word>
+						<word pos="1334,3210,1370,3251">le</word>
+						<word pos="1395,3210,1576,3251">nombre</word>
+						<word pos="1597,3210,1654,3251">de</word>
+						<word pos="1674,3210,1828,3262">sieges</word>
+						<word pos="1851,3210,2212,3261">parlementaires</word>
+						<word pos="2232,3221,2409,3262">gagnes</word>
+						<word pos="504,3307,587,3348">lors</word>
+						<word pos="624,3307,709,3348">des</word>
+						<word pos="749,3307,962,3348">elections</word>
+						<word pos="1002,3308,1059,3348">de</word>
+						<word pos="1103,3307,1334,3348">1992.Une</word>
+						<word pos="1376,3309,1498,3359">perte</word>
+						<word pos="1536,3307,1592,3348">de</word>
+						<word pos="1630,3308,1787,3359">sieges</word>
+						<word pos="1827,3308,2124,3348">constituerait</word>
+						<word pos="2164,3318,2248,3348">une</word>
+						<word pos="2290,3309,2412,3360">perte</word>
+						<word pos="504,3402,695,3453">majeure</word>
+						<word pos="716,3412,774,3443">en</word>
+						<word pos="792,3404,931,3443">terme</word>
+						<word pos="952,3402,1009,3442">de</word>
+						<word pos="1031,3412,1220,3443">revenus</word>
+						<word pos="1242,3412,1349,3453">pour</word>
+						<word pos="1370,3402,1406,3443">le</word>
+						<word pos="1428,3402,1544,3453">parti.</word>
+						<word pos="504,3544,587,3584">Les</word>
+						<word pos="623,3544,923,3595">preparations</word>
+						<word pos="956,3544,1223,3595">techniques</word>
+						<word pos="1259,3554,1366,3595">pour</word>
+						<word pos="1401,3544,1464,3584">les</word>
+						<word pos="1499,3544,1714,3584">elections</word>
+						<word pos="1749,3545,1823,3584">ont</word>
+						<word pos="1858,3545,1931,3584">ete</word>
+						<word pos="1968,3544,2408,3595">impressionnantes.</word>
+						<word pos="504,3638,603,3678">Plus</word>
+						<word pos="635,3638,693,3679">de</word>
+						<word pos="724,3638,751,3679">8</word>
+						<word pos="784,3638,962,3679">millions</word>
+						<word pos="994,3638,1259,3679">d'electeurs</word>
+						<word pos="1291,3640,1365,3679">ont</word>
+						<word pos="1396,3640,1470,3679">ete</word>
+						<word pos="1504,3638,1683,3686">inscrits,</word>
+						<word pos="1719,3640,1762,3678">et</word>
+						<word pos="1794,3638,2056,3690">aujourd'hui</word>
+						<word pos="2089,3638,2281,3690">I'Angola</word>
+						<word pos="2313,3648,2340,3679">a</word>
+						<word pos="2372,3637,2410,3679">le</word>
+						<word pos="504,3735,684,3787">registre</word>
+						<word pos="705,3735,909,3776">electoral</word>
+						<word pos="931,3735,968,3776">le</word>
+						<word pos="990,3735,1081,3786">plus</word>
+						<word pos="1102,3735,1379,3786">sophistique</word>
+						<word pos="1399,3735,1458,3776">du</word>
+						<word pos="1477,3735,1698,3776">continent</word>
+						<word pos="1718,3735,1905,3776">africain.</word>
+						<word pos="504,3874,598,3915">Une</word>
+						<word pos="626,3874,919,3925">participation</word>
+						<word pos="944,3874,1178,3915">electorate</word>
+						<word pos="1203,3873,1347,3922">faible,</word>
+						<word pos="1378,3885,1433,3915">un</word>
+						<word pos="1458,3885,1598,3915">acces</word>
+						<word pos="1624,3885,1712,3915">aux</word>
+						<word pos="1736,3874,1909,3915">medias</word>
+						<word pos="1936,3874,2091,3926">inegal,</word>
+						<word pos="2121,3874,2179,3915">de</word>
+						<word pos="2206,3876,2412,3915">recentes</word>
+						<word pos="502,3971,762,4023">allegations</word>
+						<word pos="785,3971,1105,4012">d'intimidation</word>
+						<word pos="1127,3971,1184,4012">de</word>
+						<word pos="1209,3971,1442,4012">I'electorat</word>
+						<word pos="1466,3973,1509,4012">et</word>
+						<word pos="1534,3971,1698,4023">I'usage</word>
+						<word pos="1721,3972,1778,4012">de</word>
+						<word pos="1803,3982,2067,4012">ressources</word>
+						<word pos="2091,3971,2312,4023">etatiques</word>
+						<word pos="2337,3982,2413,4023">par</word>
+						<word pos="504,4066,540,4106">le</word>
+						<word pos="576,4066,723,4106">MPLA</word>
+						<word pos="756,4076,864,4117">pour</word>
+						<word pos="896,4066,981,4106">des</word>
+						<word pos="1017,4066,1201,4106">besoins</word>
+						<word pos="1237,4066,1456,4117">partisans</word>
+						<word pos="1492,4066,1740,4117">pourraient</word>
+						<word pos="1774,4065,1960,4106">affecter</word>
+						<word pos="1995,4066,2030,4106">la</word>
+						<word pos="2066,4066,2293,4107">credibility</word>
+						<word pos="2327,4066,2412,4107">des</word>
+						<word pos="502,4163,727,4204">elections.</word>
+						<word pos="501,4360,1099,4408">www.chathamhouse.org.uk</word>
+						<word pos="1301,4361,1326,4398">2</word>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="3" clipref="3">cho_rpax_2008_campos_001_0003</articlePage>
+					<p>
+						<word pos="504,248,578,284">Les</word>
+						<word pos="597,248,790,284">elections</word>
+						<word pos="808,257,858,284">en</word>
+						<word pos="876,248,1038,294">Angola:</word>
+						<word pos="1059,256,1108,284">un</word>
+						<word pos="1127,249,1250,294">geant</word>
+						<word pos="1267,248,1445,294">petrolier</word>
+						<word pos="1460,247,1786,294">democratique?</word>
+						<word pos="503,651,595,692">Ces</word>
+						<word pos="616,652,831,692">elections</word>
+						<word pos="856,651,952,692">n'en</word>
+						<word pos="973,654,1282,704">represented</word>
+						<word pos="1304,662,1387,703">pas</word>
+						<word pos="1412,652,1551,692">moins</word>
+						<word pos="1576,662,1630,692">un</word>
+						<word pos="1654,662,1737,703">pas</word>
+						<word pos="1758,652,1815,692">de</word>
+						<word pos="1835,653,1973,703">geant</word>
+						<word pos="1994,652,2109,692">dans</word>
+						<word pos="2131,652,2166,692">la</word>
+						<word pos="2187,652,2410,692">transition</word>
+						<word pos="504,746,765,797">post-conflit</word>
+						<word pos="788,746,845,787">de</word>
+						<word pos="873,746,1075,798">I'Angola,</word>
+						<word pos="1106,746,1215,787">mais</word>
+						<word pos="1238,746,1456,798">signifient</word>
+						<word pos="1480,746,1603,787">aussi</word>
+						<word pos="1631,746,1667,787">la</word>
+						<word pos="1690,746,1747,786">fin</word>
+						<word pos="1769,746,1829,787">de</word>
+						<word pos="1854,746,2038,787">I'accord</word>
+						<word pos="2063,746,2120,787">de</word>
+						<word pos="2145,748,2329,798">partage</word>
+						<word pos="2352,746,2411,787">du</word>
+						<word pos="504,844,680,894">pouvoir</word>
+						<word pos="711,845,831,884">entre</word>
+						<word pos="865,843,901,884">le</word>
+						<word pos="935,843,1081,884">MPLA</word>
+						<word pos="1111,846,1154,884">et</word>
+						<word pos="1187,843,1373,884">I'UNITA</word>
+						<word pos="1402,854,1460,884">au</word>
+						<word pos="1491,844,1588,884">sein</word>
+						<word pos="1619,844,1677,884">du</word>
+						<word pos="1708,845,2059,895">gouvernement</word>
+						<word pos="2091,843,2251,884">d'unite</word>
+						<word pos="2283,846,2326,884">et</word>
+						<word pos="2358,844,2415,884">de</word>
+						<word pos="504,938,822,979">reconciliation</word>
+						<word pos="842,938,1072,985">nationale,</word>
+						<word pos="1097,938,1223,978">etabli</word>
+						<word pos="1245,948,1322,989">par</word>
+						<word pos="1342,938,1379,978">le</word>
+						<word pos="1401,938,1628,979">Protocole</word>
+						<word pos="1649,938,1706,978">de</word>
+						<word pos="1729,938,1900,979">Lusaka</word>
+						<word pos="1921,938,2048,990">signe</word>
+						<word pos="2069,948,2127,978">en</word>
+						<word pos="2150,938,2277,978">1994.</word>
+						<word pos="501,4360,1099,4408">www.chathamhouse.org.uk</word>
+						<word pos="1302,4361,1325,4398">3</word>
+					</p>
+				</textclip>
+			</text>
+		</article>
+	</page>
+	<page id="2" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_rpax_2008_campos_001_0002</pageImage>
+		<sourcePage>2</sourcePage>
+	</page>
+	<page id="3" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_rpax_2008_campos_001_0003</pageImage>
+		<sourcePage>3</sourcePage>
+	</page>
+</chapter>

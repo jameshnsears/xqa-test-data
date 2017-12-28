@@ -1,0 +1,207 @@
+<chapter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" contentType="book" xsi:noNamespaceSchemaLocation="V:\Production\Chatham_House\Schema\chapterv2.xsd">
+	<metadataInfo>
+		<PSMID>cho_chrx_2003_green_008_0000</PSMID>
+		<language ocr="English" primary="Yes">English</language>
+		<productContentType>Pamphlets and Reports</productContentType>
+		<contentDate>
+			<contentComposed>February 2003</contentComposed>
+			<contentDecade>2000-2010</contentDecade>
+			<contentYear>2003</contentYear>
+			<contentMonth>02</contentMonth>
+			<contentDateStart>2003-02-01</contentDateStart>
+			<contentDateEnd>2003-02-28</contentDateEnd>
+		</contentDate>
+		<chathamHouseRule>No</chathamHouseRule>
+		<ocr>32.38</ocr>
+		<sourceLibrary>
+			<libraryName>Chatham House</libraryName>
+			<libraryLocation>London, England</libraryLocation>
+			<copyrightStatement>Copyright Royal Institute of International Affairs</copyrightStatement>
+		</sourceLibrary>
+	</metadataInfo>
+	<citation>
+		<book>
+			<pubDate>
+				<composed>February 2003</composed>
+				<year>2003</year>
+				<month>02</month>
+				<pubDateStart>2003-02-01</pubDateStart>
+				<pubDateEnd>2003-02-28</pubDateEnd>
+			</pubDate>
+			<author role="author">
+				<aucomposed>Stephen Green</aucomposed>
+				<first>Stephen</first>
+				<last>Green</last>
+			</author>
+                        <seriesGroup>
+                        <seriesComposed>The China Project</seriesComposed>
+                        <seriesTitle>Asia Programme</seriesTitle>
+                        </seriesGroup>
+			<titleGroup>
+				<fullTitle>China's stock market: eight myths and some reasons to be optimistic [Chinese]</fullTitle>
+			</titleGroup>
+			<imprint>
+				<imprintFull>The Royal Institute of International Affairs</imprintFull>
+				<imprintPublisher>The Royal Institute of International Affairs</imprintPublisher>
+			</imprint>
+			<publicationPlace>
+				<publicationPlaceCity>London</publicationPlaceCity>
+				<publicationPlaceCountry>UK</publicationPlaceCountry>
+				<publicationPlaceComposed>London, UK</publicationPlaceComposed>
+			</publicationPlace>
+			<totalPages>13</totalPages>
+		</book>
+	</citation>
+	<page id="1" type="body_page" firstPage="Yes">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2003_green_008_0001</pageImage>
+		<sourcePage>1</sourcePage>
+		<article id="1" type="article" level="1">
+			<clip pgref="1"/>
+			<clip pgref="2"/>
+			<clip pgref="3"/>
+			<clip pgref="4"/>
+			<clip pgref="5"/>
+			<clip pgref="6"/>
+			<clip pgref="7"/>
+			<clip pgref="8"/>
+			<clip pgref="9"/>
+			<clip pgref="10"/>
+			<clip pgref="11"/>
+			<clip pgref="12"/>
+			<clip pgref="13"/>
+			<articleInfo>
+				<ocr>32.38</ocr>
+				<startingColumn>A</startingColumn>
+				<pageCount>13</pageCount>
+			</articleInfo>
+			<text>
+				<textclip>
+					<articlePage pgref="1">cho_chrx_2003_green_008_0001</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="2">cho_chrx_2003_green_008_0002</articlePage>
+					<p>
+                                                <word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="3">cho_chrx_2003_green_008_0003</articlePage>
+					<p>
+                                                <word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="4">cho_chrx_2003_green_008_0004</articlePage>
+					<p>
+                                                <word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="5">cho_chrx_2003_green_008_0005</articlePage>
+					<p>
+                                                <word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="6">cho_chrx_2003_green_008_0006</articlePage>
+					<p>
+                                                <word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="7">cho_chrx_2003_green_008_0007</articlePage>
+					<p>
+                                                <word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="8">cho_chrx_2003_green_008_0008</articlePage>
+					<p>
+                                                <word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="9">cho_chrx_2003_green_008_0009</articlePage>
+					<p>
+                                                <word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="10">cho_chrx_2003_green_008_0010</articlePage>
+					<p>
+                                                <word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="11">cho_chrx_2003_green_008_0011</articlePage>
+					<p>
+                                                <word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="12">cho_chrx_2003_green_008_0012</articlePage>
+					<p>
+                                                <word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="13">cho_chrx_2003_green_008_0013</articlePage>
+					<p>
+                                                <word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+			</text>
+		</article>
+	</page>
+	<page id="2" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2003_green_008_0002</pageImage>
+		<sourcePage>2</sourcePage>
+	</page>
+	<page id="3" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2003_green_008_0003</pageImage>
+		<sourcePage>3</sourcePage>
+	</page>
+	<page id="4" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2003_green_008_0004</pageImage>
+		<sourcePage>4</sourcePage>
+	</page>
+	<page id="5" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2003_green_008_0005</pageImage>
+		<sourcePage>5</sourcePage>
+	</page>
+	<page id="6" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2003_green_008_0006</pageImage>
+		<sourcePage>6</sourcePage>
+	</page>
+	<page id="7" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2003_green_008_0007</pageImage>
+		<sourcePage>7</sourcePage>
+	</page>
+	<page id="8" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2003_green_008_0008</pageImage>
+		<sourcePage>8</sourcePage>
+	</page>
+	<page id="9" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2003_green_008_0009</pageImage>
+		<sourcePage>9</sourcePage>
+	</page>
+	<page id="10" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2003_green_008_0010</pageImage>
+		<sourcePage>10</sourcePage>
+	</page>
+	<page id="11" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2003_green_008_0011</pageImage>
+		<sourcePage>11</sourcePage>
+	</page>
+	<page id="12" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2003_green_008_0012</pageImage>
+		<sourcePage>12</sourcePage>
+	</page>
+	<page id="13" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2003_green_008_0013</pageImage>
+		<sourcePage>13</sourcePage>
+	</page>
+</chapter>

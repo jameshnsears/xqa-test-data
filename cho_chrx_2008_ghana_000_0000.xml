@@ -1,0 +1,692 @@
+<chapter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" contentType="book" xsi:noNamespaceSchemaLocation="V:\Production\Chatham_House\Schema\chapterv2.xsd">
+	<metadataInfo>
+		<PSMID>cho_chrx_2008_ghana_000_0000</PSMID>
+		<language ocr="English" primary="Yes">English</language>
+		<productContentType>Pamphlets and Reports</productContentType>
+		<contentDate>
+			<contentComposed>Monday 22 December 2008</contentComposed>
+			<contentDecade>2000-2010</contentDecade>
+			<contentYear>2008</contentYear>
+			<contentMonth>12</contentMonth>
+			<contentDay>22</contentDay>
+			<contentDateStart>2008-12-22</contentDateStart>
+			<contentDateEnd>2008-12-22</contentDateEnd>
+		</contentDate>
+		<chathamHouseRule>No</chathamHouseRule>
+		<ocr>81.88</ocr>
+		<sourceLibrary>
+			<libraryName>Chatham House</libraryName>
+			<libraryLocation>London, England</libraryLocation>
+			<copyrightStatement>Copyright Royal Institute of International Affairs</copyrightStatement>
+		</sourceLibrary>
+	</metadataInfo>
+	<citation>
+		<book>
+			<pubDate>
+				<composed>Monday 22 December 2008</composed>
+				<year>2008</year>
+				<month>12</month>
+				<day>22</day>
+				<dayofweek>Monday</dayofweek>
+				<pubDateStart>2008-12-22</pubDateStart>
+				<pubDateEnd>2008-12-22</pubDateEnd>
+			</pubDate>
+			<seriesGroup>
+				<seriesComposed>Expert Comment</seriesComposed>
+				<seriesTitle>Expert Comment</seriesTitle>
+			</seriesGroup>
+			<titleGroup>
+				<fullTitle>Ghana: Leading Africa Once More</fullTitle>
+			</titleGroup>
+			<imprint>
+				<imprintFull>The Royal Institute of International Affairs</imprintFull>
+				<imprintPublisher>The Royal Institute of International Affairs</imprintPublisher>
+			</imprint>
+			<publicationPlace>
+				<publicationPlaceCity>London</publicationPlaceCity>
+				<publicationPlaceCountry>UK</publicationPlaceCountry>
+				<publicationPlaceComposed>London, UK</publicationPlaceComposed>
+			</publicationPlace>
+			<totalPages>2</totalPages>
+		</book>
+	</citation>
+	<page id="1" type="body_page" firstPage="Yes">
+		<pageImage pageIndicator="single" width="3307" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2008_ghana_000_0001</pageImage>
+		<article id="1" type="article" level="1">
+			<clip pgref="1"/>
+			<clip pgref="2"/>
+			<articleInfo>
+				<ocr>81.88</ocr>
+				<startingColumn>A</startingColumn>
+				<pageCount>2</pageCount>
+			</articleInfo>
+			<text>
+				<textclip>
+					<articlePage pgref="1">cho_chrx_2008_ghana_000_0001</articlePage>
+					<p>
+						<word pos="403,428,681,504">Expert</word>
+						<word pos="711,426,1123,500">Comment</word>
+						<word pos="404,781,643,836">Ghana:</word>
+						<word pos="669,781,949,852">Leading</word>
+						<word pos="966,781,1179,836">Africa</word>
+						<word pos="1202,783,1374,836">Once</word>
+						<word pos="1398,783,1579,836">More</word>
+						<word pos="405,883,604,935">Monday</word>
+						<word pos="622,885,677,924">22</word>
+						<word pos="700,883,951,925">December</word>
+						<word pos="969,885,1087,925">2008</word>
+						<word pos="400,1024,497,1066">This</word>
+						<word pos="514,1026,624,1066">time</word>
+						<word pos="646,1024,727,1066">last</word>
+						<word pos="744,1037,850,1077">year</word>
+						<word pos="870,1024,1051,1077">Kenya's</word>
+						<word pos="1072,1024,1357,1077">presidential</word>
+						<word pos="1378,1024,1464,1066">and</word>
+						<word pos="1487,1024,1832,1077">parliamentary</word>
+						<word pos="1849,1024,2067,1066">elections</word>
+						<word pos="2087,1024,2236,1066">ended</word>
+						<word pos="2258,1026,2296,1066">in</word>
+						<word pos="2317,1037,2339,1066">a</word>
+						<word pos="2362,1026,2503,1077">major</word>
+						<word pos="2521,1026,2652,1074">crisis,</word>
+						<word pos="2675,1024,2885,1077">resulting</word>
+						<word pos="404,1112,442,1152">in</word>
+						<word pos="462,1110,613,1152">ethnic</word>
+						<word pos="629,1110,846,1160">violence,</word>
+						<word pos="869,1110,1030,1162">killings</word>
+						<word pos="1050,1110,1136,1152">and</word>
+						<word pos="1157,1110,1435,1152">destruction</word>
+						<word pos="1456,1110,1505,1152">of</word>
+						<word pos="1522,1116,1734,1162">property</word>
+						<word pos="1752,1110,1838,1152">and</word>
+						<word pos="1858,1110,2141,1162">widespread</word>
+						<word pos="2162,1110,2491,1162">displacement</word>
+						<word pos="2511,1112,2548,1152">in</word>
+						<word pos="2568,1110,2647,1152">the</word>
+						<word pos="2669,1110,2748,1152">Rift</word>
+						<word pos="401,1196,549,1248">Valley</word>
+						<word pos="566,1196,653,1238">and</word>
+						<word pos="675,1198,713,1237">in</word>
+						<word pos="736,1195,948,1238">Nairobi's</word>
+						<word pos="967,1196,1129,1248">shanty</word>
+						<word pos="1145,1201,1307,1238">towns.</word>
+						<word pos="1326,1196,1423,1238">This</word>
+						<word pos="1440,1208,1559,1248">year,</word>
+						<word pos="1580,1208,1637,1238">on</word>
+						<word pos="1658,1198,1714,1238">28</word>
+						<word pos="1736,1196,1999,1246">December,</word>
+						<word pos="2020,1196,2190,1246">Ghana,</word>
+						<word pos="2210,1196,2404,1238">another</word>
+						<word pos="2423,1195,2592,1238">'stable'</word>
+						<word pos="2611,1195,2782,1238">African</word>
+						<word pos="403,1287,602,1334">country,</word>
+						<word pos="622,1294,733,1334">goes</word>
+						<word pos="751,1287,799,1324">to</word>
+						<word pos="820,1281,991,1324">run-off</word>
+						<word pos="1008,1282,1293,1334">presidential</word>
+						<word pos="1316,1282,1439,1334">polls.</word>
+						<word pos="403,1423,556,1465">Ghana</word>
+						<word pos="579,1425,610,1465">is</word>
+						<word pos="630,1423,856,1465">different.</word>
+						<word pos="879,1426,908,1465">It</word>
+						<word pos="926,1423,1142,1465">obtained</word>
+						<word pos="1164,1425,1216,1465">its</word>
+						<word pos="1236,1423,1584,1475">independence</word>
+						<word pos="1602,1423,1717,1465">from</word>
+						<word pos="1740,1425,1895,1465">Britain</word>
+						<word pos="1918,1425,1955,1465">in</word>
+						<word pos="1978,1425,2094,1465">1957</word>
+						<word pos="2114,1423,2200,1465">and</word>
+						<word pos="2221,1429,2291,1465">set</word>
+						<word pos="2308,1423,2387,1465">the</word>
+						<word pos="2405,1423,2535,1465">trend</word>
+						<word pos="2555,1423,2625,1465">for</word>
+						<word pos="403,1509,761,1551">decolonization</word>
+						<word pos="783,1511,820,1550">in</word>
+						<word pos="840,1508,994,1551">Africa.</word>
+						<word pos="1017,1512,1146,1551">More</word>
+						<word pos="1163,1509,1272,1551">than</word>
+						<word pos="1295,1508,1385,1551">half</word>
+						<word pos="1401,1521,1423,1551">a</word>
+						<word pos="1444,1514,1630,1561">century</word>
+						<word pos="1649,1509,1771,1559">later,</word>
+						<word pos="1793,1511,1845,1551">its</word>
+						<word pos="1864,1509,2082,1551">elections</word>
+						<word pos="2101,1509,2230,1551">could</word>
+						<word pos="2253,1509,2375,1551">mark</word>
+						<word pos="2392,1521,2415,1551">a</word>
+						<word pos="2434,1509,2692,1551">watershed</word>
+						<word pos="2711,1508,2782,1551">for</word>
+						<word pos="404,1594,659,1647">multiparty</word>
+						<word pos="676,1594,894,1636">elections</word>
+						<word pos="915,1596,953,1636">in</word>
+						<word pos="972,1594,1126,1636">Africa.</word>
+						<word pos="403,1736,596,1778">Ghana's</word>
+						<word pos="617,1736,902,1788">presidential</word>
+						<word pos="923,1736,1009,1778">and</word>
+						<word pos="1032,1736,1272,1788">legislative</word>
+						<word pos="1291,1736,1509,1778">elections</word>
+						<word pos="1528,1748,1586,1778">on</word>
+						<word pos="1607,1739,1632,1778">7</word>
+						<word pos="1653,1736,1904,1778">December</word>
+						<word pos="1923,1738,2041,1778">2008</word>
+						<word pos="2062,1736,2225,1788">passed</word>
+						<word pos="2247,1736,2508,1788">peacefully.</word>
+						<word pos="2527,1739,2725,1778">Turnout</word>
+						<word pos="2742,1749,2835,1778">was</word>
+						<word pos="2854,1742,2899,1778">at</word>
+						<word pos="405,1822,516,1864">least</word>
+						<word pos="534,1834,582,1864">as</word>
+						<word pos="603,1822,701,1874">high</word>
+						<word pos="722,1834,770,1864">as</word>
+						<word pos="791,1824,828,1863">in</word>
+						<word pos="850,1824,981,1872">2004,</word>
+						<word pos="1001,1822,1105,1864">with</word>
+						<word pos="1126,1821,1395,1864">disaffected</word>
+						<word pos="1414,1827,1567,1864">voters</word>
+						<word pos="1585,1822,1802,1874">choosing</word>
+						<word pos="1822,1822,1996,1864">instead</word>
+						<word pos="2015,1827,2064,1864">to</word>
+						<word pos="2083,1822,2193,1874">spoil</word>
+						<word pos="2212,1822,2328,1864">their</word>
+						<word pos="2347,1822,2521,1864">ballots:</word>
+						<word pos="2542,1827,2622,1864">out</word>
+						<word pos="2640,1821,2689,1864">of</word>
+						<word pos="2705,1824,2777,1864">8.6</word>
+						<word pos="404,1907,565,1949">million</word>
+						<word pos="586,1913,693,1957">cast,</word>
+						<word pos="716,1920,841,1949">more</word>
+						<word pos="859,1907,968,1949">than</word>
+						<word pos="989,1910,1199,1957">200,000,</word>
+						<word pos="1219,1920,1269,1949">or</word>
+						<word pos="1287,1909,1403,1950">2.4%</word>
+						<word pos="1421,1907,1470,1949">of</word>
+						<word pos="1484,1907,1563,1949">the</word>
+						<word pos="1581,1907,1707,1957">total,</word>
+						<word pos="1727,1920,1848,1949">were</word>
+						<word pos="1869,1907,2081,1960">rejected.</word>
+						<word pos="2101,1910,2133,1949">A</word>
+						<word pos="2154,1907,2502,1949">British-trained</word>
+						<word pos="2525,1907,2746,1957">barrister,</word>
+						<word pos="2769,1910,2889,1949">Nana</word>
+						<word pos="401,1993,693,2035">Akufo-Addo</word>
+						<word pos="713,1993,762,2035">of</word>
+						<word pos="776,1993,855,2035">the</word>
+						<word pos="876,1993,1012,2046">ruling</word>
+						<word pos="1033,1996,1140,2035">New</word>
+						<word pos="1160,1995,1362,2035">Patriotic</word>
+						<word pos="1383,1996,1507,2046">Party</word>
+						<word pos="1526,1992,1673,2045">(NPP),</word>
+						<word pos="1693,1993,1764,2035">fell</word>
+						<word pos="1781,1995,1871,2046">just</word>
+						<word pos="1889,1993,2015,2035">short</word>
+						<word pos="2034,1993,2083,2035">of</word>
+						<word pos="2097,1993,2176,2035">the</word>
+						<word pos="2195,1995,2296,2036">50%</word>
+						<word pos="2313,1993,2546,2035">threshold</word>
+						<word pos="2569,1993,2774,2046">required</word>
+						<word pos="2793,1999,2842,2035">to</word>
+						<word pos="402,2081,485,2121">win</word>
+						<word pos="504,2079,583,2121">the</word>
+						<word pos="605,2079,868,2131">presidency</word>
+						<word pos="886,2079,1096,2131">outright.</word>
+						<word pos="1115,2079,1226,2121">John</word>
+						<word pos="1245,2082,1345,2121">Atta</word>
+						<word pos="1369,2079,1493,2129">Mills,</word>
+						<word pos="1515,2079,1667,2121">leader</word>
+						<word pos="1685,2079,1734,2121">of</word>
+						<word pos="1748,2079,1827,2121">the</word>
+						<word pos="1849,2079,2050,2121">National</word>
+						<word pos="2074,2081,2353,2121">Democratic</word>
+						<word pos="2371,2081,2590,2131">Congress</word>
+						<word pos="2611,2078,2750,2131">(NDC)</word>
+						<word pos="2770,2079,2856,2121">and</word>
+						<word pos="401,2164,572,2207">former</word>
+						<word pos="591,2165,807,2217">Fulbright</word>
+						<word pos="825,2165,1013,2215">scholar,</word>
+						<word pos="1035,2177,1109,2207">ran</word>
+						<word pos="1132,2165,1218,2206">him</word>
+						<word pos="1239,2177,1261,2207">a</word>
+						<word pos="1282,2165,1403,2207">close</word>
+						<word pos="1422,2165,1591,2207">second</word>
+						<word pos="1611,2165,1716,2207">with</word>
+						<word pos="1736,2165,1908,2207">around</word>
+						<word pos="1928,2166,2030,2207">48%</word>
+						<word pos="2049,2164,2098,2207">of</word>
+						<word pos="2112,2165,2191,2207">the</word>
+						<word pos="2208,2171,2329,2207">vote.</word>
+						<word pos="2353,2165,2461,2207">Both</word>
+						<word pos="2484,2177,2586,2207">men</word>
+						<word pos="2607,2177,2683,2207">are</word>
+						<word pos="403,2253,663,2303">competing</word>
+						<word pos="679,2257,728,2293">to</word>
+						<word pos="750,2251,925,2303">replace</word>
+						<word pos="947,2251,1177,2293">President</word>
+						<word pos="1193,2251,1304,2293">John</word>
+						<word pos="1327,2250,1501,2301">Kufuor,</word>
+						<word pos="1521,2251,1624,2293">who</word>
+						<word pos="1645,2253,1676,2293">is</word>
+						<word pos="1695,2251,2076,2303">consittutionally</word>
+						<word pos="2096,2251,2253,2293">barred</word>
+						<word pos="2272,2250,2388,2293">from</word>
+						<word pos="2409,2251,2617,2303">standing</word>
+						<word pos="2634,2250,2704,2293">for</word>
+						<word pos="2722,2263,2744,2293">a</word>
+						<word pos="2763,2251,2878,2293">third</word>
+						<word pos="401,2342,532,2378">term.</word>
+						<word pos="400,2478,489,2520">The</word>
+						<word pos="509,2478,740,2520">closeness</word>
+						<word pos="759,2477,808,2520">of</word>
+						<word pos="822,2478,901,2520">the</word>
+						<word pos="921,2478,1139,2520">elections</word>
+						<word pos="1160,2478,1238,2520">has</word>
+						<word pos="1257,2478,1481,2530">surprised</word>
+						<word pos="1501,2477,1590,2520">few</word>
+						<word pos="1609,2478,1763,2520">Ghana</word>
+						<word pos="1784,2478,2035,2520">observers.</word>
+						<word pos="2054,2478,2142,2520">The</word>
+						<word pos="2162,2477,2386,2530">country's</word>
+						<word pos="2404,2478,2577,2520">vibrant</word>
+						<word pos="2596,2478,2684,2520">civil</word>
+						<word pos="2705,2480,2876,2530">society</word>
+						<word pos="403,2563,489,2605">and</word>
+						<word pos="511,2563,823,2616">independent</word>
+						<word pos="844,2563,990,2605">media</word>
+						<word pos="1012,2563,1124,2605">have</word>
+						<word pos="1146,2563,1261,2605">been</word>
+						<word pos="1281,2563,1471,2616">vigilant.</word>
+						<word pos="1494,2563,1808,2605">International</word>
+						<word pos="1829,2563,1998,2605">donors</word>
+						<word pos="2015,2569,2110,2613">too,</word>
+						<word pos="2131,2563,2328,2616">drawing</word>
+						<word pos="2346,2576,2403,2605">on</word>
+						<word pos="2426,2563,2599,2605">lessons</word>
+						<word pos="2617,2563,2732,2605">from</word>
+						<word pos="405,2652,562,2702">Kenya,</word>
+						<word pos="584,2649,696,2691">have</word>
+						<word pos="715,2649,965,2702">supported</word>
+						<word pos="986,2649,1106,2702">early</word>
+						<word pos="1123,2649,1315,2691">election</word>
+						<word pos="1338,2651,1608,2702">monitoring</word>
+						<word pos="1626,2649,1713,2691">and</word>
+						<word pos="1736,2649,1847,2691">have</word>
+						<word pos="1869,2649,2107,2702">pressured</word>
+						<word pos="2126,2649,2205,2691">the</word>
+						<word pos="2227,2649,2436,2691">Electoral</word>
+						<word pos="2457,2651,2752,2691">Commission</word>
+						<word pos="2773,2649,2822,2691">of</word>
+						<word pos="403,2735,556,2777">Ghana</word>
+						<word pos="576,2741,625,2777">to</word>
+						<word pos="646,2735,701,2777">be</word>
+						<word pos="721,2735,931,2777">effective</word>
+						<word pos="951,2735,1037,2777">and</word>
+						<word pos="1060,2735,1290,2787">impartial.</word>
+						<word pos="1311,2737,1446,2777">Given</word>
+						<word pos="1466,2735,1545,2777">the</word>
+						<word pos="1564,2735,1796,2777">closeness</word>
+						<word pos="1815,2735,1864,2777">of</word>
+						<word pos="1878,2735,1956,2777">the</word>
+						<word pos="1978,2748,2092,2785">race,</word>
+						<word pos="2111,2735,2189,2777">the</word>
+						<word pos="2209,2735,2531,2777">effectiveness</word>
+						<word pos="2549,2735,2636,2777">and</word>
+						<word pos="404,2821,684,2873">impartiality</word>
+						<word pos="702,2821,751,2863">of</word>
+						<word pos="765,2821,844,2863">the</word>
+						<word pos="866,2821,1074,2863">Electoral</word>
+						<word pos="1095,2823,1390,2863">Commission</word>
+						<word pos="1412,2823,1444,2863">is</word>
+						<word pos="1461,2821,1561,2863">vital</word>
+						<word pos="1583,2823,1621,2863">in</word>
+						<word pos="1644,2821,1779,2873">ruling</word>
+						<word pos="1798,2834,1855,2863">on</word>
+						<word pos="1876,2821,2086,2873">disputed</word>
+						<word pos="2107,2821,2318,2863">electoral</word>
+						<word pos="2341,2827,2529,2863">returns.</word>
+						<word pos="2552,2821,2582,2863">If</word>
+						<word pos="2596,2821,2675,2863">the</word>
+						<word pos="2696,2821,2866,2863">run-off</word>
+						<word pos="403,2919,558,2949">occurs</word>
+						<word pos="577,2907,817,2959">smoothly,</word>
+						<word pos="836,2907,969,2949">these</word>
+						<word pos="989,2907,1207,2949">elections</word>
+						<word pos="1225,2907,1304,2948">will</word>
+						<word pos="1326,2907,1512,2949">confirm</word>
+						<word pos="1531,2907,1610,2949">the</word>
+						<word pos="1628,2907,1793,2959">vitality</word>
+						<word pos="1811,2906,1860,2949">of</word>
+						<word pos="1876,2907,2069,2949">Ghana's</word>
+						<word pos="2090,2913,2277,2949">nascent</word>
+						<word pos="2294,2906,2504,2959">fledgling</word>
+						<word pos="2523,2907,2798,2949">democratic</word>
+						<word pos="404,2994,677,3034">institutions</word>
+						<word pos="696,2992,783,3034">and</word>
+						<word pos="803,2998,873,3034">set</word>
+						<word pos="892,3005,946,3034">an</word>
+						<word pos="967,2992,1173,3045">example</word>
+						<word pos="1191,2992,1261,3034">for</word>
+						<word pos="1277,2992,1356,3034">the</word>
+						<word pos="1377,2998,1467,3034">rest</word>
+						<word pos="1485,2992,1534,3034">of</word>
+						<word pos="1549,2992,1703,3034">Africa.</word>
+						<word pos="405,3134,673,3186">Historically</word>
+						<word pos="689,3134,768,3176">the</word>
+						<word pos="790,3134,1057,3186">president's</word>
+						<word pos="1078,3140,1203,3186">party</word>
+						<word pos="1222,3134,1300,3176">has</word>
+						<word pos="1319,3134,1414,3176">also</word>
+						<word pos="1433,3134,1680,3176">controlled</word>
+						<word pos="1703,3134,1968,3186">parliament</word>
+						<word pos="1988,3136,2026,3175">in</word>
+						<word pos="2047,3134,2217,3184">Ghana,</word>
+						<word pos="2239,3134,2317,3176">but</word>
+						<word pos="2334,3134,2404,3176">for</word>
+						<word pos="2420,3134,2499,3176">the</word>
+						<word pos="2517,3133,2612,3176">first</word>
+						<word pos="2629,3136,2739,3176">time</word>
+						<word pos="2758,3146,2847,3176">one</word>
+						<word pos="405,3226,529,3272">party</word>
+						<word pos="549,3232,649,3272">may</word>
+						<word pos="666,3222,750,3261">win</word>
+						<word pos="769,3220,848,3262">the</word>
+						<word pos="869,3220,1154,3272">presidential</word>
+						<word pos="1177,3232,1277,3262">race</word>
+						<word pos="1298,3220,1376,3262">but</word>
+						<word pos="1393,3219,1463,3262">fail</word>
+						<word pos="1482,3226,1531,3262">to</word>
+						<word pos="1550,3232,1709,3262">secure</word>
+						<word pos="1728,3232,1783,3262">an</word>
+						<word pos="1803,3220,2013,3262">absolute</word>
+						<word pos="2034,3222,2236,3272">majority</word>
+						<word pos="2255,3222,2293,3261">in</word>
+						<word pos="2316,3220,2594,3272">parliament.</word>
+						<word pos="2617,3222,2646,3262">It</word>
+						<word pos="2667,3220,2790,3262">looks</word>
+						<word pos="404,3305,527,3358">likely</word>
+						<word pos="543,3305,642,3347">that</word>
+						<word pos="659,3305,738,3347">the</word>
+						<word pos="759,3305,895,3358">ruling</word>
+						<word pos="916,3308,1011,3347">NPP</word>
+						<word pos="1029,3305,1108,3347">will</word>
+						<word pos="1131,3305,1186,3347">be</word>
+						<word pos="1208,3305,1427,3358">punished</word>
+						<word pos="1450,3305,1504,3358">by</word>
+						<word pos="1520,3311,1673,3347">voters</word>
+						<word pos="1690,3305,1760,3347">for</word>
+						<word pos="1780,3305,1877,3358">high</word>
+						<word pos="1900,3305,2113,3355">inflation,</word>
+						<word pos="2135,3318,2157,3347">a</word>
+						<word pos="2179,3305,2411,3347">lacklustre</word>
+						<word pos="2430,3307,2802,3358">anti-corruption</word>
+						<word pos="403,3391,522,3433">drive</word>
+						<word pos="542,3391,628,3433">and</word>
+						<word pos="649,3391,967,3433">controversial</word>
+						<word pos="987,3391,1124,3443">grand</word>
+						<word pos="1147,3393,1354,3443">projects.</word>
+						<word pos="1377,3391,1607,3433">President</word>
+						<word pos="1628,3391,1790,3433">Kufuor</word>
+						<word pos="1806,3404,1899,3433">was</word>
+						<word pos="1918,3391,2129,3433">awarded</word>
+						<word pos="2148,3391,2227,3433">the</word>
+						<word pos="2247,3393,2365,3433">2008</word>
+						<word pos="2384,3391,2601,3433">Chatham</word>
+						<word pos="2625,3394,2774,3433">House</word>
+						<word pos="405,3479,519,3519">Prize</word>
+						<word pos="536,3477,606,3519">for</word>
+						<word pos="626,3477,688,3519">his</word>
+						<word pos="710,3477,1032,3529">peacemaking</word>
+						<word pos="1050,3477,1211,3519">efforts</word>
+						<word pos="1232,3477,1310,3519">but</word>
+						<word pos="1330,3477,1393,3519">his</word>
+						<word pos="1414,3479,1669,3529">reputation</word>
+						<word pos="1690,3483,1736,3519">at</word>
+						<word pos="1756,3477,1892,3519">home</word>
+						<word pos="1913,3479,1944,3519">is</word>
+						<word pos="1965,3477,2123,3519">mixed.</word>
+						<word pos="2146,3480,2207,3519">He</word>
+						<word pos="2228,3477,2425,3529">recently</word>
+						<word pos="2445,3477,2607,3519">moved</word>
+						<word pos="2629,3479,2721,3519">into</word>
+						<word pos="2740,3490,2763,3519">a</word>
+						<word pos="2785,3490,2885,3519">new</word>
+						<word pos="404,3563,690,3615">presidential</word>
+						<word pos="710,3563,928,3615">complex,</word>
+						<word pos="949,3563,1122,3605">Golden</word>
+						<word pos="1140,3563,1309,3605">Jubilee</word>
+						<word pos="1331,3565,1494,3613">House,</word>
+						<word pos="1514,3563,1655,3605">which</word>
+						<word pos="1677,3565,1709,3605">is</word>
+						<word pos="1726,3563,1921,3615">thought</word>
+						<word pos="1938,3569,1987,3605">to</word>
+						<word pos="2008,3563,2121,3605">have</word>
+						<word pos="2140,3569,2238,3605">cost</word>
+						<word pos="2255,3575,2385,3605">some</word>
+						<word pos="2406,3559,2494,3611">$50</word>
+						<word pos="2514,3563,2689,3613">million,</word>
+						<word pos="2709,3563,2880,3605">funded</word>
+						<word pos="404,3648,458,3701">by</word>
+						<word pos="476,3661,498,3690">a</word>
+						<word pos="519,3650,866,3701">concessionary</word>
+						<word pos="886,3648,985,3690">loan</word>
+						<word pos="1004,3648,1119,3690">from</word>
+						<word pos="1138,3648,1217,3690">the</word>
+						<word pos="1236,3654,1537,3701">government</word>
+						<word pos="1555,3648,1604,3690">of</word>
+						<word pos="1622,3649,1736,3690">India</word>
+						<word pos="1757,3648,1843,3690">and</word>
+						<word pos="1864,3649,2153,3690">constructed</word>
+						<word pos="2176,3648,2230,3701">by</word>
+						<word pos="2248,3661,2302,3690">an</word>
+						<word pos="2325,3648,2471,3690">Indian</word>
+						<word pos="2490,3648,2603,3690">firm.</word>
+						<word pos="2622,3648,2711,3690">The</word>
+						<word pos="2733,3651,2835,3690">NDC</word>
+						<word pos="405,3734,483,3776">has</word>
+						<word pos="502,3735,791,3776">condemned</word>
+						<word pos="810,3734,889,3776">the</word>
+						<word pos="910,3736,1081,3787">project</word>
+						<word pos="1099,3747,1147,3776">as</word>
+						<word pos="1166,3740,1457,3787">extravagant</word>
+						<word pos="1477,3734,1555,3776">but</word>
+						<word pos="1576,3734,1654,3776">has</word>
+						<word pos="1675,3740,1753,3776">not</word>
+						<word pos="1771,3734,1948,3776">offered</word>
+						<word pos="1967,3740,2016,3776">to</word>
+						<word pos="2038,3734,2222,3787">boycott</word>
+						<word pos="2242,3736,2270,3776">it</word>
+						<word pos="2290,3734,2319,3776">if</word>
+						<word pos="2336,3736,2389,3776">its</word>
+						<word pos="2407,3734,2647,3776">candidate</word>
+						<word pos="2666,3736,2775,3776">wins</word>
+						<word pos="2793,3734,2871,3776">the</word>
+						<word pos="403,3822,459,3862">28</word>
+						<word pos="481,3820,731,3862">December</word>
+						<word pos="751,3820,931,3862">run-off.</word>
+						<word pos="405,3964,559,4014">Forget</word>
+						<word pos="577,3964,784,4003">Western</word>
+						<word pos="803,3963,986,4003">worries</word>
+						<word pos="1005,3961,1147,4003">about</word>
+						<word pos="1167,3963,1372,4014">negative</word>
+						<word pos="1391,3961,1580,4014">growth:</word>
+						<word pos="1602,3961,1688,4003">real</word>
+						<word pos="1710,3964,1812,4003">GDP</word>
+						<word pos="1830,3961,2002,4014">growth</word>
+						<word pos="2025,3963,2063,4003">in</word>
+						<word pos="2083,3961,2237,4003">Ghana</word>
+						<word pos="2260,3963,2291,4003">is</word>
+						<word pos="2309,3961,2508,4003">forecast</word>
+						<word pos="2524,3967,2573,4003">to</word>
+						<word pos="2595,3963,2677,4003">rise</word>
+						<word pos="2695,3961,2810,4003">from</word>
+						<word pos="403,4049,519,4090">5.8%</word>
+						<word pos="539,4049,576,4089">in</word>
+						<word pos="598,4050,715,4089">2009</word>
+						<word pos="734,4053,782,4089">to</word>
+						<word pos="802,4049,872,4090">6%</word>
+						<word pos="891,4049,929,4089">in</word>
+						<word pos="951,4050,1082,4098">2010,</word>
+						<word pos="1103,4047,1352,4100">supported</word>
+						<word pos="1375,4047,1429,4100">by</word>
+						<word pos="1448,4049,1746,4089">investments</word>
+						<word pos="1767,4049,1804,4089">in</word>
+						<word pos="1823,4047,1902,4089">the</word>
+						<word pos="1924,4053,2111,4089">nascent</word>
+						<word pos="2129,4047,2183,4089">oil</word>
+						<word pos="2203,4053,2354,4089">sector</word>
+						<word pos="2372,4048,2458,4089">and</word>
+						<word pos="2481,4047,2617,4089">lower</word>
+						<word pos="2636,4047,2849,4089">inflation.</word>
+						<word pos="403,4133,556,4175">Ghana</word>
+						<word pos="579,4135,610,4175">is</word>
+						<word pos="631,4133,869,4185">becoming</word>
+						<word pos="887,4146,942,4175">an</word>
+						<word pos="964,4135,1209,4185">important</word>
+						<word pos="1227,4133,1280,4175">oil</word>
+						<word pos="1304,4133,1525,4185">producer</word>
+						<word pos="1543,4133,1629,4175">and</word>
+						<word pos="1651,4135,1683,4175">is</word>
+						<word pos="1700,4133,1779,4175">the</word>
+						<word pos="1797,4133,1974,4175">world's</word>
+						<word pos="1993,4133,2163,4175">second</word>
+						<word pos="2185,4133,2347,4185">largest</word>
+						<word pos="2368,4133,2589,4185">producer</word>
+						<word pos="2607,4133,2656,4175">of</word>
+						<word pos="2671,4146,2825,4175">cocoa.</word>
+						<word pos="2848,4133,2878,4175">If</word>
+						<word pos="401,4231,488,4271">you</word>
+						<word pos="508,4225,584,4261">eat</word>
+						<word pos="605,4221,801,4269">Kit-Kats,</word>
+						<word pos="820,4231,907,4271">you</word>
+						<word pos="929,4219,1008,4261">like</word>
+						<word pos="1028,4219,1221,4261">Ghana's</word>
+						<word pos="1240,4219,1491,4261">chocolate.</word>
+						<word pos="1510,4219,1598,4261">The</word>
+						<word pos="1617,4219,1765,4261">World</word>
+						<word pos="1788,4219,1904,4261">Bank</word>
+						<word pos="1924,4219,2002,4261">has</word>
+						<word pos="2020,4219,2218,4269">warned,</word>
+						<word pos="2241,4219,2465,4269">however,</word>
+						<word pos="2484,4219,2583,4261">that</word>
+						<word pos="2600,4219,2679,4261">the</word>
+						<word pos="2701,4225,2804,4261">next</word>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="2">cho_chrx_2008_ghana_000_0002</articlePage>
+					<p>
+						<word pos="402,422,702,469">government</word>
+						<word pos="723,422,841,459">must</word>
+						<word pos="861,417,927,469">lay</word>
+						<word pos="943,417,1022,459">the</word>
+						<word pos="1040,416,1335,459">foundations</word>
+						<word pos="1353,416,1423,459">for</word>
+						<word pos="1441,429,1463,459">a</word>
+						<word pos="1485,416,1635,459">'South</word>
+						<word pos="1658,416,1912,459">Korea-like'</word>
+						<word pos="1933,419,2194,469">expansion.</word>
+						<word pos="2214,416,2408,459">Ghana's</word>
+						<word pos="2429,417,2545,469">large</word>
+						<word pos="2563,416,2683,459">fiscal</word>
+						<word pos="2704,416,2855,459">deficit</word>
+						<word pos="403,502,452,544">of</word>
+						<word pos="467,502,639,544">around</word>
+						<word pos="663,504,807,545">14.6%</word>
+						<word pos="826,502,875,544">of</word>
+						<word pos="891,505,993,544">GDP</word>
+						<word pos="1014,508,1273,555">represents</word>
+						<word pos="1292,515,1314,544">a</word>
+						<word pos="1335,502,1566,555">challenge</word>
+						<word pos="1586,515,1634,544">as</word>
+						<word pos="1651,502,1730,544">the</word>
+						<word pos="1752,515,1851,544">new</word>
+						<word pos="1869,508,2169,555">government</word>
+						<word pos="2187,502,2266,544">will</word>
+						<word pos="2286,502,2377,544">find</word>
+						<word pos="2399,504,2428,544">it</word>
+						<word pos="2447,502,2631,544">difficult</word>
+						<word pos="2648,508,2698,544">to</word>
+						<word pos="2719,502,2895,544">borrow</word>
+						<word pos="403,588,644,641">externally</word>
+						<word pos="661,590,788,641">given</word>
+						<word pos="809,594,988,630">current</word>
+						<word pos="1005,588,1150,641">global</word>
+						<word pos="1171,588,1438,630">conditions.</word>
+						<word pos="403,732,519,772">Over</word>
+						<word pos="534,730,613,772">the</word>
+						<word pos="634,735,737,772">next</word>
+						<word pos="754,729,844,772">few</word>
+						<word pos="861,742,990,782">years</word>
+						<word pos="1009,729,1202,772">Ghana's</word>
+						<word pos="1223,742,1323,772">new</word>
+						<word pos="1340,735,1641,782">government</word>
+						<word pos="1658,730,1738,771">will</word>
+						<word pos="1761,730,1877,772">need</word>
+						<word pos="1896,735,1945,772">to</word>
+						<word pos="1964,732,2143,772">contain</word>
+						<word pos="2166,730,2310,782">public</word>
+						<word pos="2328,730,2639,782">expenditure,</word>
+						<word pos="2659,735,2705,772">at</word>
+						<word pos="2725,730,2837,772">least</word>
+						<word pos="404,815,508,857">until</word>
+						<word pos="529,815,582,857">oil</word>
+						<word pos="605,828,826,857">revenues</word>
+						<word pos="845,821,956,857">start</word>
+						<word pos="973,821,1022,857">to</word>
+						<word pos="1043,815,1171,857">make</word>
+						<word pos="1191,828,1245,857">an</word>
+						<word pos="1267,817,1432,868">impact</word>
+						<word pos="1452,817,1490,857">in</word>
+						<word pos="1511,818,1724,857">2010-11.</word>
+						<word pos="1747,818,1826,857">But</word>
+						<word pos="1842,821,1891,857">to</word>
+						<word pos="1912,815,1967,857">be</word>
+						<word pos="1987,828,2009,857">a</word>
+						<word pos="2032,815,2352,868">path-breaker</word>
+						<word pos="2369,828,2484,857">once</word>
+						<word pos="2505,828,2645,865">more,</word>
+						<word pos="2666,815,2819,857">Ghana</word>
+						<word pos="404,901,546,943">needs</word>
+						<word pos="567,901,786,953">peaceful,</word>
+						<word pos="805,907,1095,953">transparent</word>
+						<word pos="1113,901,1332,943">elections</word>
+						<word pos="1351,913,1408,943">on</word>
+						<word pos="1429,903,1485,943">28</word>
+						<word pos="1507,901,1770,943">December.</word>
+						<word pos="1788,901,1877,943">The</word>
+						<word pos="1896,913,2078,943">success</word>
+						<word pos="2097,901,2146,943">of</word>
+						<word pos="2160,901,2293,943">these</word>
+						<word pos="2312,901,2530,943">elections</word>
+						<word pos="2550,913,2630,943">can</word>
+						<word pos="2650,901,2778,943">show</word>
+						<word pos="2795,901,2894,943">that</word>
+						<word pos="405,987,586,1039">Kenya's</word>
+						<word pos="605,1000,654,1029">or</word>
+						<word pos="671,987,963,1029">Zimbabwe's</word>
+						<word pos="984,987,1278,1039">problematic</word>
+						<word pos="1297,987,1515,1029">elections</word>
+						<word pos="1535,989,1573,1029">in</word>
+						<word pos="1594,989,1727,1037">2008,</word>
+						<word pos="1746,987,1957,1029">followed</word>
+						<word pos="1980,987,2034,1039">by</word>
+						<word pos="2052,987,2309,1029">drawn-out</word>
+						<word pos="2330,987,2683,1039">power-sharing</word>
+						<word pos="405,1075,721,1125">negotiations,</word>
+						<word pos="742,1085,817,1115">are</word>
+						<word pos="835,1073,913,1115">the</word>
+						<word pos="933,1075,1170,1125">exception</word>
+						<word pos="1193,1073,1342,1115">rather</word>
+						<word pos="1358,1073,1467,1115">than</word>
+						<word pos="1486,1073,1565,1115">the</word>
+						<word pos="1586,1073,1676,1115">rule</word>
+						<word pos="1697,1075,1735,1114">in</word>
+						<word pos="1754,1072,1908,1115">Africa.</word>
+					</p>
+				</textclip>
+			</text>
+		</article>
+	</page>
+	<page id="2" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3307" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2008_ghana_000_0002</pageImage>
+	</page>
+</chapter>

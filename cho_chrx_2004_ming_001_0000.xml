@@ -1,0 +1,306 @@
+<chapter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" contentType="book" xsi:noNamespaceSchemaLocation="V:\Production\Chatham_House\Schema\chapterv2.xsd">
+	<metadataInfo>
+		<PSMID>cho_chrx_2004_ming_001_0000</PSMID>
+		<language ocr="English" primary="Yes">English</language>
+		<productContentType>Pamphlets and Reports</productContentType>
+		<contentDate>
+			<contentComposed>February 2004</contentComposed>
+			<contentDecade>2000-2010</contentDecade>
+			<contentYear>2004</contentYear>
+			<contentMonth>02</contentMonth>
+			<contentDateStart>2004-02-01</contentDateStart>
+			<contentDateEnd>2004-02-28</contentDateEnd>
+		</contentDate>
+		<chathamHouseRule>No</chathamHouseRule>
+		<ocr>80.46</ocr>
+		<isbn length="10">1 86203 171 1</isbn>
+		<sourceLibrary>
+			<libraryName>Chatham House</libraryName>
+			<libraryLocation>London, England</libraryLocation>
+			<copyrightStatement>Copyright Royal Institute of International Affairs</copyrightStatement>
+		</sourceLibrary>
+	</metadataInfo>
+	<citation>
+		<book>
+			<pubDate>
+				<composed>February 2004</composed>
+				<year>2004</year>
+				<month>02</month>
+				<pubDateStart>2004-02-01</pubDateStart>
+				<pubDateEnd>2004-02-28</pubDateEnd>
+			</pubDate>
+			<author role="author" type="Yes">
+				<aucomposed>Stephen Green</aucomposed>
+				<first>Stephen</first>
+				<last>Green</last>
+			</author>
+			<author role="author" type="Yes">
+				<aucomposed>He Ming</aucomposed>
+                                <first>He</first>
+				<last>Ming</last>
+			</author>
+                        <seriesGroup>
+                        <seriesComposed>Briefing Paper: Asis Programme; No. 1</seriesComposed>
+                        <seriesTitle>Asia Programme</seriesTitle>
+                        </seriesGroup>
+			<titleGroup>
+				<fullTitle>China's stock market: Out of the valley in 2004?</fullTitle>
+			</titleGroup>
+			<imprint>
+				<imprintFull>The Royal Institute of International Affairs</imprintFull>
+				<imprintPublisher>The Royal Institute of International Affairs</imprintPublisher>
+			</imprint>
+			<publicationPlace>
+				<publicationPlaceCity>London</publicationPlaceCity>
+				<publicationPlaceCountry>UK</publicationPlaceCountry>
+				<publicationPlaceComposed>London, UK</publicationPlaceComposed>
+			</publicationPlace>
+			<totalPages>12</totalPages>
+		</book>
+	</citation>
+	<page id="1" type="body_page" firstPage="Yes">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2004_ming_001_0001</pageImage>
+		<sourcePage>1</sourcePage>
+		<article id="1" type="article" level="1">
+			<clip pgref="1" clipref="1"/>
+			<clip pgref="2" clipref="2"/>
+			<clip pgref="3" clipref="3"/>
+			<clip pgref="4" clipref="4"/>
+			<clip pgref="5" clipref="5"/>
+			<clip pgref="6" clipref="6"/>
+			<clip pgref="7" clipref="7"/>
+			<clip pgref="8" clipref="8"/>
+			<clip pgref="9" clipref="9"/>
+			<clip pgref="10" clipref="10"/>
+			<clip pgref="11" clipref="11"/>
+			<clip pgref="12" clipref="12"/>
+			<illustration pgref="1" type="photograph" colorimage="color"/>
+			<illustration pgref="2" type="chart" colorimage="color">
+				<caption>Table 1. Capital Raised from Share and Convertible Bond Issues, 1991-2003</caption>
+			</illustration>
+			<illustration pgref="4" type="chart" colorimage="color">
+				<caption>Table 2. Gross Income for China's Securities Industry, 2000-03</caption>
+			</illustration>
+			<illustration pgref="5" type="chart" colorimage="color">
+				<caption>Table 3. Breakdown of Securities Firms' Brokerage Business, 2003</caption>
+			</illustration>
+			<illustration pgref="5" type="chart" colorimage="color">
+				<caption>Table 4. Returns on Investing in Mainland Ipos, 1999-200323</caption>
+			</illustration>
+			<illustration pgref="6" type="chart" colorimage="color">
+				<caption>Table 5. Ranking of Securities Companies in Terms of pro Forma Income, 2003</caption>
+			</illustration>
+			<illustration pgref="7" type="chart" colorimage="color">
+				<caption>Table 6. Open-End Fund Development, 2001-03</caption>
+			</illustration>
+			<articleInfo>
+				<ocr>80.46</ocr>
+				<startingColumn>A</startingColumn>
+				<pageCount>12</pageCount>
+			</articleInfo>
+			<text>
+				<textclip>
+					<articlePage pgref="1" clipref="1">cho_chrx_2004_ming_001_0001</articlePage>
+					<p>
+						<word pos="1116,196,1249,247">THE</word>
+						<word pos="1278,195,1497,248">ROYAL</word>
+						<word pos="1524,195,1876,248">INSTITUTE</word>
+						<word pos="1902,195,1989,248">OF</word>
+						<word pos="2099,195,2237,243">Asia</word>
+						<word pos="1131,272,1681,325">INTERNATIONAL</word>
+						<word pos="1706,272,1984,325">AFFAIRS</word>
+						<word pos="2104,275,2466,336">Programme</word>
+						<word pos="1327,1514,1539,1563">urioeglkE</word>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="2" clipref="2">cho_chrx_2004_ming_001_0002</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="3" clipref="3">cho_chrx_2004_ming_001_0003</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="4" clipref="4">cho_chrx_2004_ming_001_0004</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="5" clipref="5">cho_chrx_2004_ming_001_0005</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="6" clipref="6">cho_chrx_2004_ming_001_0006</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="7" clipref="7">cho_chrx_2004_ming_001_0007</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="8" clipref="8">cho_chrx_2004_ming_001_0008</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="9" clipref="9">cho_chrx_2004_ming_001_0009</articlePage>
+					<p>
+						<word pos="246,710,1237,753">http://www.china.org.cn/english/NBA/76043.htm</word>
+						<word pos="246,843,1441,886">http://www1.chinadaily.com.cn/en/doc/2004-01/02/content</word>
+						<word pos="1467,843,1706,877">295144.htm</word>
+						<word pos="246,1309,1392,1353">http://www.cfi.com.cn/idx/newspage.asp7200401100260</word>
+						<word pos="540,1775,821,1818">http://www.cf</word>
+						<word pos="825,1776,1750,1819">i.com.cn/newspage.aspx?id=20040131000036</word>
+						<word pos="246,2243,1393,2286">http://www.cnstock.com/cjxwzx/rdzz/200301100557.htm</word>
+						<word pos="246,2376,1894,2418">http://www.ben.com.cn/WLZB/20031223/GB/WLZB%5E894%5E4%5E23R331.htm</word>
+						<word pos="246,2576,1248,2619">http://news.homeway.com.cn/detail.aspx7sk1221</word>
+						<word pos="1261,2576,1501,2610">&amp;id=556057</word>
+						<word pos="665,2975,945,3018">http://www.cf</word>
+						<word pos="950,2976,1868,3019">i.com.cn/newspage.aspx?id=20040120000161</word>
+						<word pos="1683,3309,1964,3352">http://www.cf</word>
+						<word pos="1968,3310,2892,3353">i.com.cn/newspage.aspx?id=20040116000029</word>
+						<word pos="552,3575,1020,3618">http://finance.tom.com</word>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="10" clipref="10">cho_chrx_2004_ming_001_0010</articlePage>
+					<p>
+						<word pos="308,822,588,865">http://www.cf</word>
+						<word pos="593,823,1420,866">i.cn/newspage.aspx?id=20031231001194</word>
+						<word pos="1779,822,2889,866">http://www.cfi.cn/newspage.aspx?id=20021231001193</word>
+						<word pos="460,888,740,931">http://www.cf</word>
+						<word pos="744,889,1570,932">i.cn/newspage.aspx?id=20011231000962</word>
+						<word pos="1931,888,3041,932">http://www.cfi.cn/newspage.aspx?id=20001231000122</word>
+						<word pos="587,955,1559,999">http://cfi.net.cn/special/newstock/zxtj/99sslr.htm</word>
+						<word pos="245,1888,525,1931">http://www.cf</word>
+						<word pos="530,1889,1430,1932">i.com.cn/newspage.aspx?id=2004011800030</word>
+						<word pos="245,2155,525,2198">http://www.cf</word>
+						<word pos="530,2156,1357,2199">i.cn/newspage.aspx?id=20040202000134</word>
+						<word pos="245,2556,1379,2598">http://www.mv0578.conn/news/2003/11/13/1224258.htm</word>
+						<word pos="245,2823,1379,2866">http://www.my0578.eom/news/2003/10/20/1206030.htm</word>
+						<word pos="1506,3155,2651,3199">http://www.cfi.com.cn/idx/newspage.asp7200401080029</word>
+						<word pos="245,3289,2240,3332">http://www.homeway.com.cn/StockData/company/owner.aspx?stockid=600019&amp;select=&amp;x=0&amp;y=8</word>
+						<word pos="245,3422,525,3465">http://www.cf</word>
+						<word pos="530,3423,1454,3466">i.com.cn/newspage.aspx?id=20040202000398</word>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="11" clipref="11">cho_chrx_2004_ming_001_0011</articlePage>
+					<p>
+						<word pos="301,2934,397,2981">For</word>
+						<word pos="456,2945,615,2981">more</word>
+						<word pos="676,2929,1054,2981">information</word>
+						<word pos="1114,2930,1300,2981">about</word>
+						<word pos="1354,2930,1458,2981">the</word>
+						<word pos="1514,2932,1642,2981">Asia</word>
+						<word pos="1704,2934,2088,2995">Programme,</word>
+						<word pos="2151,2930,2347,2994">please</word>
+						<word pos="2403,2932,2528,2981">visit</word>
+						<word pos="2585,2945,2690,2981">our</word>
+						<word pos="2745,2930,3007,2989">website,</word>
+						<word pos="297,3026,836,3089">www.riia.org/asia</word>
+						<word pos="864,3039,926,3075">or</word>
+						<word pos="951,3031,1176,3075">contact</word>
+						<word pos="1198,3024,1299,3075">the</word>
+						<word pos="1327,3028,1682,3089">Programme</word>
+						<word pos="1711,3024,1881,3083">Head,</word>
+						<word pos="1909,3026,2407,3089">sgreen@riia.org.</word>
+						<word pos="444,4214,577,4265">THE</word>
+						<word pos="606,4213,825,4266">ROYAL</word>
+						<word pos="853,4213,1205,4266">INSTITUTE</word>
+						<word pos="1231,4213,1318,4266">OF</word>
+						<word pos="459,4290,1010,4343">INTERNATIONAL</word>
+						<word pos="1035,4290,1312,4343">AFFAIRS</word>
+						<word pos="1415,4189,1597,4223">Chatham</word>
+						<word pos="1618,4191,1740,4223">House</word>
+						<word pos="1774,4191,1817,4223">10</word>
+						<word pos="1834,4191,1870,4223">St</word>
+						<word pos="1886,4191,2035,4223">James's</word>
+						<word pos="2052,4191,2191,4231">Square</word>
+						<word pos="2224,4189,2375,4223">London</word>
+						<word pos="2407,4191,2609,4223">SW1Y4LE</word>
+						<word pos="1413,4247,1467,4281">Tel</word>
+						<word pos="1509,4249,1579,4281">020</word>
+						<word pos="1597,4249,1691,4281">7957</word>
+						<word pos="1711,4249,1804,4281">5700</word>
+						<word pos="1889,4247,2009,4281">E-mail</word>
+						<word pos="2029,4248,2363,4290">contact@riia.org</word>
+						<word pos="1417,4299,1480,4331">Fax</word>
+						<word pos="1509,4299,1579,4331">020</word>
+						<word pos="1597,4299,1691,4331">7957</word>
+						<word pos="1710,4299,1804,4331">5710</word>
+						<word pos="1885,4297,2050,4331">Website</word>
+						<word pos="2213,4298,2481,4340">www.riia.org</word>
+						<word pos="2671,4188,2818,4228">Charity</word>
+						<word pos="2837,4188,3083,4228">Registration</word>
+						<word pos="2673,4238,2842,4271">Number:</word>
+						<word pos="2860,4239,3022,4271">208223</word>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="12" clipref="12">cho_chrx_2004_ming_001_0012</articlePage>
+					<p>
+						<word pos="0,0,0,0"/>
+					</p>
+				</textclip>
+			</text>
+		</article>
+	</page>
+	<page id="2" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2004_ming_001_0002</pageImage>
+		<sourcePage>2</sourcePage>
+	</page>
+	<page id="3" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2004_ming_001_0003</pageImage>
+		<sourcePage>3</sourcePage>
+	</page>
+	<page id="4" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2004_ming_001_0004</pageImage>
+		<sourcePage>4</sourcePage>
+	</page>
+	<page id="5" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2004_ming_001_0005</pageImage>
+		<sourcePage>5</sourcePage>
+	</page>
+	<page id="6" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2004_ming_001_0006</pageImage>
+		<sourcePage>6</sourcePage>
+	</page>
+	<page id="7" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2004_ming_001_0007</pageImage>
+		<sourcePage>7</sourcePage>
+	</page>
+	<page id="8" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2004_ming_001_0008</pageImage>
+		<sourcePage>8</sourcePage>
+	</page>
+	<page id="9" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2004_ming_001_0009</pageImage>
+		<sourcePage>9</sourcePage>
+	</page>
+	<page id="10" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2004_ming_001_0010</pageImage>
+		<sourcePage>10</sourcePage>
+	</page>
+	<page id="11" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2004_ming_001_0011</pageImage>
+		<sourcePage>11</sourcePage>
+	</page>
+	<page id="12" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3306" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2004_ming_001_0012</pageImage>
+		<sourcePage>12</sourcePage>
+	</page>
+</chapter>

@@ -1,0 +1,636 @@
+<chapter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" contentType="book" xsi:noNamespaceSchemaLocation="V:\Production\Chatham_House\Schema\chapterv2.xsd">
+	<metadataInfo>
+		<PSMID>cho_chrx_2008_hakura_000_0000</PSMID>
+		<language ocr="English" primary="Yes">English</language>
+		<productContentType>Pamphlets and Reports</productContentType>
+		<contentDate>
+			<contentComposed>Thursday 31 July 2008</contentComposed>
+			<contentDecade>2000-2010</contentDecade>
+			<contentYear>2008</contentYear>
+			<contentMonth>07</contentMonth>
+			<contentDay>31</contentDay>
+			<contentDateStart>2008-07-31</contentDateStart>
+			<contentDateEnd>2008-07-31</contentDateEnd>
+		</contentDate>
+		<chathamHouseRule>No</chathamHouseRule>
+		<ocr>83.1</ocr>
+		<sourceLibrary>
+			<libraryName>Chatham House</libraryName>
+			<libraryLocation>London, England</libraryLocation>
+			<copyrightStatement>Copyright Royal Institute of International Affairs</copyrightStatement>
+		</sourceLibrary>
+	</metadataInfo>
+	<citation>
+		<book>
+			<pubDate>
+				<composed>Thursday 31 July 2008</composed>
+				<year>2008</year>
+				<month>07</month>
+				<day>31</day>
+				<dayofweek>Thursday</dayofweek>
+				<pubDateStart>2008-07-31</pubDateStart>
+				<pubDateEnd>2008-07-31</pubDateEnd>
+			</pubDate>
+			<author role="author">
+				<aucomposed>Fadi Hakura</aucomposed>
+				<first>Fadi</first>
+				<last>Hakura</last>
+			</author>
+			<seriesGroup>
+				<seriesComposed>Expert Comment</seriesComposed>
+				<seriesTitle>Expert Comment</seriesTitle>
+			</seriesGroup>
+			<titleGroup>
+				<fullTitle>A Golden Opportunity for Reform in Turkey</fullTitle>
+			</titleGroup>
+			<imprint>
+				<imprintFull>The Royal Institute of International Affairs</imprintFull>
+				<imprintPublisher>The Royal Institute of International Affairs</imprintPublisher>
+			</imprint>
+			<publicationPlace>
+				<publicationPlaceCity>London</publicationPlaceCity>
+				<publicationPlaceCountry>UK</publicationPlaceCountry>
+				<publicationPlaceComposed>London, UK</publicationPlaceComposed>
+			</publicationPlace>
+			<totalPages>2</totalPages>
+		</book>
+	</citation>
+	<page id="1" type="body_page" firstPage="Yes">
+		<pageImage pageIndicator="single" width="3307" height="4678" type="jpeg" colorimage="color" pagePosition="right">cho_chrx_2008_hakura_000_0001</pageImage>
+		<article id="1" type="article" level="1">
+			<clip pgref="1"/>
+			<clip pgref="2"/>
+			<articleInfo>
+				<ocr>83.1</ocr>
+				<startingColumn>A</startingColumn>
+				<pageCount>2</pageCount>
+			</articleInfo>
+			<text>
+				<textclip>
+					<articlePage pgref="1">cho_chrx_2008_hakura_000_0001</articlePage>
+					<p>
+						<word pos="403,428,681,504">Expert</word>
+						<word pos="711,426,1123,500">Comment</word>
+						<word pos="400,783,450,835">A</word>
+						<word pos="472,781,718,836">Golden</word>
+						<word pos="742,782,1181,852">Opportunity</word>
+						<word pos="1200,781,1303,836">for</word>
+						<word pos="1324,781,1586,836">Reform</word>
+						<word pos="1608,782,1674,835">in</word>
+						<word pos="1697,781,1955,852">Turkey</word>
+						<word pos="401,883,627,935">Thursday</word>
+						<word pos="645,885,700,925">31</word>
+						<word pos="718,883,810,935">July</word>
+						<word pos="828,885,946,925">2008</word>
+						<word pos="418,1024,472,1077">by</word>
+						<word pos="492,1024,587,1066">Fadi</word>
+						<word pos="609,1024,794,1074">Hakura,</word>
+						<word pos="813,1026,1044,1066">Associate</word>
+						<word pos="1066,1024,1234,1074">Fellow,</word>
+						<word pos="1257,1027,1427,1077">Europe</word>
+						<word pos="403,1168,468,1208">On</word>
+						<word pos="489,1168,546,1208">30</word>
+						<word pos="562,1166,666,1218">July,</word>
+						<word pos="685,1166,764,1208">the</word>
+						<word pos="784,1166,1126,1208">Constitutional</word>
+						<word pos="1148,1168,1281,1208">Court</word>
+						<word pos="1300,1166,1489,1208">allowed</word>
+						<word pos="1508,1166,1587,1208">the</word>
+						<word pos="1608,1166,1744,1218">ruling</word>
+						<word pos="1765,1166,2133,1208">Islamist-rooted</word>
+						<word pos="2151,1168,2314,1208">Justice</word>
+						<word pos="2334,1166,2420,1208">and</word>
+						<word pos="2444,1166,2773,1218">Development</word>
+						<word pos="405,1254,529,1304">Party</word>
+						<word pos="548,1250,676,1303">(&#1040;&#1050;&#1056;)</word>
+						<word pos="694,1257,743,1293">to</word>
+						<word pos="763,1264,929,1304">escape</word>
+						<word pos="948,1264,970,1293">a</word>
+						<word pos="993,1251,1078,1293">ban</word>
+						<word pos="1101,1251,1154,1304">by</word>
+						<word pos="1172,1264,1194,1293">a</word>
+						<word pos="1214,1251,1417,1293">whisker.</word>
+						<word pos="405,1393,553,1435">Under</word>
+						<word pos="570,1393,649,1435">the</word>
+						<word pos="666,1393,842,1435">Turkish</word>
+						<word pos="863,1395,1171,1443">constitution,</word>
+						<word pos="1190,1393,1269,1435">the</word>
+						<word pos="1289,1393,1631,1435">Constitutional</word>
+						<word pos="1653,1395,1787,1435">Court</word>
+						<word pos="1807,1393,1885,1435">has</word>
+						<word pos="1903,1393,1981,1435">the</word>
+						<word pos="2003,1405,2157,1445">power</word>
+						<word pos="2175,1393,2320,1435">either</word>
+						<word pos="2335,1398,2385,1435">to</word>
+						<word pos="2406,1393,2490,1435">ban</word>
+						<word pos="2511,1405,2533,1435">a</word>
+						<word pos="2556,1393,2743,1445">political</word>
+						<word pos="2766,1398,2891,1445">party</word>
+						<word pos="403,1478,489,1520">and</word>
+						<word pos="511,1480,563,1520">its</word>
+						<word pos="584,1484,709,1531">party</word>
+						<word pos="727,1478,912,1520">officials</word>
+						<word pos="931,1491,981,1520">or</word>
+						<word pos="998,1478,1305,1531">alternatively</word>
+						<word pos="1323,1478,1454,1531">apply</word>
+						<word pos="1471,1478,1674,1520">financial</word>
+						<word pos="1695,1480,1924,1520">sanctions</word>
+						<word pos="1941,1478,2011,1520">for</word>
+						<word pos="2029,1478,2317,1520">anti-secular</word>
+						<word pos="2334,1480,2562,1520">activities.</word>
+						<word pos="2582,1481,2615,1520">A</word>
+						<word pos="2634,1480,2864,1520">minimum</word>
+						<word pos="403,1564,452,1606">of</word>
+						<word pos="467,1577,605,1606">seven</word>
+						<word pos="625,1564,674,1606">of</word>
+						<word pos="688,1564,768,1606">the</word>
+						<word pos="787,1564,958,1606">Court's</word>
+						<word pos="977,1564,1135,1606">eleven</word>
+						<word pos="1152,1564,1312,1617">judges</word>
+						<word pos="1334,1570,1453,1606">must</word>
+						<word pos="1469,1570,1576,1606">vote</word>
+						<word pos="1594,1570,1643,1606">to</word>
+						<word pos="1661,1564,1766,1606">shut</word>
+						<word pos="1784,1564,1917,1606">down</word>
+						<word pos="1938,1577,1960,1606">a</word>
+						<word pos="1983,1564,2170,1617">political</word>
+						<word pos="2193,1570,2330,1617">party.</word>
+						<word pos="405,1709,460,1758">By</word>
+						<word pos="477,1718,499,1748">a</word>
+						<word pos="521,1708,595,1748">6-5</word>
+						<word pos="617,1708,797,1758">margin,</word>
+						<word pos="816,1706,895,1748">the</word>
+						<word pos="915,1708,1049,1748">Court</word>
+						<word pos="1066,1705,1137,1748">fell</word>
+						<word pos="1154,1708,1245,1758">just</word>
+						<word pos="1262,1706,1388,1748">short</word>
+						<word pos="1407,1705,1456,1748">of</word>
+						<word pos="1470,1706,1549,1748">the</word>
+						<word pos="1567,1706,1800,1748">threshold</word>
+						<word pos="1823,1718,2062,1758">necessary</word>
+						<word pos="2078,1705,2148,1748">for</word>
+						<word pos="2165,1718,2220,1748">an</word>
+						<word pos="2240,1706,2437,1758">outright</word>
+						<word pos="2458,1706,2559,1756">ban;</word>
+						<word pos="2581,1706,2755,1748">instead</word>
+						<word pos="2778,1708,2833,1748">10</word>
+						<word pos="403,1797,483,1833">out</word>
+						<word pos="501,1791,550,1833">of</word>
+						<word pos="564,1791,643,1833">the</word>
+						<word pos="665,1794,718,1833">11</word>
+						<word pos="735,1791,895,1844">judges</word>
+						<word pos="914,1791,1199,1833">determined</word>
+						<word pos="1218,1791,1318,1833">that</word>
+						<word pos="1335,1791,1414,1833">the</word>
+						<word pos="1432,1794,1526,1833">&#1040;&#1050;&#1056;</word>
+						<word pos="1544,1804,1637,1833">was</word>
+						<word pos="1656,1804,1678,1833">a</word>
+						<word pos="1698,1791,1812,1833">focal</word>
+						<word pos="1835,1793,1959,1844">point</word>
+						<word pos="1976,1791,2046,1833">for</word>
+						<word pos="2064,1791,2352,1833">anti-secular</word>
+						<word pos="2369,1793,2583,1833">activities</word>
+						<word pos="2603,1791,2689,1833">and</word>
+						<word pos="404,1877,609,1929">imposed</word>
+						<word pos="630,1890,652,1919">a</word>
+						<word pos="672,1868,797,1919">&#194;&#163;10</word>
+						<word pos="817,1877,977,1919">million</word>
+						<word pos="1000,1883,1237,1930">monetary</word>
+						<word pos="1253,1877,1358,1919">fine.</word>
+						<word pos="405,2021,550,2061">Hasim</word>
+						<word pos="573,2019,678,2069">Kilic,</word>
+						<word pos="697,2019,776,2061">the</word>
+						<word pos="798,2019,1028,2061">President</word>
+						<word pos="1046,2018,1095,2061">of</word>
+						<word pos="1109,2019,1188,2061">the</word>
+						<word pos="1207,2021,1354,2069">Court,</word>
+						<word pos="1376,2019,1583,2061">declared</word>
+						<word pos="1603,2019,1702,2061">that</word>
+						<word pos="1719,2019,1798,2061">the</word>
+						<word pos="1819,2019,1955,2071">ruling</word>
+						<word pos="1972,2031,2065,2061">was</word>
+						<word pos="2084,2031,2107,2061">a</word>
+						<word pos="2127,2024,2248,2061">stern</word>
+						<word pos="2268,2021,2466,2071">warning</word>
+						<word pos="2483,2025,2532,2061">to</word>
+						<word pos="2549,2019,2628,2061">the</word>
+						<word pos="2646,2021,2741,2060">&#1040;&#1050;&#1056;</word>
+						<word pos="2760,2019,2846,2061">and</word>
+						<word pos="403,2104,585,2146">advised</word>
+						<word pos="604,2104,683,2146">the</word>
+						<word pos="704,2110,829,2157">party</word>
+						<word pos="845,2110,894,2146">to</word>
+						<word pos="915,2104,1170,2146">internalise</word>
+						<word pos="1188,2104,1266,2146">the</word>
+						<word pos="1286,2106,1575,2157">appropriate</word>
+						<word pos="1596,2104,1770,2146">lessons</word>
+						<word pos="1787,2104,1903,2146">from</word>
+						<word pos="1922,2104,2001,2146">the</word>
+						<word pos="2020,2117,2138,2146">case.</word>
+						<word pos="400,2247,739,2298">Aftermath</word>
+						<word pos="760,2247,827,2298">of</word>
+						<word pos="841,2249,1024,2298">Court</word>
+						<word pos="1042,2247,1256,2314">Ruling</word>
+						<word pos="401,2343,567,2395">Turkey</word>
+						<word pos="587,2343,665,2385">has</word>
+						<word pos="684,2343,875,2385">avoided</word>
+						<word pos="897,2343,1159,2385">immediate</word>
+						<word pos="1180,2345,1460,2395">uncertainty</word>
+						<word pos="1480,2343,1533,2395">by</word>
+						<word pos="1550,2343,1629,2385">the</word>
+						<word pos="1648,2343,1896,2385">avoidance</word>
+						<word pos="1915,2343,1964,2385">of</word>
+						<word pos="1980,2355,2002,2385">a</word>
+						<word pos="2023,2343,2197,2385">closure</word>
+						<word pos="2216,2343,2265,2385">of</word>
+						<word pos="2281,2356,2303,2385">a</word>
+						<word pos="2326,2349,2451,2395">party</word>
+						<word pos="2468,2343,2610,2385">which</word>
+						<word pos="2629,2355,2732,2385">won</word>
+						<word pos="2751,2346,2809,2385">47</word>
+						<word pos="405,2434,590,2481">percent</word>
+						<word pos="609,2428,658,2471">of</word>
+						<word pos="672,2429,751,2471">the</word>
+						<word pos="769,2435,875,2471">vote</word>
+						<word pos="896,2431,934,2470">in</word>
+						<word pos="953,2429,1032,2471">the</word>
+						<word pos="1049,2429,1141,2481">July</word>
+						<word pos="1159,2431,1277,2471">2007</word>
+						<word pos="1295,2429,1476,2481">general</word>
+						<word pos="1496,2429,1728,2471">elections.</word>
+						<word pos="1752,2429,2065,2471">International</word>
+						<word pos="2085,2428,2253,2471">factors</word>
+						<word pos="2271,2453,2285,2457">-</word>
+						<word pos="2306,2429,2581,2481">particularly</word>
+						<word pos="2598,2429,2677,2471">the</word>
+						<word pos="404,2517,703,2557">intervention</word>
+						<word pos="724,2514,773,2557">of</word>
+						<word pos="787,2515,865,2557">the</word>
+						<word pos="887,2518,1117,2567">European</word>
+						<word pos="1140,2517,1281,2557">Union</word>
+						<word pos="1303,2514,1416,2566">(EU),</word>
+						<word pos="1435,2515,1514,2557">the</word>
+						<word pos="1536,2515,1695,2557">United</word>
+						<word pos="1715,2517,1863,2557">States</word>
+						<word pos="1882,2515,1969,2557">and</word>
+						<word pos="1988,2514,2160,2567">foreign</word>
+						<word pos="2182,2517,2402,2557">investors</word>
+						<word pos="2420,2539,2435,2543">-</word>
+						<word pos="2453,2515,2694,2557">combined</word>
+						<word pos="2714,2515,2818,2557">with</word>
+						<word pos="2839,2527,2861,2557">a</word>
+						<word pos="403,2600,577,2642">divided</word>
+						<word pos="600,2600,744,2653">public</word>
+						<word pos="763,2602,944,2653">opinion</word>
+						<word pos="965,2613,1092,2642">seem</word>
+						<word pos="1111,2606,1160,2642">to</word>
+						<word pos="1181,2600,1293,2642">have</word>
+						<word pos="1314,2600,1471,2653">played</word>
+						<word pos="1492,2613,1514,2642">a</word>
+						<word pos="1535,2600,1690,2642">crucial</word>
+						<word pos="1713,2600,1804,2642">role</word>
+						<word pos="1824,2602,1862,2642">in</word>
+						<word pos="1881,2600,1960,2642">the</word>
+						<word pos="1980,2600,2150,2642">Court's</word>
+						<word pos="2170,2600,2471,2642">calculations.</word>
+						<word pos="400,2742,489,2784">The</word>
+						<word pos="507,2744,602,2783">&#1040;&#1050;&#1056;</word>
+						<word pos="623,2754,725,2784">now</word>
+						<word pos="745,2742,823,2784">has</word>
+						<word pos="842,2754,864,2784">a</word>
+						<word pos="884,2742,1047,2794">golden</word>
+						<word pos="1069,2744,1361,2794">opportunity</word>
+						<word pos="1377,2747,1427,2784">to</word>
+						<word pos="1447,2742,1680,2784">introduce</word>
+						<word pos="1700,2754,1754,2784">an</word>
+						<word pos="1775,2742,2017,2784">ambitious</word>
+						<word pos="2038,2742,2234,2794">package</word>
+						<word pos="2253,2741,2302,2784">of</word>
+						<word pos="2318,2744,2567,2792">economic,</word>
+						<word pos="2590,2742,2777,2794">political</word>
+						<word pos="2798,2742,2884,2784">and</word>
+						<word pos="402,2828,535,2870">social</word>
+						<word pos="558,2827,747,2870">reforms</word>
+						<word pos="764,2834,813,2870">to</word>
+						<word pos="834,2828,945,2880">push</word>
+						<word pos="965,2828,1044,2870">the</word>
+						<word pos="1063,2833,1251,2880">country</word>
+						<word pos="1269,2828,1401,2880">along</word>
+						<word pos="1417,2828,1496,2870">the</word>
+						<word pos="1517,2828,1622,2880">path</word>
+						<word pos="1643,2827,1692,2870">of</word>
+						<word pos="1711,2830,1769,2870">EU</word>
+						<word pos="1791,2830,2021,2870">accession</word>
+						<word pos="2042,2828,2129,2870">and</word>
+						<word pos="2150,2830,2387,2870">economic</word>
+						<word pos="2407,2830,2669,2880">prosperity.</word>
+						<word pos="405,2913,670,2966">Essentially,</word>
+						<word pos="689,2913,768,2955">the</word>
+						<word pos="790,2919,914,2966">party</word>
+						<word pos="934,2913,1012,2955">has</word>
+						<word pos="1030,2913,1109,2955">the</word>
+						<word pos="1128,2915,1284,2966">option</word>
+						<word pos="1305,2913,1451,2955">either</word>
+						<word pos="1466,2919,1515,2955">to</word>
+						<word pos="1535,2913,1720,2955">embark</word>
+						<word pos="1738,2926,1795,2955">on</word>
+						<word pos="1816,2926,1838,2955">a</word>
+						<word pos="1861,2913,2025,2955">reform</word>
+						<word pos="2048,2926,2333,2966">programme</word>
+						<word pos="2352,2938,2367,2942">-</word>
+						<word pos="2386,2926,2408,2955">a</word>
+						<word pos="2429,2913,2665,2955">dominant</word>
+						<word pos="2682,2913,2860,2955">feature</word>
+						<word pos="403,2999,452,3041">of</word>
+						<word pos="469,3001,520,3041">its</word>
+						<word pos="538,2999,633,3041">first</word>
+						<word pos="650,3005,766,3041">term</word>
+						<word pos="788,3001,825,3041">in</word>
+						<word pos="846,2999,980,3041">office</word>
+						<word pos="1000,3023,1014,3028">-</word>
+						<word pos="1032,3011,1083,3041">or</word>
+						<word pos="1100,3001,1313,3041">continue</word>
+						<word pos="1332,2999,1454,3041">what</word>
+						<word pos="1474,3012,1607,3051">many</word>
+						<word pos="1626,2999,1861,3051">perceived</word>
+						<word pos="1882,3012,1930,3041">as</word>
+						<word pos="1947,2999,2026,3041">the</word>
+						<word pos="2046,2999,2425,3041">confrontational</word>
+						<word pos="2448,2999,2617,3051">politics</word>
+						<word pos="2637,2999,2723,3041">and</word>
+						<word pos="2742,2999,2821,3041">the</word>
+						<word pos="404,3085,608,3137">religious</word>
+						<word pos="627,3085,802,3137">agenda</word>
+						<word pos="823,3085,872,3127">of</word>
+						<word pos="889,3087,940,3127">its</word>
+						<word pos="959,3085,1129,3127">second</word>
+						<word pos="1148,3091,1264,3127">term</word>
+						<word pos="1286,3087,1324,3127">in</word>
+						<word pos="1345,3085,1493,3127">office.</word>
+						<word pos="405,3229,434,3268">It</word>
+						<word pos="453,3228,485,3268">is</word>
+						<word pos="503,3226,583,3268">still</word>
+						<word pos="606,3226,786,3268">unclear</word>
+						<word pos="803,3239,851,3268">as</word>
+						<word pos="868,3232,917,3268">to</word>
+						<word pos="935,3226,1057,3268">what</word>
+						<word pos="1074,3226,1153,3268">the</word>
+						<word pos="1175,3226,1315,3279">policy</word>
+						<word pos="1333,3227,1548,3268">direction</word>
+						<word pos="1567,3226,1646,3268">the</word>
+						<word pos="1664,3229,1759,3268">&#1040;&#1050;&#1056;</word>
+						<word pos="1777,3226,1857,3268">will</word>
+						<word pos="1876,3226,1994,3268">take.</word>
+						<word pos="2017,3226,2348,3276">Nevertheless,</word>
+						<word pos="2368,3239,2498,3268">some</word>
+						<word pos="2519,3226,2599,3279">key</word>
+						<word pos="2618,3227,2858,3268">indicators</word>
+						<word pos="401,3318,450,3354">to</word>
+						<word pos="468,3312,613,3354">watch</word>
+						<word pos="636,3325,736,3364">may</word>
+						<word pos="755,3312,928,3354">include</word>
+						<word pos="947,3312,1155,3354">whether</word>
+						<word pos="1175,3314,1313,3354">Prime</word>
+						<word pos="1335,3314,1537,3354">Minister</word>
+						<word pos="1557,3315,1701,3364">Recep</word>
+						<word pos="1719,3314,1876,3364">Tayyip</word>
+						<word pos="1897,3312,2094,3364">Erdo&#287;an</word>
+						<word pos="2116,3312,2355,3354">reshuffles</word>
+						<word pos="2372,3312,2451,3354">the</word>
+						<word pos="2470,3312,2663,3362">cabinet,</word>
+						<word pos="2684,3325,2829,3364">opens</word>
+						<word pos="2848,3325,2902,3354">an</word>
+						<word pos="404,3398,611,3440">inclusive</word>
+						<word pos="630,3398,717,3440">and</word>
+						<word pos="738,3398,1006,3440">consensual</word>
+						<word pos="1027,3398,1196,3440">debate</word>
+						<word pos="1215,3410,1273,3440">on</word>
+						<word pos="1294,3410,1316,3440">a</word>
+						<word pos="1339,3410,1439,3440">new</word>
+						<word pos="1459,3398,1605,3440">liberal</word>
+						<word pos="1626,3398,1790,3440">civilian</word>
+						<word pos="1811,3400,2104,3440">constitution</word>
+						<word pos="2124,3398,2211,3440">and</word>
+						<word pos="2232,3398,2475,3440">concludes</word>
+						<word pos="2494,3410,2516,3440">a</word>
+						<word pos="2539,3398,2729,3440">market-</word>
+						<word pos="401,3483,589,3536">friendly</word>
+						<word pos="606,3490,874,3536">agreement</word>
+						<word pos="891,3484,996,3526">with</word>
+						<word pos="1015,3484,1094,3526">the</word>
+						<word pos="1116,3484,1429,3526">International</word>
+						<word pos="1453,3487,1692,3536">Monetary</word>
+						<word pos="1712,3484,1843,3526">Fund.</word>
+						<word pos="403,3627,468,3667">On</word>
+						<word pos="489,3637,511,3667">a</word>
+						<word pos="534,3625,727,3667">broader</word>
+						<word pos="747,3625,869,3675">level,</word>
+						<word pos="888,3631,981,3667">two</word>
+						<word pos="1002,3627,1246,3677">important</word>
+						<word pos="1267,3625,1505,3677">long-term</word>
+						<word pos="1524,3625,1681,3667">trends</word>
+						<word pos="1702,3638,1802,3677">may</word>
+						<word pos="1821,3625,2043,3667">influence</word>
+						<word pos="2061,3625,2140,3667">the</word>
+						<word pos="2158,3625,2309,3667">future</word>
+						<word pos="2328,3638,2489,3667">course</word>
+						<word pos="2508,3625,2557,3667">of</word>
+						<word pos="2571,3625,2750,3677">Turkey.</word>
+						<word pos="405,3766,560,3819">Firstly,</word>
+						<word pos="583,3772,737,3808">recent</word>
+						<word pos="757,3766,866,3819">polls</word>
+						<word pos="887,3767,1078,3808">indicate</word>
+						<word pos="1096,3766,1195,3808">that</word>
+						<word pos="1211,3766,1343,3808">Turks</word>
+						<word pos="1364,3766,1542,3808">blamed</word>
+						<word pos="1565,3766,1672,3808">both</word>
+						<word pos="1692,3766,1771,3808">the</word>
+						<word pos="1789,3769,1883,3808">&#1040;&#1050;&#1056;</word>
+						<word pos="1903,3767,1989,3808">and</word>
+						<word pos="2009,3766,2087,3808">the</word>
+						<word pos="2107,3766,2361,3808">secularists</word>
+						<word pos="2378,3766,2448,3808">for</word>
+						<word pos="2464,3766,2543,3808">the</word>
+						<word pos="2564,3766,2751,3819">political</word>
+						<word pos="403,3854,534,3894">crisis.</word>
+						<word pos="552,3852,641,3894">The</word>
+						<word pos="663,3858,936,3904">percentage</word>
+						<word pos="956,3852,1005,3894">of</word>
+						<word pos="1022,3852,1323,3894">"undecided"</word>
+						<word pos="1343,3858,1495,3894">voters</word>
+						<word pos="1513,3865,1634,3904">grew</word>
+						<word pos="1651,3852,1740,3894">fast</word>
+						<word pos="1758,3858,1804,3894">at</word>
+						<word pos="1820,3852,1899,3894">the</word>
+						<word pos="1919,3865,2119,3904">expense</word>
+						<word pos="2139,3852,2187,3894">of</word>
+						<word pos="2202,3852,2281,3894">the</word>
+						<word pos="2298,3855,2393,3894">&#1040;&#1050;&#1056;</word>
+						<word pos="2413,3852,2499,3894">and</word>
+						<word pos="2518,3852,2597,3894">the</word>
+						<word pos="2616,3854,2875,3904">opposition</word>
+						<word pos="405,3940,583,3990">parties,</word>
+						<word pos="603,3938,689,3980">and</word>
+						<word pos="709,3941,766,3980">45</word>
+						<word pos="788,3944,974,3990">percent</word>
+						<word pos="992,3938,1041,3980">of</word>
+						<word pos="1055,3938,1187,3980">Turks</word>
+						<word pos="1206,3938,1383,3980">desired</word>
+						<word pos="1406,3951,1506,3980">new</word>
+						<word pos="1526,3938,1713,3990">political</word>
+						<word pos="1736,3940,1900,3990">parties</word>
+						<word pos="1919,3940,2259,3990">concentrating</word>
+						<word pos="2277,3951,2335,3980">on</word>
+						<word pos="2358,3938,2785,3980">bread-and-butter</word>
+						<word pos="404,4026,559,4066">issues.</word>
+						<word pos="578,4024,674,4066">This</word>
+						<word pos="693,4030,900,4076">suggests</word>
+						<word pos="918,4024,1017,4066">that</word>
+						<word pos="1036,4036,1058,4066">a</word>
+						<word pos="1078,4026,1275,4076">growing</word>
+						<word pos="1293,4036,1430,4076">space</word>
+						<word pos="1447,4023,1517,4066">for</word>
+						<word pos="1535,4026,1719,4066">centrist</word>
+						<word pos="1739,4024,1984,4076">politicians</word>
+						<word pos="2005,4036,2105,4076">may</word>
+						<word pos="2124,4024,2236,4066">have</word>
+						<word pos="2258,4024,2374,4066">been</word>
+						<word pos="2395,4026,2637,4076">emerging.</word>
+					</p>
+				</textclip>
+				<textclip>
+					<articlePage pgref="2">cho_chrx_2008_hakura_000_0002</articlePage>
+					<p>
+						<word pos="402,417,633,469">Secondly,</word>
+						<word pos="652,417,819,469">Turkey</word>
+						<word pos="838,418,869,459">is</word>
+						<word pos="890,417,1168,469">undergoing</word>
+						<word pos="1187,419,1417,459">extensive</word>
+						<word pos="1436,417,1647,469">changes.</word>
+						<word pos="1667,419,1854,469">Surveys</word>
+						<word pos="1873,417,2189,459">demonstrate</word>
+						<word pos="2206,417,2306,459">that</word>
+						<word pos="2326,417,2491,459">Islamic</word>
+						<word pos="2509,417,2595,459">and</word>
+						<word pos="2616,417,2790,459">secular</word>
+						<word pos="401,502,555,544">values</word>
+						<word pos="574,515,649,544">are</word>
+						<word pos="668,504,937,555">converging</word>
+						<word pos="955,515,1122,555">among</word>
+						<word pos="1140,515,1195,544">an</word>
+						<word pos="1217,502,1505,555">increasingly</word>
+						<word pos="1525,502,1759,555">pluralistic</word>
+						<word pos="1778,502,1864,544">and</word>
+						<word pos="1885,502,2059,544">diverse</word>
+						<word pos="2077,502,2253,544">Turkish</word>
+						<word pos="2276,502,2432,554">public.</word>
+						<word pos="2452,505,2485,544">A</word>
+						<word pos="2502,502,2787,555">secularising</word>
+						<word pos="405,588,527,630">Islam</word>
+						<word pos="548,601,741,641">appears</word>
+						<word pos="758,594,807,630">to</word>
+						<word pos="828,588,883,630">be</word>
+						<word pos="904,590,942,630">in</word>
+						<word pos="961,588,1040,630">the</word>
+						<word pos="1061,588,1236,641">making</word>
+						<word pos="1254,588,1485,630">sustained</word>
+						<word pos="1508,588,1562,641">by</word>
+						<word pos="1578,588,1657,630">the</word>
+						<word pos="1675,588,1824,630">forces</word>
+						<word pos="1843,588,1892,630">of</word>
+						<word pos="1906,588,2232,641">globalisation,</word>
+						<word pos="2255,591,2314,630">EU</word>
+						<word pos="2336,590,2566,630">accession</word>
+						<word pos="2587,588,2673,630">and</word>
+						<word pos="2694,590,2837,630">socio&#172;</word>
+						<word pos="403,676,639,716">economic</word>
+						<word pos="659,674,1029,716">modernisation.</word>
+						<word pos="401,815,489,857">The</word>
+						<word pos="510,815,726,868">interplay</word>
+						<word pos="744,815,792,857">of</word>
+						<word pos="807,815,940,857">these</word>
+						<word pos="959,815,1059,857">dual</word>
+						<word pos="1079,815,1236,857">trends</word>
+						<word pos="1255,815,1463,868">depends</word>
+						<word pos="1482,828,1539,857">on</word>
+						<word pos="1558,815,1637,857">the</word>
+						<word pos="1659,815,1799,868">policy</word>
+						<word pos="1816,815,1996,857">choices</word>
+						<word pos="2015,815,2064,857">of</word>
+						<word pos="2078,815,2156,857">the</word>
+						<word pos="2175,818,2283,857">&#1040;&#1050;&#1056;.</word>
+						<word pos="2307,817,2632,868">Re-occupying</word>
+						<word pos="2649,815,2728,857">the</word>
+						<word pos="2747,821,2903,857">centre</word>
+						<word pos="402,901,574,953">ground</word>
+						<word pos="595,901,644,943">of</word>
+						<word pos="658,901,834,943">Turkish</word>
+						<word pos="856,901,1026,953">politics</word>
+						<word pos="1045,901,1174,943">could</word>
+						<word pos="1195,901,1324,943">allow</word>
+						<word pos="1340,901,1420,943">the</word>
+						<word pos="1438,904,1532,943">&#1040;&#1050;&#1056;</word>
+						<word pos="1550,907,1599,943">to</word>
+						<word pos="1618,901,1899,943">consolidate</word>
+						<word pos="1920,903,1971,943">its</word>
+						<word pos="1990,903,2183,953">winning</word>
+						<word pos="2201,901,2409,943">coalition</word>
+						<word pos="2430,901,2478,943">of</word>
+						<word pos="2496,901,2642,943">liberal</word>
+						<word pos="402,987,670,1037">secularists,</word>
+						<word pos="691,989,881,1039">aspiring</word>
+						<word pos="902,987,1066,1029">middle</word>
+						<word pos="1085,987,1265,1037">classes,</word>
+						<word pos="1287,987,1671,1039">underprivileged</word>
+						<word pos="1690,987,1836,1037">Turks,</word>
+						<word pos="1855,987,2088,1029">Anatolian</word>
+						<word pos="2111,987,2501,1039">businesspeople,</word>
+						<word pos="2523,987,2661,1029">urban</word>
+						<word pos="2684,999,2797,1039">poor</word>
+						<word pos="2814,987,2901,1029">and</word>
+						<word pos="405,1073,552,1115">Kurds.</word>
+						<word pos="575,1073,755,1115">Further</word>
+						<word pos="771,1073,860,1115">tilts</word>
+						<word pos="878,1078,926,1115">to</word>
+						<word pos="944,1073,1023,1115">the</word>
+						<word pos="1044,1073,1167,1125">right,</word>
+						<word pos="1188,1085,1245,1115">on</word>
+						<word pos="1265,1073,1344,1115">the</word>
+						<word pos="1363,1073,1496,1115">other</word>
+						<word pos="1515,1073,1647,1123">hand,</word>
+						<word pos="1668,1073,1797,1115">could</word>
+						<word pos="1820,1073,2081,1125">potentially</word>
+						<word pos="2101,1072,2273,1115">benefit</word>
+						<word pos="2291,1073,2486,1115">credible</word>
+						<word pos="2507,1072,2877,1123">liberal-minded,</word>
+						<word pos="402,1159,774,1211">secular-leaning</word>
+						<word pos="794,1159,981,1211">political</word>
+						<word pos="1004,1159,1315,1211">personalities</word>
+						<word pos="1334,1159,1437,1201">who</word>
+						<word pos="1455,1159,1563,1201">wish</word>
+						<word pos="1582,1164,1631,1201">to</word>
+						<word pos="1653,1159,1768,1201">build</word>
+						<word pos="1789,1159,2022,1201">coalitions</word>
+						<word pos="2041,1158,2090,1201">of</word>
+						<word pos="2107,1159,2218,1211">right</word>
+						<word pos="2236,1159,2322,1201">and</word>
+						<word pos="2345,1158,2435,1209">left,</word>
+						<word pos="2456,1159,2542,1201">and</word>
+						<word pos="2563,1171,2639,1201">are</word>
+						<word pos="403,1244,702,1286">comfortable</word>
+						<word pos="721,1244,825,1286">with</word>
+						<word pos="847,1244,1080,1286">individual</word>
+						<word pos="1101,1244,1256,1286">choice</word>
+						<word pos="1275,1244,1417,1286">about</word>
+						<word pos="1437,1244,1737,1286">headscarves</word>
+						<word pos="1755,1244,1842,1286">and</word>
+						<word pos="1863,1244,2050,1286">alcohol.</word>
+					</p>
+				</textclip>
+			</text>
+		</article>
+	</page>
+	<page id="2" type="body_page" firstPage="No">
+		<pageImage pageIndicator="single" width="3307" height="4678" type="jpeg" colorimage="color" pagePosition="left">cho_chrx_2008_hakura_000_0002</pageImage>
+	</page>
+</chapter>
