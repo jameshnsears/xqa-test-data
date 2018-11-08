@@ -1,2 +1,2 @@
 # xqa-test-data
-* sample XML files.
+* test data - XML files - used by XQA.
